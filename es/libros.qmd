@@ -1,0 +1,229 @@
+---
+title: "Libros"
+pagetitle: "Libros — Werner L. Hernani-Limarino"
+toc: false
+lang: es
+---
+
+::: {.lang-switch}
+[English](../books.qmd) · [Inicio](index.qmd) · [Investigación](investigacion.qmd) · [CV](cv.qmd) · [Código](codigo.qmd)
+:::
+
+::: {.section-rule}
+Libros
+:::
+
+<!-- ── Mi Otro Género ── -->
+::: {.book-card}
+::: {.book-cover}
+![](../images/covers/mi_otro_genero.jpg)
+:::
+::: {.book-info}
+::: {.book-title}
+Mi Otro Género
+:::
+::: {.book-subtitle}
+Un ejercicio contrafactual sobre la vida que el género te negó
+:::
+::: {.book-meta}
+Con Alejandra Villegas Gutierrez · Primera edición · 2026
+:::
+::: {.book-summary}
+Carla y Carlos nacieron el mismo día, de los mismos padres, en el mismo barrio de La Paz. Treinta y dos años después, Carlos es ingeniero civil con un salario estable; Carla abandonó la universidad cuando quedó embarazada y ahora trabaja a tiempo parcial vendiendo ropa por catálogo. ¿Qué parte de esa divergencia se debe al cromosoma?
+
+*Mi Otro Género* plantea esa pregunta con rigor económico y la responde con tres capas de evidencia: estimaciones a nivel poblacional a partir de encuestas nacionales bolivianas, comparaciones dentro de parejas de gemelos fraternos de sexo opuesto, y entrevistas estructuradas con esos mismos gemelos. Cada capa responde una pregunta diferente: *cuánto*, *cuánto se debe al género* y *cómo*. Bolivia es el laboratorio: un país donde la paridad de género legislativa coexiste con algunas de las normas de género más persistentes de América Latina, donde una mujer puede ocupar un escaño en el parlamento y aún así ser incapaz de decidir si usa anticonceptivos.
+
+El libro mide el costo de la asignación de género en ambas direcciones — lo que pierden las mujeres *y* lo que renuncian los hombres — tratando a ambos como agentes racionales que navegan un sistema de restricciones que no eligieron.
+:::
+::: {.book-links}
+[Descargar libro](../files/mi_otro_genero.pdf){.book-link}
+[Presentación (EN)](../files/mi_otro_genero_slides_EN.pdf){.book-link}
+[Presentación (ES)](../files/mi_otro_genero_slides_ES.pdf){.book-link}
+:::
+:::
+:::
+
+---
+
+<!-- ── El Paisaje Roto ── -->
+::: {.book-card}
+::: {.book-cover}
+![](../images/covers/el_paisaje_roto.jpg)
+:::
+::: {.book-info}
+::: {.book-title}
+El Paisaje Roto
+:::
+::: {.book-subtitle}
+Movilidad social en Bolivia
+:::
+::: {.book-meta}
+Plural Editores · 2026
+:::
+::: {.book-summary}
+Bolivia pasó medio siglo construyendo escuelas, extendiendo caminos y aprobando reformas. Y sin embargo, dónde naces sigue determinando en gran medida dónde terminas. *El Paisaje Roto* pregunta por qué, y mapea la respuesta a través de los 339 municipios, cinco rondas censales (1976–2024) y cuatro dimensiones de estratificación: geografía, etnicidad, género y migración.
+
+El libro introduce el *paisaje de movilidad* como su metáfora central y herramienta analítica: un terreno de pendientes y portones. Las pendientes miden cuán empinado es el ascenso de una generación a la siguiente; los portones miden cuán firmemente está sellada la cima. Bolivia tiene dos trampas distintas — una trampa de pobreza que mantiene estancado al fondo, y una trampa de privilegio que mantiene cerrada la cúspide — y operan a través de mecanismos diferentes y requieren políticas distintas.
+
+La sección final plantea una pregunta incómoda: ¿quién se beneficia de la inmovilidad? Usando evidencia del experimento natural boliviano de los años 90, el libro identifica los actores, los cuatro mecanismos a través de los cuales se reproduce la ventaja, y lo que costaría y produciría una política de conectividad focalizada — construida sobre la clasificación ESCALERA/PORTÓN de los municipios.
+:::
+::: {.book-links}
+[Descargar libro](../files/el_paisaje_roto.pdf){.book-link}
+[Presentación (EN)](../files/slides_between_within_EN.pdf){.book-link}
+[Presentación (ES)](../files/slides_entre_dentro_ES.pdf){.book-link}
+:::
+:::
+:::
+
+---
+
+<!-- ── Structural Economics ── -->
+::: {.book-card}
+::: {.book-cover}
+![](../images/covers/structural_economics.jpg)
+:::
+::: {.book-info}
+::: {.book-title}
+Structural Economics
+:::
+::: {.book-subtitle}
+The General Case
+:::
+::: {.book-meta}
+Manuscrito en borrador · 2027
+:::
+::: {.book-summary}
+El modelo neoclásico descansa sobre un único supuesto: todos los agentes reciben igual peso en la agregación social, codificado como W = (1/N)**11**ʹ. *Structural Economics* reemplaza ese supuesto con una matriz de pesos arbitraria W — y muestra que todo el edificio neoclásico, desde los teoremas del bienestar hasta la teoría del crecimiento, es simplemente el caso especial donde W resulta ser uniforme. Este libro de texto es el caso general.
+
+La matriz de pesos se deriva de tres redes subyacentes que coexisten en toda economía: una red de producción e intercambio que determina quién transacciona con quién, una red de poder y negociación que determina cuyas preferencias prevalecen en el conflicto, y una red de información que determina cuyas creencias se tratan como autorizadas. Juntas, estas redes producen el vector propio de Perron que gobierna los resultados distributivos — una cantidad que la teoría estándar suprime en lugar de explicar.
+
+Organizado en siete partes, el libro cubre la reformulación matricial de la microeconomía y macroeconomía estándar, el modelo formal de formación endógena de preferencias (el cociente Ψ), la dinámica del cambio estructural, la medición mediante matrices de contabilidad social, y la economía política de la hegemonía y la contrahegemonía. El capítulo final, *El Caso General*, deriva las condiciones bajo las cuales el modelo neoclásico se sostiene — y documenta por qué casi nunca se cumplen.
+:::
+::: {.book-links}
+[Descargar borrador](../files/structural_economics.pdf){.book-link}
+:::
+:::
+:::
+
+---
+
+<!-- ── Hunger & Fire ── -->
+::: {.book-card}
+::: {.book-cover}
+![](../images/covers/hunger_fire.jpg)
+:::
+::: {.book-info}
+::: {.book-title}
+Hunger & Fire
+:::
+::: {.book-subtitle}
+Cómo las comidas de los oprimidos se convirtieron en los platos de los poderosos
+:::
+::: {.book-meta}
+2025
+:::
+::: {.book-summary}
+Todo economista conoce la mano invisible de Adam Smith. Este libro trata sobre la otra mitad: el puño invisible. Los alimentos más extraordinarios de la tierra fueron creados por las personas más oprimidas de la tierra. No como coincidencia. Como consecuencia. La restricción produce ingenio; la escasez produce creatividad. Las personas que recibieron los desechos — los huesos, las vísceras, los granos más baratos, las partes descartadas — transformaron esos desechos en cocinas de asombrosa profundidad y belleza. Y luego, con la predictibilidad de una ley física, los poderosos se apropiaron de esas cocinas.
+
+*Hunger & Fire* sigue diez platos a través de diez capítulos, cada uno arraigado en un lugar específico, una historia específica y una comunidad específica cuyo genio culinario el mundo ha consumido sin pago ni crédito adecuados: soul food y rabo de buey en el sur de Estados Unidos, ramen y las ruinas del imperio en Japón, feijoada en Brasil, hummus y la guerra del garbanzo en el Levante, jollof rice en África Occidental, el curry y el aplanamiento colonial de un continente, phở en Vietnam, tacos y la muerte del maíz sagrado en México, injera y el teff en Etiopía, y el chuño — la papa deshidratada por congelación que alimentó las minas de plata de Potosí — en Bolivia.
+
+Cada capítulo entreteje tres hilos: la economía política de cómo el poder moldeó la comida, la historia de los eventos específicos que produjeron la situación actual, y lo personal — comer y cocinar estos platos, frecuentemente con su hija Anahí, la crítica gastronómica más honesta que ha conocido.
+:::
+::: {.book-links}
+[Leer muestra (Intro + Cap. 1)](../files/hunger_fire_sample.pdf){.book-link}
+[Kindle](#){.book-link .book-link-buy}
+[Paperback](#){.book-link .book-link-buy}
+[Audible — próximamente]{.book-link .book-link-soon}
+:::
+:::
+:::
+
+---
+
+<!-- ── Protocols of Power ── -->
+::: {.book-card}
+::: {.book-cover}
+![](../images/covers/protocols_of_power.jpg)
+:::
+::: {.book-info}
+::: {.book-title}
+Protocols of Power
+:::
+::: {.book-subtitle}
+Stablecoins, soberanía y el nuevo orden monetario
+:::
+::: {.book-meta}
+2025
+:::
+::: {.book-summary}
+En Beirut, una madre usa un grupo de Telegram y una billetera Tron para pagar la matrícula universitaria de su hijo en París. Sin banco, sin código SWIFT, sin autorización gubernamental. Dos smartphones, una fe compartida en una stablecoin y una red blockchain que ningún ministerio de finanzas controla.
+
+*Protocols of Power* es un diagnóstico del silencioso golpe de estado que está reformando las finanzas globales — no ejecutado en parlamentos, sino en repositorios de GitHub, conjuntos de validadores y pruebas de conocimiento cero. Las stablecoins están dolarizando el mundo más rápido de lo que el FMI jamás pudo. Tether corriendo sobre Tron se ha convertido en un SWIFT informal, mercado de divisas y sistema de depósito en garantía para miles de millones de personas excluidas de las redes bancarias del primer mundo. Los exchanges se han convertido en bancos centrales apátridas. Los protocolos están absorbiendo las funciones que antes desempeñaban los imperios y los estados.
+
+El libro avanza a través de diez capítulos en cuatro partes: el colapso del orden de Bretton Woods y su reemplazo por una infraestructura en la sombra; los nuevos imperios (el yuan digital como estado de vigilancia, Binance como gobierno rival, USDC como finanzas institucionales en cadena); las nuevas armas monetarias (weaponización financiera del código, almacenamiento en frío como soberanía); y el desenlace — un dólar bifurcado y los contornos de un Bretton Woods II en la sombra. Cada capítulo abre con un Despacho desde el Frente: una escena ficcionalizada pero documentada desde Beirut, Lagos, San Francisco, Cantón, Estambul, Lima, La Habana, Accra y otros lugares. Los personajes son inventados; los sistemas que navegan son reales.
+:::
+::: {.book-links}
+[Leer muestra (Prólogo + Cap. 1)](../files/protocols_of_power_sample.pdf){.book-link}
+[Kindle](#){.book-link .book-link-buy}
+[Paperback](#){.book-link .book-link-buy}
+:::
+:::
+:::
+
+---
+
+<!-- ── Evaluando ── -->
+::: {.book-card}
+::: {.book-cover}
+![](../images/covers/evaluando_impacto.jpg)
+:::
+::: {.book-info}
+::: {.book-title}
+Evaluando el Impacto de las Políticas Públicas en Bolivia
+:::
+::: {.book-subtitle}
+Segunda Edición
+:::
+::: {.book-meta}
+Con P.M. Villarroel, C. Valencia y G. Mena · Fundación ARU / IISEC–UCB · 2015
+:::
+::: {.book-summary}
+Entre 2001 y 2015, Bolivia amplió drásticamente el gasto social — empleo de emergencia, pensiones universales, subsidios escolares, campañas de alfabetización, capacitación juvenil y microcrédito. El veredicto oficial sobre cada programa fue positivo. Este libro cuenta una historia diferente.
+
+Seis programas, seis métodos, una pregunta: *¿qué funcionó realmente?* Usando PSM, Diferencias en Diferencias, Regresión Discontinua difusa, Cambios en Cambios, modelos estructurales de hogares y Series de Tiempo Interrumpidas, los autores encuentran resultados más complejos e incómodos de lo que admiten las narrativas oficiales. PLANE estabilizó el consumo durante la crisis pero no generó empleabilidad. MPED produjo un gran salto en el empleo formal — que desapareció en 18 meses. La Renta Dignidad incrementó el ingreso de los hogares pero redujo significativamente la oferta laboral femenina. El Bono Juancito Pinto solo movió la matrícula para niños de 6 a 8 años. Yo Sí Puedo certificó a 824.000 adultos como "alfabetizados" mientras las pruebas directas mostraron prácticamente ninguna ganancia en comprensión. El microcrédito del BDP produjo efectos fuertes en manufactura y ninguno en agricultura.
+
+La lección transversal: la heterogeneidad es la regla, los efectos no deseados son comunes, y los impactos positivos tienden a ser transitorios. El argumento final del libro es institucional — Bolivia ya produce buena investigación; la restricción vinculante es la voluntad política de dejar que la evidencia importe.
+:::
+::: {.book-links}
+[GitHub](https://github.com/wernerhl/evaluando-impacto-bolivia){.book-link target="_blank"}
+:::
+:::
+:::
+
+---
+
+<!-- ── Los maestros ── -->
+::: {.book-card}
+::: {.book-cover}
+![](../images/covers/los_maestros.jpg)
+:::
+::: {.book-info}
+::: {.book-title}
+Los maestros en Bolivia: Impacto, incentivos y desempeño
+:::
+::: {.book-meta}
+Con M. Urquiola, W. Jiménez y M.L. Talavera · Editorial Sierpe · 2000
+:::
+::: {.book-summary}
+Bolivia había aumentado los salarios docentes, ampliado la formación de maestros e invertido fuertemente en reforma educativa — y sin embargo el rendimiento estudiantil se mantenía obstinadamente bajo. Este libro pregunta por qué y qué palancas de política funcionan realmente.
+
+Apoyándose en las pruebas SIMECAL, encuestas de hogares, encuestas a docentes e investigación cualitativa, los autores encuentran que las credenciales observables de los maestros y los niveles salariales tienen escaso impacto en el rendimiento estudiantil una vez controlado el contexto socioeconómico del alumnado. La motivación y el desempeño en realidad *declinan* con la antigüedad — precisamente la variable que impulsa la remuneración bajo el escalafón boliviano. En contraste, los maestros en escuelas privadas y de Fe y Alegría — instituciones con incentivos de desempeño más sólidos y mayor rendición de cuentas — muestran sistemáticamente mayor dedicación y mejores resultados.
+
+El libro reenmarca la pregunta de política: no "¿están bien pagados los maestros?" sino "¿cómo deben diseñarse el pago y los incentivos para atraer y motivar mejores maestros?". Evalúa los sistemas de incentivos propuestos para Bolivia — incluido el bono de permanencia rural y el esquema de incentivos colectivos — y provee recomendaciones de diseño concretas basadas en evidencia.
+:::
+::: {.book-links}
+[Leer en línea](http://biblioteca.usfa.edu.bo/cgi-bin/koha/opac-detail.pl?biblionumber=5816){.book-link target="_blank"}
+[Descargar PDF](https://www.aru.org.bo/REPEC/pdf/MaestrosBolivia.pdf){.book-link target="_blank"}
+:::
+:::
+:::

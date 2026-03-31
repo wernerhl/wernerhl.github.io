@@ -1,0 +1,84 @@
+---
+title: "Código"
+pagetitle: "Código — Werner L. Hernani-Limarino"
+toc: false
+lang: es
+---
+
+::: {.lang-switch}
+[English](../code.qmd) · [Inicio](index.qmd) · [Investigación](investigacion.qmd) · [Libros](libros.qmd) · [CV](cv.qmd)
+:::
+
+Repositorios de replicación de acceso abierto y herramientas de datos. Todo el código en [github.com/wernerhl](https://github.com/wernerhl).
+
+::: {.section-rule}
+Replicación de Investigación
+:::
+
+::: {.repo-grid}
+
+::: {.repo-card}
+#### [poverty-map-bolivia](https://github.com/wernerhl/poverty-map-bolivia)
+Estimación en áreas pequeñas de pobreza y nutrición en Bolivia (CPV 2024 + EH 2024). Pipeline DRF + BYM2 + Transporte Óptimo en R.
+[SAE]{.repo-tag} [R]{.repo-tag} [Bolivia]{.repo-tag}
+:::
+
+::: {.repo-card}
+#### [tail-test-replication](https://github.com/wernerhl/tail-test-replication)
+Código de replicación para *The Tail Test*: simulación factorial sobre la ventaja del DRF en estimación en áreas pequeñas. Censo Intercensal México 2015.
+[SAE]{.repo-tag} [R]{.repo-tag} [Simulación]{.repo-tag}
+:::
+
+::: {.repo-card}
+#### [BOL-NoReturns](https://github.com/wernerhl/BOL-NoReturns)
+Artículo Bolivia No Returns — incidencia distribucional de la crisis cambiaria boliviana 2024–2025.
+[Incidencia]{.repo-tag} [Bolivia]{.repo-tag} [R]{.repo-tag}
+:::
+
+::: {.repo-card}
+#### [iat-pilot](https://github.com/wernerhl/iat-pilot)
+Piloto del Test de Asociación Implícita sobre sesgo racial en América Latina.
+[Género y Normas]{.repo-tag} [ALC]{.repo-tag}
+:::
+
+:::
+
+::: {.section-rule}
+Pipelines de Datos
+:::
+
+::: {.repo-grid}
+
+::: {.repo-card}
+#### [BOL\_harmonization](https://github.com/wernerhl/BOL_harmonization)
+Pipeline de armonización de la Encuesta de Hogares de Bolivia, 2011–2024. Estandariza 14 rondas para análisis distribucional consistente en el tiempo.
+[Datos]{.repo-tag} [Stata]{.repo-tag} [Bolivia]{.repo-tag}
+:::
+
+::: {.repo-card}
+#### [BOL.data](https://github.com/wernerhl/BOL.data)
+Armonización anterior de encuestas de hogares bolivianas. Versión de legado.
+[Datos]{.repo-tag} [Bolivia]{.repo-tag}
+:::
+
+:::
+
+::: {.section-rule}
+Tableros y Herramientas
+:::
+
+::: {.repo-grid}
+
+::: {.repo-card}
+#### [ledgers-bolivia](https://github.com/wernerhl/ledgers-bolivia)
+*Ledgers of the Self-Employed* — tablero en vivo para contabilidad de empresas informales en Bolivia.
+[Tablero]{.repo-tag} [Informalidad]{.repo-tag} [Bolivia]{.repo-tag}
+:::
+
+::: {.repo-card}
+#### [bolivia-ews](https://github.com/wernerhl/bolivia-ews)
+Sistema de Alerta Temprana P2P Bolivia — herramienta de monitoreo distribucional en tiempo real.
+[Tablero]{.repo-tag} [Monitoreo]{.repo-tag} [Bolivia]{.repo-tag}
+:::
+
+:::

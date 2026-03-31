@@ -304,6 +304,21 @@ $body-color: #1a1a1a;
   pointer-events: none;
 }
 
+/* ── Language switcher ── */
+.lang-switch {
+  font-size: 0.82rem;
+  color: #888;
+  margin-bottom: 1.4rem;
+  padding-bottom: 0.7rem;
+  border-bottom: 1px solid #e8e8e2;
+  a {
+    color: #2a6496;
+    text-decoration: none;
+    border-bottom: 1px solid #aac4e0;
+    &:hover { border-bottom-color: #2a6496; }
+  }
+}
+
 /* ── Code / repo cards ── */
 .repo-grid {
   display: grid;

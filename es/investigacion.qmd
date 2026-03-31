@@ -1,0 +1,267 @@
+---
+title: "Investigación"
+pagetitle: "Investigación — Werner L. Hernani-Limarino"
+toc: true
+toc-title: "Temas"
+toc-depth: 2
+lang: es
+---
+
+::: {.lang-switch}
+[English](../research.qmd) · [Inicio](index.qmd) · [Libros](libros.qmd) · [CV](cv.qmd) · [Código](codigo.qmd)
+:::
+
+Documentos de trabajo, manuscritos enviados y publicaciones organizados por tema de investigación. Los trabajos marcados como *En revisión* o *Enviado* están disponibles en SSRN o a solicitud.
+
+---
+
+## 1. Medición del Ingreso y la Empresa Invisible {#medición-del-ingreso}
+
+::: {.theme-block}
+::: {.theme-desc}
+Los instrumentos de encuesta tradicionales diseñados para trabajadores asalariados producen cifras de ingreso para los trabajadores por cuenta propia que resultan negativas para la mayoría de las empresas informales una vez contabilizados todos los costos. Desarrollo validaciones con diarios de registro como patrón oro, correcciones basadas en ML y enfoques estructurales para contextos donde solo se observa el consumo.
+:::
+
+<ul>
+<li>
+*Ledgers of the Self-Employed: Accounting for the Invisible Firm*
+<span class="paper-links">
+<a href="https://ssrn.com/abstract=6338941" target="_blank">[SSRN]</a>
+<a href="https://github.com/wernerhl/ledgers-bolivia" target="_blank">[GitHub]</a>
+</span>
+<span class="paper-status">— Documento de trabajo</span>
+</li>
+<li>
+*The Income You Can't See: Detecting and Correcting Self-Employment Measurement Error with Unsupervised Machine Learning*
+<span class="paper-status">— Objetivo: *Journal of Development Economics*</span>
+</li>
+<li>
+*The Noise Floor: Measurement Error Limits on Poverty Mapping and a Machine Learning Solution*
+<span class="paper-status">— Documento de trabajo</span>
+</li>
+<li>
+*Recovering Individual Labor Earnings from Household Consumption: A Collective Model Approach with an Application to the Sahel G5*
+<span class="paper-status">— Documento de trabajo</span>
+</li>
+<li>
+*Identification and Estimation of Income Tails Under Nonclassical Measurement Error: Evidence from Brazil*
+<span class="paper-status">— Documento de trabajo</span>
+</li>
+</ul>
+:::
+
+---
+
+## 2. Focalización Óptima de la Pobreza {#focalización-óptima}
+
+::: {.theme-block}
+::: {.theme-desc}
+Las pruebas de medios de vida sustitutos y los mapas de pobreza fallan donde las poblaciones pobres se concentran: en las colas de la distribución. Desarrollo métodos de ML aumentado y técnicas de estimación en áreas pequeñas que mantienen su fiabilidad donde las herramientas estándar fallan, validados en 17 países de ALC.
+:::
+
+<ul>
+<li>
+*Optimal Poverty Prediction Under Measurement Error: Theory and Evidence from Augmented Machine Learning*
+<span class="paper-links">
+<a href="https://ssrn.com/abstract=6332698" target="_blank">[SSRN]</a>
+</span>
+<span class="paper-status">— Revisión y Reenvío, *Journal of Applied Econometrics*</span>
+</li>
+<li>
+*Poverty Mapping in the Tails*
+<span class="paper-status">— Enviado, *Journal of Econometrics*</span>
+</li>
+<li>
+*The Tail Test: A Factorial Simulation on the Sources of DRF Advantage in Small Area Estimation*
+<span class="paper-links">
+<a href="https://github.com/wernerhl/tail-test-replication" target="_blank">[GitHub]</a>
+</span>
+<span class="paper-status">— Objetivo: *Journal of the Royal Statistical Society, Series A*</span>
+</li>
+<li>
+*Data Augmentation for Bias Reduction in Imbalanced Regression*
+<span class="paper-status">— Documento de trabajo</span>
+</li>
+</ul>
+:::
+
+---
+
+## 3. Análisis de Incidencia Distribucional {#incidencia-distribucional}
+
+::: {.theme-block}
+::: {.theme-desc}
+Cuando los gobiernos reforman subsidios, las monedas colapsan o los shocks climáticos golpean, ¿quién gana y quién pierde? Desarrollo herramientas de monitoreo distribucional en tiempo real que combinan microsimulación, filtros de ML y reponderación de mínima entropía cruzada para estimar impactos en el bienestar entre rondas de encuestas.
+:::
+
+<ul>
+<li>
+*Between Surveys: Real-Time Distributional Monitoring for Vulnerable Populations*
+<span class="paper-status">— Documento de trabajo</span>
+</li>
+<li>
+*Forecasting the Distributional Impacts of Climate Change and Climate Policy*
+<span class="paper-status">— Nota Técnica del Banco Mundial</span>
+</li>
+<li>
+*Who Bears the Cost of Devaluation? Price Dynamics and Welfare Impacts During Bolivia's 2024–2025 Currency Crisis*
+<span class="paper-links">
+<a href="https://github.com/wernerhl/BOL-NoReturns" target="_blank">[GitHub]</a>
+</span>
+<span class="paper-status">— Objetivo: *Latin American Journal of Development*</span>
+</li>
+<li>
+*When the Pump Becomes a Shock: Stress-Adjusted Incidence of Fuel Subsidy Reform in a Fragile Informal Economy*
+<span class="paper-status">— Documento de trabajo</span>
+</li>
+<li>
+*Estimands, Specification Sensitivity, and Tail Reliability in Growth Incidence Curve Analysis*
+<span class="paper-status">— Documento de trabajo</span>
+</li>
+<li>
+*Measuring Redistribution Effects of Climate Change*
+<span class="paper-status">— Documento de trabajo</span>
+</li>
+</ul>
+:::
+
+---
+
+## 4. Pobreza Estructural, Informalidad e Inclusión {#pobreza-estructural}
+
+::: {.theme-block}
+::: {.theme-desc}
+No toda pobreza es igual. Distingo los trabajadores estructuralmente atrapados en empresas informales no rentables por capital relacional acumulado de los pobres transitorios, y derivo las implicaciones de política diferenciadas para inclusión social, inversión social y protección social.
+:::
+
+<ul>
+<li>
+*Structural Poverty in Latin America: Definition, Measurement, and Twenty Years of Change*
+<span class="paper-status">— Documento de trabajo</span>
+</li>
+<li>
+*The Three Faces of Inequality: Systematic, Structural, and Residual Inequality in Latin America, 2000–2022*
+<span class="paper-status">— Objetivo: *Journal of Development Economics*</span>
+</li>
+<li>
+*Trapped by Cash: A Theory of Voluntary Informality Among the Economically Non-Viable*
+<span class="paper-links">
+<a href="https://ssrn.com/abstract=6338941" target="_blank">[SSRN]</a>
+</span>
+<span class="paper-status">— Documento de trabajo</span>
+</li>
+<li>
+*To Be a Taquero or to Build a Taquería: Occupational Sorting under Risk and Embedded Capital*
+<span class="paper-links">
+<a href="https://ssrn.com/abstract=6332698" target="_blank">[SSRN]</a>
+</span>
+<span class="paper-status">— Objetivo: *Journal of Development Economics*</span>
+</li>
+</ul>
+:::
+
+---
+
+## 5. Movilidad Intergeneracional e Igualdad de Oportunidades {#movilidad}
+
+::: {.theme-block}
+::: {.theme-desc}
+La caída de los coeficientes intergeneracionales en ALC oculta una rigidez posicional creciente. Desarrollo el marco de la Frontera de Movilidad y la metodología del rezago educativo, y ambos los aplico a México, Bolivia y 18 países de ALC usando datos censales y de encuestas que abarcan cinco décadas.
+:::
+
+<ul>
+<li>
+*The Mobility Frontier: Why the Intergenerational Elasticity Is an Insufficient Statistic*
+<span class="paper-status">— Documento de trabajo</span>
+</li>
+<li>
+*Sticky Ends, Mobile Middle: The Shape of Intergenerational Persistence in Mexico*
+<span class="paper-status">— Objetivo: *Journal of Economic Inequality*</span>
+</li>
+<li>
+*The Schooling Lag: Rank Persistence and the Measurement of Intergenerational Educational Mobility*
+<span class="paper-status">— Enviado, *Review of Income and Wealth*</span>
+</li>
+<li>
+*Mexico's Mobility Mirage: Falling Intergenerational Coefficients, Rising Positional Rigidity*
+<span class="paper-status">— Objetivo: *Journal of Development Economics*</span>
+</li>
+<li>
+*Between Communities and Within Them: A Five-Census Decomposition of Intergenerational Persistence in Bolivia, 1976–2024*
+<span class="paper-status">— Documento de trabajo</span>
+</li>
+<li>
+*Network Thickness, Inequality of Opportunity, and the Persistence of Advantage*
+<span class="paper-status">— Enviado, *Social Choice and Welfare*</span>
+</li>
+</ul>
+:::
+
+---
+
+## 6. Género, Preferencias Adaptativas y Normas Sociales {#genero}
+
+::: {.theme-block}
+::: {.theme-desc}
+La persistente desigualdad de género opera a través de preferencias y normas, no solo de dotaciones y retornos. Cuando las preferencias son endógenas a la distribución, la redistribución por sí sola no puede cerrar las brechas. Desarrollo la teoría y aporto evidencia interseccional en ALC.
+:::
+
+<ul>
+<li>
+*Adaptive Preferences, Endogenous Returns, and the Failure of the Second Welfare Theorem*
+<span class="paper-links">
+<a href="https://ssrn.com/abstract=6338941" target="_blank">[SSRN]</a>
+</span>
+<span class="paper-status">— Documento de trabajo</span>
+</li>
+<li>
+*Mainstreaming the Wrong Channel: Gender Policy, Adaptive Preferences, and the Limits of Redistribution*
+<span class="paper-links">
+<a href="https://ssrn.com/abstract=6338941" target="_blank">[SSRN]</a>
+</span>
+<span class="paper-status">— Documento de trabajo</span>
+</li>
+<li>
+*Compounding Penalties: Gender, Ethnicity, and the Structure of Wage Inequality Among Indigenous Women in Latin America*
+<span class="paper-links">
+<a href="https://ssrn.com/abstract=6338941" target="_blank">[SSRN]</a>
+</span>
+<span class="paper-status">— Documento de trabajo</span>
+</li>
+</ul>
+:::
+
+---
+
+## Publicaciones Anteriores (Selección)
+
+<ul class="pub-list">
+<li>
+*Meta-analysis of ILO interventions in Latin America and the Caribbean on child labor, forced labor and human trafficking.*
+<span class="pub-source">Organización Internacional del Trabajo, 2020.</span>
+</li>
+<li>
+*Intended and Unintended Effects of Non-contributory Pensions: The Case of Bolivia's Renta Dignidad* (con G. Mena).
+<span class="pub-source">IDB Working Paper Series No. IDB-WP-631, 2015.</span>
+</li>
+<li>
+*Are Teachers Well Paid in Latin America and the Caribbean?* En *Incentives to Improve Teaching: Lessons from Latin America*, E. Vegas (Ed.).
+<span class="pub-source">Banco Mundial, 2005.</span>
+</li>
+<li>
+*Regional Integration and Wage Inequality* (con S. Duryea y R. Robertson). En *Beyond Borders: 2002 Report on Economic and Social Progress in Latin America*.
+<span class="pub-source">Banco Interamericano de Desarrollo, 2002.</span>
+</li>
+<li>
+*Bolivia: Efectos de la Liberalización sobre el Crecimiento, Empleo, Distribución del Ingreso y Pobreza* (con R. Pereira y W. Jiménez). En *Liberalización, Desigualdad y Pobreza: América Latina y el Caribe en los 90*.
+<span class="pub-source">PNUD, 2002.</span>
+</li>
+<li>
+*La evolución de la pobreza en Bolivia: un enfoque multidimensional* (con P. Villarroel).
+<span class="pub-source">*Revista Latinoamericana de Desarrollo Económico*, No. 20, 2013.</span>
+</li>
+<li>
+*Unemployment in Bolivia: Risks and Labor Market Policies* (con E. Yáñez y M.A. Villegas).
+<span class="pub-source">IDB Working Paper Series No. IDB-WP-271.</span>
+</li>
+</ul>

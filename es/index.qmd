@@ -1,0 +1,118 @@
+---
+title: "Inicio"
+pagetitle: "Werner L. Hernani-Limarino"
+toc: false
+lang: es
+---
+
+::: {.lang-switch}
+[English](../index.qmd) · [Investigación](investigacion.qmd) · [Libros](libros.qmd) · [CV](cv.qmd) · [Código](codigo.qmd)
+:::
+
+::: {.profile-block}
+::: {.profile-photo-placeholder}
+W
+:::
+::: {.profile-text}
+# Werner L. Hernani-Limarino
+
+::: {.tagline}
+Economista del desarrollo · Medición de la pobreza · Análisis distribucional · Movilidad intergeneracional
+:::
+
+::: {.links}
+[wernerhl\@gmail.com](mailto:wernerhl@gmail.com)
+[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=444875)
+[GitHub](https://github.com/wernerhl)
+[+1 706 706 5191](tel:+17067065191)
+:::
+:::
+:::
+
+Economista del desarrollo especializado en medición de la pobreza, análisis distribucional y movilidad intergeneracional en América Latina y el Caribe. Más de 20 años de experiencia produciendo investigación aplicada, construyendo herramientas de medición y asesorando a gobiernos y organismos internacionales en focalización de la pobreza, diseño de protección social y políticas basadas en evidencia. Socio fundador de IA Analytics; ex director ejecutivo fundador de Fundación ARU (clasificada entre los 10 mejores think tanks independientes de América Latina). Experiencia de trabajo con el Banco Mundial, BID, OIT e IPEA en más de 20 países.
+
+::: {.section-rule}
+Novedades
+:::
+
+::: {.whats-new-grid}
+
+::: {.wn-card .wn-alert}
+::: {.wn-label}
+TABLERO EN VIVO
+:::
+::: {.wn-title}
+Bolivia P2P Dólar — Sistema de Alerta Temprana
+:::
+::: {.wn-body}
+El boliviano está bajo presión. La escasez de dólares, los tipos de cambio paralelos y los mercados P2P de criptomonedas se han convertido en una realidad cotidiana para millones de bolivianos. Este tablero en vivo rastrea en tiempo real la economía paralela emergente: spreads del tipo de cambio, flujos de stablecoins y señales de alerta temprana actualizadas diariamente.
+
+**¿Quieres saber cuándo llegará el próximo shock antes de que ocurra?**
+:::
+::: {.wn-links}
+[Abrir tablero →](https://wernerhl.github.io/bolivia-ews/){.wn-btn .wn-btn-primary target="_blank"}
+:::
+:::
+
+::: {.wn-card .wn-iat}
+::: {.wn-label}
+PRUEBA INTERACTIVA
+:::
+::: {.wn-title}
+¿Discriminas a las personas indígenas sin saberlo?
+:::
+::: {.wn-body}
+La mayoría de las personas creen que tratan a todos por igual. La evidencia dice lo contrario. El **Test de Asociación Implícita** mide las asociaciones que tu cerebro hace en fracciones de segundo, antes de que tu mente consciente pueda intervenir. Toma 7 minutos.
+
+En toda América Latina encontramos un fuerte sesgo implícito contra nombres y rostros indígenas, incluso entre quienes rechazan explícitamente la discriminación. **La brecha entre lo que creemos y lo que hacemos es donde se esconde la desigualdad.**
+:::
+::: {.wn-links}
+[Tomar la prueba →](https://wernerhl.github.io/iat-pilot/){.wn-btn .wn-btn-primary target="_blank"}
+[Sobre la investigación →](investigacion.qmd#genero){.wn-btn .wn-btn-secondary}
+:::
+:::
+
+::: {.wn-card .wn-map}
+::: {.wn-label}
+NUEVOS RESULTADOS — 2024
+:::
+::: {.wn-title}
+¿Dónde está la pobreza en Bolivia? Estimaciones a nivel municipal para 339 comunidades
+:::
+::: {.wn-body}
+La tasa nacional de pobreza de Bolivia no te dice casi nada sobre dónde viven realmente las personas pobres. Usando el Censo 2024, un Bosque Aleatorio Distribucional, suavizado espacial bayesiano y Transporte Óptimo, ahora tenemos estimaciones de pobreza para cada uno de los 339 municipios de Bolivia — el primer mapa de este tipo desde 2012.
+
+**Potosí, Oruro y el norte del altiplano siguen siendo los más afectados. Pero el mapa revela bolsones de pobreza extrema escondidos en departamentos en apariencia prósperos.** La desnutrición infantil sigue una geografía diferente a la de la pobreza por ingresos — y ambas difieren de lo que los sistemas de focalización actualmente asumen.
+:::
+::: {.wn-links}
+[Explorar los mapas →](https://wernerhl.github.io/poverty-map-bolivia/){.wn-btn .wn-btn-primary target="_blank"}
+[Documento de trabajo →](investigacion.qmd#focalización-óptima){.wn-btn .wn-btn-secondary}
+:::
+:::
+
+:::
+
+::: {.section-rule}
+Programa de Investigación Actual
+:::
+
+Seis temas activos que producen documentos de trabajo y manuscritos enviados a revistas:
+
+1. **[Medición del Ingreso y la Empresa Invisible](investigacion.qmd#medición-del-ingreso)** — corrección del error de medición del ingreso por cuenta propia mediante ML y métodos estructurales
+2. **[Focalización Óptima de la Pobreza](investigacion.qmd#focalización-óptima)** — métodos de ML aumentado para PMT y mapas de pobreza que funcionan en las colas de la distribución
+3. **[Análisis de Incidencia Distribucional](investigacion.qmd#incidencia-distribucional)** — herramientas de monitoreo en tiempo real para impactos en el bienestar entre rondas de encuestas
+4. **[Pobreza Estructural e Informalidad](investigacion.qmd#pobreza-estructural)** — distinción entre trabajadores estructuralmente atrapados y pobres transitorios
+5. **[Movilidad Intergeneracional](investigacion.qmd#movilidad)** — Marco de la Frontera de Movilidad; metodología del rezago educativo; 18 países de ALC
+6. **[Género, Preferencias Adaptativas y Normas Sociales](investigacion.qmd#genero)** — preferencias endógenas y los límites de la redistribución
+
+::: {.section-rule}
+Afiliaciones
+:::
+
+| | |
+|---|---|
+| **[IA Analytics](https://aianalytics.tech/)** | Socio Fundador, 2025–presente |
+| **[Fundación ARU](https://www.aru.org.bo/)** | Director Ejecutivo Fundador 2006–2018; Investigador Distinguido 2018–2020 |
+| **[LACEA Network of Inequality and Poverty](https://www.lacea.org/)** | Director de Red 2018–2022; Co-Director de Investigación RIDGE-LACEA 2022–2025 |
+| **[Academia Boliviana de Ciencias](https://www.abc.org.bo/)** | Académico de Número, desde 2013 |
+| **[Universidad Católica Boliviana — IISEC](https://iisec.ucb.edu.bo/)** | Investigador Asociado, desde 2018 |

@@ -1,0 +1,234 @@
+---
+title: "CV"
+pagetitle: "CV — Werner L. Hernani-Limarino"
+toc: true
+toc-title: "Secciones"
+toc-depth: 2
+lang: es
+---
+
+::: {.lang-switch}
+[English](../cv.qmd) · [Inicio](index.qmd) · [Investigación](investigacion.qmd) · [Libros](libros.qmd) · [Código](codigo.qmd)
+:::
+
+::: {.section-rule}
+Educación
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[University of Pennsylvania, Filadelfia, EE.UU.]{.cv-title} [Junio 2005]{.cv-date}
+:::
+::: {.cv-sub}
+Maestría en Economía
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Universidad Católica Boliviana, La Paz, Bolivia]{.cv-title} [Junio 1999]{.cv-date}
+:::
+::: {.cv-sub}
+Licenciatura en Economía, Summa Cum Laude
+:::
+:::
+
+---
+
+::: {.section-rule}
+Experiencia Profesional
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[IA Analytics]{.cv-title} [Enero 2025 – Presente]{.cv-date}
+:::
+::: {.cv-sub}
+Socio Fundador — CDMX, México
+:::
+::: {.cv-desc}
+Práctica de investigación independiente que produce herramientas basadas en IA para mejorar la toma de decisiones de empresas y gobiernos. El programa de investigación actual integra métodos de aprendizaje automático en la medición de la pobreza, el análisis distribucional y la movilidad social para América Latina y el Caribe en seis temas. Produjo más de 20 documentos de trabajo enviados y bajo revisión en revistas líderes en el primer año de operación.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Oficina Internacional del Trabajo]{.cv-title} [Junio 2024 – Diciembre 2024]{.cv-date}
+:::
+::: {.cv-sub}
+Consultor Senior Economista — Lima, Perú
+:::
+::: {.cv-desc}
+Evaluó la efectividad del desarrollo de los programas de adaptación climática de la OIT. Desarrolló modelos económicos para analizar las consecuencias distributivas de la política de adaptación climática. Impartió programas de capacitación en métodos de impacto distribucional para equipos de países y oficinas nacionales de estadística.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Equity Policy Lab, Banco Mundial]{.cv-title} [Octubre 2020 – Mayo 2024]{.cv-date}
+:::
+::: {.cv-sub}
+Consultor Senior Economista E.T. — Washington, DC
+:::
+::: {.cv-desc}
+Desarrolló modelos económicos y herramientas para pronosticar las consecuencias distributivas de las pérdidas y daños climáticos. Responsable de herramientas de protección social en Mali, Níger, Burkina Faso, Chad, Mauritania, Camerún, Sudáfrica, Turquía, Uzbekistán, Zimbabue y Benín. Construyó un PMT aumentado validado en más de 18 países.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Fundación ARU]{.cv-title} [Agosto 2006 – Septiembre 2020]{.cv-date}
+:::
+::: {.cv-sub}
+Director Ejecutivo Fundador (2006–2018); Investigador Distinguido (2018–2020) — La Paz, Bolivia
+:::
+::: {.cv-desc}
+Posicionó a ARU como think tank Top 3 en Bolivia y Top 50 en la región. Captó más de $3M en financiamiento institucional y por proyectos. Diseñó y ejecutó más de 50 proyectos de investigación, 20 proyectos de recolección de datos, 10 evaluaciones de impacto y 3 experimentos conductuales. Una evaluación independiente estimó un retorno de inversión de 650× a través de contribuciones al cambio de políticas en Bolivia.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Grupo de Investigación del Desarrollo, Banco Mundial]{.cv-title} [Marzo 2002 – Agosto 2003]{.cv-date}
+:::
+::: {.cv-sub}
+Consultor a Tiempo Completo — Washington, DC (Supervisores: Peter Lanjouw, Quentin Wodon)
+:::
+::: {.cv-desc}
+Asesoría técnica en estimación en áreas pequeñas de mapas de pobreza desagregados. Producción conjunta de los primeros mapas de pobreza para Bolivia y Guatemala.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Departamento de Investigación, Banco Interamericano de Desarrollo]{.cv-title} [Enero 2001 – Marzo 2002]{.cv-date}
+:::
+::: {.cv-sub}
+Investigador Asociado — Washington, DC (Supervisores: Suzanne Duryea, Carmen Pagés)
+:::
+::: {.cv-desc}
+Desarrolló y mantuvo un oráculo de datos de más de 200 encuestas de hogares para países de ALC. Preparó insumos para el Informe de Progreso Económico y Social en América Latina del BID.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Instituto de Investigación Económica Aplicada (IPEA)]{.cv-title} [Enero 2000 – Diciembre 2000]{.cv-date}
+:::
+::: {.cv-sub}
+Investigador Asociado — Río de Janeiro, Brasil (Supervisor: Ricardo Paes de Barros)
+:::
+::: {.cv-desc}
+Desarrolló banco de datos armonizado de más de 50 encuestas de hogares para Centroamérica. Analizó determinantes estructurales de la pobreza y la desigualdad. Estudió las disparidades raciales en los mercados laboral y educativo de Brasil.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Unidad de Análisis de Políticas Económicas y Sociales (UDAPE)]{.cv-title} [Junio 1999 – Diciembre 1999]{.cv-date}
+:::
+::: {.cv-sub}
+Economista Junior — La Paz, Bolivia
+:::
+::: {.cv-desc}
+Construyó modelo de microsimulación para evaluar el impacto de la liberalización financiera y comercial sobre la pobreza y la desigualdad en Bolivia.
+:::
+:::
+
+---
+
+::: {.section-rule}
+Liderazgo Académico y Profesional
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[LACEA Network of Inequality and Poverty]{.cv-title} [2018 – Presente]{.cv-date}
+:::
+::: {.cv-desc}
+Director de Red (2018–2022); Co-Director de Investigación, RIDGE-LACEA (2022–2025). Estableció la agenda de investigación de la principal red académica de la región sobre pobreza y desigualdad, coordinando convocatorias competitivas, capacitación, conferencias y difusión en América Latina y el Caribe.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Academia Boliviana de Ciencias]{.cv-title} [Desde noviembre 2013]{.cv-date}
+:::
+::: {.cv-desc}
+Académico de Número. Nombramiento vitalicio en reconocimiento a contribuciones a las ciencias económicas.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Instituto de Investigaciones Socio-Económicas, UCB]{.cv-title} [Desde agosto 2018]{.cv-date}
+:::
+::: {.cv-desc}
+Investigador Asociado, Universidad Católica Boliviana.
+:::
+:::
+
+---
+
+::: {.section-rule}
+Financiamiento de Investigación (Selección)
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Fondo de Innovación UNICEF]{.cv-title} [2025 – 2026]{.cv-date}
+:::
+::: {.cv-desc}
+Financiamiento semilla competitivo para aplicaciones de ML a la estimación en áreas pequeñas de desnutrición y trabajo infantil.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Red de Investigación de ALC, BID]{.cv-title} [2007 – 2019]{.cv-date}
+:::
+::: {.cv-desc}
+Siete subvenciones competitivas en doce años que cubrieron protección social, ahorro, movilidad intergeneracional, seguro de desempleo, calidad educativa y bienestar urbano.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Think Tank Initiative (IDRC)]{.cv-title} [2010 – 2019]{.cv-date}
+:::
+::: {.cv-desc}
+Subvenciones institucionales de base, +$3.000.000 CAD. Fortaleció la capacidad de Fundación ARU como institución independiente de investigación en políticas públicas.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Partnership for Economic Policy]{.cv-title} [2014 – 2015]{.cv-date}
+:::
+::: {.cv-desc}
+Dos subvenciones competitivas para recolección de datos censales comunitarios y sistemas de monitoreo basados en la comunidad.
+:::
+:::
+
+---
+
+::: {.section-rule}
+Premios y Reconocimientos
+:::
+
+- Mejor Economista Boliviano Menor de 40 Años, Fundación Hanns Seidel (2015)
+- Premio a la Mejor Práctica de Investigación, Partnership for Economic Policy (2014)
+- Beca de Postgrado Dean Fellowship, Universidad de Pennsylvania (2003–2004)
+- Beca de Excelencia Académica, Universidad Católica Boliviana (1998–1999)
+
+---
+
+::: {.section-rule}
+Idiomas y Software
+:::
+
+**Idiomas:** Español (nativo), Inglés (avanzado), Portugués (avanzado), Francés (básico)
+
+**Software:** Python, R, Stata, LaTeX, Git/GitHub
+
+**Herramientas:** GitHub Actions, Jupyter, matplotlib, React
