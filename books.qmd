@@ -133,6 +133,38 @@ Each chapter braids three strands: the political economy of how power shaped the
 
 ---
 
+<!-- ── Protocols of Power ── -->
+::: {.book-card}
+::: {.book-cover}
+![](images/covers/protocols_of_power.jpg)
+:::
+::: {.book-info}
+::: {.book-title}
+Protocols of Power
+:::
+::: {.book-subtitle}
+Stablecoins, Sovereignty, and the New Monetary Order
+:::
+::: {.book-meta}
+2025
+:::
+::: {.book-summary}
+In Beirut, a mother uses a Telegram group and a Tron wallet to pay her son's university tuition in Paris. No bank, no SWIFT code, no government waiver. Two smartphones, a shared faith in a stablecoin, and a blockchain network that no finance ministry controls.
+
+*Protocols of Power* is a diagnosis of the silent coup d'état reshaping global finance — not staged in parliaments, but in GitHub repositories, validator sets, and zero-knowledge proofs. Stablecoins are dollarizing the world faster than the IMF ever could. Tether running on Tron has become an informal SWIFT, FX market, and escrow system for billions of people locked out of the first world's banking networks. Exchanges have become stateless central banks. Protocols are absorbing the functions once performed by empires and states.
+
+The book moves through ten chapters across four parts: the collapse of the Bretton Woods order and its shadow infrastructure replacement; the new empires (the digital yuan as surveillance state, Binance as a rival government, USDC as institutional finance on-chain); the new monetary weapons (financial weaponization of code, cold storage as sovereignty); and the endgame — a forked dollar and the outlines of a Shadow Bretton Woods II. Each chapter opens with a Frontline Dispatch: a fictionalized but documented scene from Beirut, Lagos, San Francisco, Guangzhou, Istanbul, Lima, Havana, Accra, and elsewhere. The characters are invented; the systems they navigate are real.
+:::
+::: {.book-links}
+[Read sample (Preface + Ch. 1)](files/protocols_of_power_sample.pdf){.book-link}
+[Kindle](#){.book-link .book-link-buy}
+[Paperback](#){.book-link .book-link-buy}
+:::
+:::
+:::
+
+---
+
 <!-- ── Evaluando ── -->
 ::: {.book-card}
 ::: {.book-cover .book-cover-placeholder}
