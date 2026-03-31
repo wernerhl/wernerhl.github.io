@@ -64,6 +64,8 @@ The final section asks an uncomfortable question: who benefits from immobility? 
 :::
 ::: {.book-links}
 [Download book](files/el_paisaje_roto.pdf){.book-link}
+[Slides (EN)](files/slides_between_within_EN.pdf){.book-link}
+[Slides (ES)](files/slides_entre_dentro_ES.pdf){.book-link}
 :::
 :::
 :::
