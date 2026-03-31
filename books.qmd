@@ -102,14 +102,31 @@ Organized in seven parts, the book covers the matrix reformulation of standard m
 
 <!-- ── Hunger & Fire ── -->
 ::: {.book-card}
-::: {.book-cover .book-cover-placeholder}
+::: {.book-cover}
+![](images/covers/hunger_fire.jpg)
 :::
 ::: {.book-info}
 ::: {.book-title}
-Hunger & Fire: How the Foods of the Oppressed Became the Meals of the Powerful
+Hunger & Fire
+:::
+::: {.book-subtitle}
+How the Foods of the Oppressed Became the Meals of the Powerful
 :::
 ::: {.book-meta}
 2025
+:::
+::: {.book-summary}
+Every economist knows Adam Smith's invisible hand. This book is about the other half — the invisible fist. The most extraordinary foods on earth were created by the most oppressed people on earth. Not as a coincidence. As a consequence. Constraint produces ingenuity; scarcity produces creativity. The people who received the scraps — the bones, the offal, the cheapest grains, the discarded parts — transformed those scraps into cuisines of astonishing depth and beauty. And then, with the predictability of a law of physics, the powerful took those cuisines.
+
+*Hunger & Fire* follows ten dishes across ten chapters, each rooted in a specific place, a specific history, and a specific community whose culinary genius the world has consumed without adequate payment or credit: soul food and oxtail in the American South, ramen and the ruins of empire in Japan, feijoada in Brazil, hummus and the war of the chickpea in the Levant, jollof rice across West Africa, curry and the colonial flattening of a continent, phở in Vietnam, tacos and the death of sacred corn in Mexico, injera and teff in Ethiopia, and chuño — the freeze-dried potato that fed the silver mines of Potosí — in Bolivia.
+
+Each chapter braids three strands: the political economy of how power shaped the food, the history of the specific events that produced the current situation, and the personal — eating and cooking these dishes, often with his daughter Anahí, the most honest food critic he has ever encountered.
+:::
+::: {.book-links}
+[Read sample (Intro + Ch. 1)](files/hunger_fire_sample.pdf){.book-link}
+[Kindle](#){.book-link .book-link-buy}
+[Paperback](#){.book-link .book-link-buy}
+[Audible — coming soon]{.book-link .book-link-soon}
 :::
 :::
 :::

@@ -206,6 +206,23 @@ $body-color: #1a1a1a;
   background: #eef4fa;
   text-decoration: none;
 }
+.book-card .book-link-buy {
+  background: #f5a623;
+  border-color: #e09010;
+  color: #1a1a1a;
+  font-weight: 600;
+}
+.book-card .book-link-buy:hover {
+  background: #e09010;
+  color: #1a1a1a;
+}
+.book-card .book-link-soon {
+  color: #888;
+  border-color: #ccc;
+  border-style: dashed;
+  cursor: default;
+  pointer-events: none;
+}
 
 /* ── Code / repo cards ── */
 .repo-grid {
