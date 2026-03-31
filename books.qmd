@@ -185,14 +185,26 @@ Fundación ARU · 2015
 
 <!-- ── Los maestros ── -->
 ::: {.book-card}
-::: {.book-cover .book-cover-placeholder}
+::: {.book-cover}
+![](images/covers/los_maestros.jpg)
 :::
 ::: {.book-info}
 ::: {.book-title}
 Los maestros en Bolivia: Impacto, incentivos y desempeño
 :::
 ::: {.book-meta}
-With M. Urquiola, W. Jiménez, and M.L. Talavera · Sierpe · 2000
+With M. Urquiola, W. Jiménez, and M.L. Talavera · Editorial Sierpe · 2000
+:::
+::: {.book-summary}
+Bolivia had increased teacher salaries, expanded teacher training, and invested heavily in educational reform — yet student achievement remained stubbornly low. This book asks why, and what policy levers actually work.
+
+Drawing on SIMECAL test scores, household surveys, teacher surveys, and qualitative fieldwork, the authors find that observable teacher credentials and salary levels have little impact on student achievement once student socioeconomic context is controlled for. Motivation and performance actually *decline* with seniority — the very variable that drives compensation under Bolivia's escalafón system. By contrast, teachers in private and Fe y Alegría schools — institutions with stronger performance incentives and clearer accountability — show systematically higher dedication and results.
+
+The book reframes the policy question: not "are teachers well paid?" but "how should pay and incentives be designed to attract and motivate better teachers?" It evaluates Bolivia's proposed incentive systems — including the rural permanence bonus and the collective incentive scheme — and provides concrete design recommendations grounded in evidence.
+:::
+::: {.book-links}
+[Read online](http://biblioteca.usfa.edu.bo/cgi-bin/koha/opac-detail.pl?biblionumber=5816){.book-link target="_blank"}
+[Download PDF](https://www.aru.org.bo/REPEC/pdf/MaestrosBolivia.pdf){.book-link target="_blank"}
 :::
 :::
 :::
