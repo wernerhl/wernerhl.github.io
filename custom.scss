@@ -10,6 +10,86 @@ $body-color: #1a1a1a;
 
 /*-- scss:rules --*/
 
+/* ── What's New grid ── */
+.whats-new-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.3rem;
+  margin: 1.4rem 0 2rem 0;
+}
+
+.wn-card {
+  border: 1px solid #d4d4cc;
+  border-top-width: 3px;
+  border-radius: 3px;
+  padding: 1.3rem 1.4rem 1.2rem;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+
+.wn-alert  { border-top-color: #c0392b; }
+.wn-iat    { border-top-color: #8e44ad; }
+.wn-map    { border-top-color: #1c6ea4; }
+
+.wn-label {
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: #888;
+}
+.wn-alert  .wn-label { color: #c0392b; }
+.wn-iat    .wn-label { color: #8e44ad; }
+.wn-map    .wn-label { color: #1c6ea4; }
+
+.wn-title {
+  font-size: 1.02rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #1a1a1a;
+}
+
+.wn-body {
+  font-size: 0.88rem;
+  line-height: 1.65;
+  color: #3a3a3a;
+  flex: 1;
+  p { margin: 0 0 0.5rem 0; }
+  p:last-child { margin-bottom: 0; }
+  strong { color: #1a1a1a; }
+}
+
+.wn-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.4rem;
+}
+
+.wn-btn {
+  display: inline-block;
+  padding: 0.32rem 0.85rem;
+  border-radius: 2px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-decoration: none !important;
+  letter-spacing: 0.01em;
+  transition: opacity 0.15s;
+  &:hover { opacity: 0.82; }
+}
+.wn-btn-primary {
+  background: #1c2b4a;
+  color: #fff !important;
+  border: 1px solid #1c2b4a;
+}
+.wn-btn-secondary {
+  background: transparent;
+  color: #1c2b4a !important;
+  border: 1px solid #1c2b4a;
+}
+
 /* ── Navbar ── */
 .navbar-brand { font-weight: 700; font-size: 1.05rem; letter-spacing: 0.02em; }
 

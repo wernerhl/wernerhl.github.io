@@ -28,6 +28,67 @@ Mexico City, Mexico
 Development economist specializing in poverty measurement, distributional analysis, and intergenerational mobility in Latin America and the Caribbean. Over 20 years of experience producing applied research, building measurement tools, and advising governments and international organizations on poverty targeting, social protection design, and evidence-based policy. Founding partner of IA Analytics; former founding executive director of Fundación ARU (ranked Top 10 independent think tank in LAC). Work experience with the World Bank, IDB, ILO, and IPEA across 20+ countries.
 
 ::: {.section-rule}
+What's New
+:::
+
+::: {.whats-new-grid}
+
+::: {.wn-card .wn-alert}
+::: {.wn-label}
+LIVE DASHBOARD
+:::
+::: {.wn-title}
+Bolivia P2P Dollar — Early Warning System
+:::
+::: {.wn-body}
+The Bolivian boliviano is under stress. Dollar shortages, parallel exchange rates, and P2P crypto markets have become a daily reality for millions of Bolivians. This live dashboard tracks the emerging parallel economy in real time — exchange rate spreads, stablecoin flows, and early warning signals updated daily.
+
+**Do you want to know when the next shock is coming before it hits?**
+:::
+::: {.wn-links}
+[Open dashboard →](https://wernerhl.github.io/bolivia-ews/){.wn-btn .wn-btn-primary target="_blank"}
+:::
+:::
+
+::: {.wn-card .wn-iat}
+::: {.wn-label}
+INTERACTIVE TEST
+:::
+::: {.wn-title}
+Do you discriminate against indigenous people — without knowing it?
+:::
+::: {.wn-body}
+Most people believe they treat everyone equally. The evidence says otherwise. The **Implicit Association Test** measures the split-second associations your brain makes before your conscious mind has time to intervene. It takes 7 minutes.
+
+Across Latin America, we find strong implicit bias against indigenous names and faces — even among respondents who explicitly reject discrimination. **The gap between what we believe and what we do is where inequality hides.**
+:::
+::: {.wn-links}
+[Take the test →](https://wernerhl.github.io/iat-pilot/){.wn-btn .wn-btn-primary target="_blank"}
+[About the research →](research.qmd#gender){.wn-btn .wn-btn-secondary}
+:::
+:::
+
+::: {.wn-card .wn-map}
+::: {.wn-label}
+NEW RESULTS — 2024
+:::
+::: {.wn-title}
+Where is poverty in Bolivia? Municipality-level estimates for 339 communities
+:::
+::: {.wn-body}
+Bolivia's national poverty rate tells you almost nothing about where poor people actually live. Using the 2024 census, a Distributional Random Forest, Bayesian spatial smoothing, and Optimal Transport calibration, we now have poverty estimates for every one of Bolivia's 339 municipalities — the first such map since 2012.
+
+**Potosí, Oruro, and the northern altiplano remain the hardest hit. But the map reveals pockets of extreme deprivation hidden inside otherwise prosperous departments.** Child malnutrition follows a different geography than income poverty — and both differ from what targeting systems currently assume.
+:::
+::: {.wn-links}
+[Explore the maps →](https://github.com/wernerhl/poverty-map-bolivia){.wn-btn .wn-btn-primary target="_blank"}
+[Working paper →](research.qmd#optimal-targeting){.wn-btn .wn-btn-secondary}
+:::
+:::
+
+:::
+
+::: {.section-rule}
 Current Research Program
 :::
 
