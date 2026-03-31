@@ -11,7 +11,7 @@ Books
 <!-- ── Mi Otro Género ── -->
 ::: {.book-card}
 ::: {.book-cover}
-![Mi Otro Género cover](images/covers/mi_otro_genero.png)
+![Mi Otro Género cover](images/covers/mi_otro_genero.jpg)
 :::
 ::: {.book-info}
 ::: {.book-title}
@@ -21,7 +21,7 @@ Mi Otro Género
 Un ejercicio contrafactual sobre la vida que el género te negó
 :::
 ::: {.book-meta}
-Primera edición · 2026
+With Alejandra Villegas Gutierrez · Primera edición · 2026
 :::
 ::: {.book-summary}
 Carla and Carlos were born on the same day, to the same parents, in the same neighborhood of La Paz. Thirty-two years later, Carlos is a civil engineer with a stable salary; Carla dropped out of university when she got pregnant and now works part-time selling clothes by catalog. What part of that divergence is due to the chromosome?
