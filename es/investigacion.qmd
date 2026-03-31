@@ -32,6 +32,9 @@ Los instrumentos de encuesta tradicionales diseñados para trabajadores asalaria
 </li>
 <li>
 *The Income You Can't See: Detecting and Correcting Self-Employment Measurement Error with Unsupervised Machine Learning*
+<span class="paper-links">
+<a href="https://github.com/wernerhl/working-papers/raw/main/income_you_cant_see.pdf" target="_blank">[WP]</a>
+</span>
 <span class="paper-status">— Enviado, *Journal of Development Economics*</span>
 </li>
 <li>
