@@ -10,9 +10,6 @@ Books
 
 <!-- ── Mi Otro Género ── -->
 ::: {.book-card}
-::: {.book-cover}
-![Mi Otro Género cover](images/covers/mi_otro_genero.jpg)
-:::
 ::: {.book-info}
 ::: {.book-title}
 Mi Otro Género
@@ -29,6 +26,11 @@ Carla and Carlos were born on the same day, to the same parents, in the same nei
 *Mi Otro Género* asks that question with economic rigor and answers it with three layers of evidence: population-level estimates from Bolivian national surveys, within-pair comparisons of opposite-sex fraternal twins, and structured interviews with those same twins. Each layer answers a different question — *how much*, *how much of it is gender*, and *how*. Bolivia is the laboratory: a country where legislative gender parity coexists with some of the most persistent gender norms in Latin America, where a woman can hold a seat in parliament and still be unable to decide whether to use contraception.
 
 The book measures the cost of gender assignment in both directions — what women lose *and* what men forgo — treating both as rational agents navigating a system of constraints they did not choose.
+:::
+::: {.book-links}
+[Download book](files/mi_otro_genero.pdf){.book-link}
+[Slides (EN)](files/mi_otro_genero_slides_EN.pdf){.book-link}
+[Slides (ES)](files/mi_otro_genero_slides_ES.pdf){.book-link}
 :::
 :::
 :::
