@@ -70,6 +70,36 @@ The final section asks an uncomfortable question: who benefits from immobility? 
 
 ---
 
+<!-- ── Structural Economics ── -->
+::: {.book-card}
+::: {.book-cover}
+![](images/covers/structural_economics.jpg)
+:::
+::: {.book-info}
+::: {.book-title}
+Structural Economics
+:::
+::: {.book-subtitle}
+The General Case
+:::
+::: {.book-meta}
+Draft manuscript · 2027
+:::
+::: {.book-summary}
+The neoclassical model rests on a single assumption: all agents receive equal weight in the social aggregation, encoded as W = (1/N)**11**ʹ. *Structural Economics* replaces that assumption with an arbitrary weight matrix W — and shows that the entire neoclassical edifice, from the welfare theorems to growth theory, is simply the special case where W happens to be uniform. This textbook is the general case.
+
+The weight matrix is derived from three underlying networks that coexist in every economy: a production and exchange network that determines who transacts with whom, a power and bargaining network that determines whose preferences prevail in conflict, and an information network that determines whose beliefs are treated as authoritative. Together, these networks produce the Perron eigenvector that governs distributional outcomes — a quantity that standard theory assumes away rather than explains.
+
+Organized in seven parts, the book covers the matrix reformulation of standard micro and macro, the formal model of endogenous preference formation (the Ψ ratio), the dynamics of structural change, measurement via social accounting matrices, and the political economy of hegemony and counter-hegemony. The final chapter, *The General Case*, derives the conditions under which the neoclassical model holds — and documents why they are almost never met.
+:::
+::: {.book-links}
+[Download draft](files/structural_economics.pdf){.book-link}
+:::
+:::
+:::
+
+---
+
 <!-- ── Hunger & Fire ── -->
 ::: {.book-card}
 ::: {.book-cover .book-cover-placeholder}
