@@ -107,15 +107,8 @@ Affiliations
 
 | | |
 |---|---|
-| **IA Analytics** | Founding Partner, 2025–present |
-| **LACEA Network of Inequality and Poverty** | Network Head 2018–2022; Research Co-Director RIDGE-LACEA 2022–2025 |
-| **Bolivian Academy of Sciences** | Académico de Número (Full Academician), since 2013 |
-| **Universidad Católica Boliviana** | Research Fellow, Institute for Socio-economic Research, since 2018 |
-
-::: {.section-rule}
-Selected Awards
-:::
-
-- Best Bolivian Economist Under 40, Hanns Seidel Foundation (2015)
-- Best Practice Research Award, Partnership for Economic Policy (2014)
-- Dean Fellowship Graduate Scholarship, University of Pennsylvania (2003–2004)
+| **[IA Analytics](https://aianalytics.tech/)** | Founding Partner, 2025–present |
+| **[Fundación ARU](https://www.aru.org.bo/)** | Founding Executive Director 2006–2018; Distinguished Research Fellow 2018–2020 |
+| **[LACEA Network of Inequality and Poverty](https://www.lacea.org/)** | Network Head 2018–2022; Research Co-Director RIDGE-LACEA 2022–2025 |
+| **[Bolivian Academy of Sciences](https://www.abc.org.bo/)** | Académico de Número (Full Academician), since 2013 |
+| **[Universidad Católica Boliviana — IISEC](https://iisec.ucb.edu.bo/)** | Research Fellow, since 2018 |
