@@ -42,14 +42,28 @@ The book measures the cost of gender assignment in both directions — what wome
 
 <!-- ── El Paisaje Roto ── -->
 ::: {.book-card}
-::: {.book-cover .book-cover-placeholder}
+::: {.book-cover}
+![](images/covers/el_paisaje_roto.jpg)
 :::
 ::: {.book-info}
 ::: {.book-title}
-El Paisaje Roto: Movilidad Social en Bolivia
+El Paisaje Roto
+:::
+::: {.book-subtitle}
+Movilidad social en Bolivia
 :::
 ::: {.book-meta}
 Plural Editores · 2026
+:::
+::: {.book-summary}
+Bolivia spent half a century building schools, extending roads, and passing reforms. And yet, where you are born still largely determines where you end up. *El Paisaje Roto* asks why — and maps the answer across all 339 municipalities, five census rounds (1976–2024), and four dimensions of stratification: geography, ethnicity, gender, and migration.
+
+The book introduces the *mobility landscape* as its central metaphor and analytical tool: a terrain of slopes (*pendientes*) and gates (*portones*). Slopes measure how steep the climb from one generation to the next is; gates measure how firmly the top is sealed. Bolivia has two distinct traps — a poverty trap that keeps the bottom stuck, and a privilege trap that keeps the top closed — and they operate through different mechanisms and require different policies.
+
+The final section asks an uncomfortable question: who benefits from immobility? Using evidence from Bolivia's 1990s natural experiment, the book identifies the actors, the four mechanisms through which advantage is reproduced, and what a targeted connectivity policy — built on the LADDER/GATE classification of municipalities — would cost and deliver.
+:::
+::: {.book-links}
+[Download book](files/el_paisaje_roto.pdf){.book-link}
 :::
 :::
 :::
