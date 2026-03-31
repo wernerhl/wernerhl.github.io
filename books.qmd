@@ -169,17 +169,32 @@ The book moves through ten chapters across four parts: the collapse of the Brett
 
 <!-- ── Evaluando ── -->
 ::: {.book-card}
-::: {.book-cover .book-cover-placeholder}
+::: {.book-cover}
+![](images/covers/evaluando_impacto.jpg)
 :::
 ::: {.book-info}
 ::: {.book-title}
-Evaluando las Evaluaciones de Impacto: Assessing the Impact of Social Policies in Bolivia
+Evaluando el Impacto de las Políticas Públicas en Bolivia
+:::
+::: {.book-subtitle}
+Segunda Edición
 :::
 ::: {.book-meta}
-Fundación ARU · 2015
+With P.M. Villarroel, C. Valencia, and G. Mena · Fundación ARU / IISEC–UCB · 2015
+:::
+::: {.book-summary}
+Between 2001 and 2015, Bolivia dramatically expanded social spending — emergency employment, universal pensions, school subsidies, literacy campaigns, youth training, and microcredit. The official verdict on every program was positive. This book tells a different story.
+
+Six programs, six methods, one question: *what actually worked?* Using PSM, Differences-in-Differences, fuzzy Regression Discontinuity, Changes-in-Changes, structural household models, and Interrupted Time Series, the authors find results that are more complex and uncomfortable than official narratives admit. PLANE stabilized consumption during the crisis but built no employability. MPED produced a large jump in formal employment — which vanished within 18 months. Renta Dignidad increased household income but significantly reduced female labor supply. Bono Juancito Pinto only moved enrollment for children aged 6–8. Yo Sí Puedo certified 824,000 adults "literate" while direct tests showed virtually no gains in comprehension. BDP microcredit produced strong effects in manufacturing and zero in agriculture.
+
+The cross-cutting lesson: heterogeneity is the rule, unintended effects are common, and positive impacts tend to be transitory. The book's final argument is institutional — Bolivia already produces good research; the binding constraint is the political will to let evidence matter.
+:::
+::: {.book-links}
+[GitHub](https://github.com/wernerhl/evaluando-impacto-bolivia){.book-link target="_blank"}
 :::
 :::
 :::
+
 
 ---
 
