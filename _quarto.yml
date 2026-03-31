@@ -24,7 +24,7 @@ website:
       - icon: github
         href: https://github.com/wernerhl
       - text: SSRN
-        href: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=444875
+        href: https://hq.ssrn.com/Participant.cfm?rectype=edit&partID=10394516
       - text: "ES"
         href: es/index.qmd
   page-footer:
