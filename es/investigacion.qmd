@@ -271,6 +271,9 @@ La persistente desigualdad de género opera a través de preferencias y normas, 
 </li>
 <li>
 *Mainstreaming the Wrong Channel: Gender Policy, Adaptive Preferences, and the Limits of Redistribution*
+<span class="paper-links">
+<a href="https://github.com/wernerhl/working-papers/raw/main/mainstreaming_wrong_channel.pdf" target="_blank">[WP]</a>
+</span>
 <span class="paper-status">— Documento de trabajo</span>
 </li>
 <li>
