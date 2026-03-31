@@ -233,6 +233,11 @@ Publicaciones Anteriores (Selección)
 <span class="paper-links"><a href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&pid=S2074-47062024000200107" target="_blank">[SciELO]</a></span>
 </li>
 <li>
+*Forecasting the Distributional Impacts of Climate Change and Climate Policy.*
+<span class="pub-source">Nota Técnica del Banco Mundial, 2024.</span>
+<span class="paper-links"><a href="https://github.com/wernerhl/working-papers/raw/main/wb_climate_microsimulation.pdf" target="_blank">[WP]</a></span>
+</li>
+<li>
 *Meta-analysis of ILO interventions in Latin America and the Caribbean on child labor, forced labor and human trafficking.*
 <span class="pub-source">Organización Internacional del Trabajo, 2020.</span>
 </li>
