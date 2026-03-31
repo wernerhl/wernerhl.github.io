@@ -139,13 +139,54 @@ $body-color: #1a1a1a;
 .cv-entry .cv-desc { font-size: 0.93rem; color: #333; margin-top: 0.25rem; }
 
 /* ── Book cards ── */
-.book-entry {
-  margin-bottom: 1.1rem;
-  padding-left: 0.8em;
-  border-left: 3px solid #c8d0dc;
+.book-card {
+  display: flex;
+  gap: 1.8rem;
+  align-items: flex-start;
+  margin-bottom: 0.5rem;
 }
-.book-entry .book-title { font-weight: 700; font-style: italic; }
-.book-entry .book-meta { font-size: 0.9rem; color: #555; }
+.book-card .book-cover {
+  min-width: 110px;
+  width: 110px;
+}
+.book-card .book-cover img {
+  width: 110px;
+  border: 1px solid #d0d0c8;
+  border-radius: 3px;
+  box-shadow: 2px 3px 8px rgba(0,0,0,0.15);
+  display: block;
+}
+.book-card .book-cover-placeholder {
+  width: 110px;
+  height: 155px;
+  background: linear-gradient(160deg, #dde4ed, #c8d4e4);
+  border-radius: 3px;
+  border: 1px solid #c0ccd8;
+}
+.book-card .book-info { flex: 1; }
+.book-card .book-title {
+  font-weight: 700;
+  font-style: italic;
+  font-size: 1.05rem;
+  margin-bottom: 0.1rem;
+}
+.book-card .book-subtitle {
+  font-size: 0.93rem;
+  color: #333;
+  margin-bottom: 0.2rem;
+}
+.book-card .book-meta {
+  font-size: 0.87rem;
+  color: #666;
+  margin-bottom: 0.55rem;
+}
+.book-card .book-summary {
+  font-size: 0.93rem;
+  color: #2a2a2a;
+  line-height: 1.6;
+}
+.book-card .book-summary p { margin-bottom: 0.5rem; }
+.book-card .book-summary p:last-child { margin-bottom: 0; }
 
 /* ── Code / repo cards ── */
 .repo-grid {
