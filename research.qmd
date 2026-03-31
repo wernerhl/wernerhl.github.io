@@ -27,7 +27,7 @@ Traditional survey instruments designed for wage workers produce income figures 
 </li>
 <li>
 *The Income You Can't See: Detecting and Correcting Self-Employment Measurement Error with Unsupervised Machine Learning*
-<span class="paper-status">— Target: *Journal of Development Economics*</span>
+<span class="paper-status">— Submitted, *Journal of Development Economics*</span>
 </li>
 <li>
 *The Noise Floor: Measurement Error Limits on Poverty Mapping and a Machine Learning Solution*
@@ -76,7 +76,7 @@ Proxy means tests and poverty maps break down where poverty populations concentr
 <span class="paper-links">
 <a href="https://github.com/wernerhl/tail-test-replication" target="_blank">[GitHub]</a>
 </span>
-<span class="paper-status">— Target: *Journal of the Royal Statistical Society, Series A*</span>
+<span class="paper-status">— Submitted, *Journal of the Royal Statistical Society, Series A*</span>
 </li>
 <li>
 *Data Augmentation for Bias Reduction in Imbalanced Regression*
@@ -164,7 +164,7 @@ Not all poverty is the same. I distinguish workers structurally trapped in loss-
 </li>
 <li>
 *The Three Faces of Inequality: Systematic, Structural, and Residual Inequality in Latin America, 2000–2022*
-<span class="paper-status">— Target: *Journal of Development Economics*</span>
+<span class="paper-status">— Submitted, *Journal of Development Economics*</span>
 </li>
 <li>
 *Trapped by Cash: A Theory of Voluntary Informality Among the Economically Non-Viable*
@@ -175,7 +175,7 @@ Not all poverty is the same. I distinguish workers structurally trapped in loss-
 </li>
 <li>
 *To Be a Taquero or to Build a Taquería: Occupational Sorting under Risk and Embedded Capital*
-<span class="paper-status">— Target: *Journal of Development Economics*</span>
+<span class="paper-status">— Submitted, *Journal of Development Economics*</span>
 </li>
 <li>
 *Narcocorridos as Recruitment Technology: Cultural Prestige Production, Adverse Selection, and Criminal Human Capital in Mexico and Brazil*
@@ -213,7 +213,7 @@ Falling intergenerational coefficients across LAC mask rising positional rigidit
 </li>
 <li>
 *Sticky Ends, Mobile Middle: The Shape of Intergenerational Persistence in Mexico*
-<span class="paper-status">— Target: *Journal of Economic Inequality*</span>
+<span class="paper-status">— Submitted, *Journal of Economic Inequality*</span>
 </li>
 <li>
 *The Schooling Lag: Rank Persistence and the Measurement of Intergenerational Educational Mobility*
@@ -227,7 +227,7 @@ Falling intergenerational coefficients across LAC mask rising positional rigidit
 <span class="paper-links">
 <a href="https://ssrn.com/abstract=6441578" target="_blank">[SSRN]</a>
 </span>
-<span class="paper-status">— Target: *Journal of Development Economics*</span>
+<span class="paper-status">— Submitted, *Journal of Development Economics*</span>
 </li>
 <li>
 *The Road of No Returns: 25 Years of Returns to Education in Bolivia (1999–2024)*
