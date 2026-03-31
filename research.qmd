@@ -120,10 +120,11 @@ When governments reform subsidies, currencies collapse, or climate shocks hit, w
 <li>
 *Who Bears the Cost of Devaluation? Price Dynamics and Welfare Impacts During Bolivia's 2024–2025 Currency Crisis*
 <span class="paper-links">
+<a href="https://doi.org/10.35319/lajed.202544558" target="_blank">[DOI]</a>
 <a href="https://ssrn.com/abstract=6347479" target="_blank">[SSRN]</a>
 <a href="https://github.com/wernerhl/BOL-NoReturns" target="_blank">[GitHub]</a>
 </span>
-<span class="paper-status">— Target: *Latin American Journal of Development*</span>
+<span class="paper-status">— Published, *Revista Latinoamericana de Desarrollo Económico*, No. 44, 2025</span>
 </li>
 <li>
 *When the Pump Becomes a Shock: Stress-Adjusted Incidence of Fuel Subsidy Reform in a Fragile Informal Economy*
