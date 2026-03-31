@@ -104,6 +104,9 @@ When governments reform subsidies, currencies collapse, or climate shocks hit, w
 </li>
 <li>
 *Forecasting the Distributional Impacts of Climate Change and Climate Policy*
+<span class="paper-links">
+<a href="https://github.com/wernerhl/working-papers/raw/main/wb_climate_microsimulation.pdf" target="_blank">[WP]</a>
+</span>
 <span class="paper-status">— World Bank Technical Note</span>
 </li>
 <li>
@@ -147,6 +150,13 @@ Not all poverty is the same. I distinguish workers structurally trapped in loss-
 :::
 
 <ul>
+<li>
+*Quantifying Permanent, Structural, and Transitory Income Components with Machine Learning: Re-examining the Inequality Decline in Latin America*
+<span class="paper-links">
+<a href="https://github.com/wernerhl/working-papers/raw/main/structural_income_ml.pdf" target="_blank">[WP]</a>
+</span>
+<span class="paper-status">— Working Paper</span>
+</li>
 <li>
 *Structural Poverty in Latin America: Definition, Measurement, and Twenty Years of Change*
 <span class="paper-status">— Working Paper</span>
