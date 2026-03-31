@@ -60,7 +60,7 @@ Proxy means tests and poverty maps break down where poverty populations concentr
 <span class="paper-links">
 <a href="https://ssrn.com/abstract=6332698" target="_blank">[SSRN]</a>
 </span>
-<span class="paper-status">— Under review, *Journal of Development Economics*</span>
+<span class="paper-status">— Review & Resubmit, *Journal of Applied Econometrics*</span>
 </li>
 <li>
 *Poverty Mapping in the Tails*
@@ -72,13 +72,6 @@ Proxy means tests and poverty maps break down where poverty populations concentr
 <a href="https://github.com/wernerhl/tail-test-replication" target="_blank">[GitHub]</a>
 </span>
 <span class="paper-status">— Target: *Journal of the Royal Statistical Society, Series A*</span>
-</li>
-<li>
-*Small Area Estimation of Poverty and Nutrition in Bolivia Using Distributional Random Forests, Bayesian Spatial Smoothing, and Optimal Transport*
-<span class="paper-links">
-<a href="https://github.com/wernerhl/poverty-map-bolivia" target="_blank">[GitHub]</a>
-</span>
-<span class="paper-status">— Working Paper</span>
 </li>
 <li>
 *Data Augmentation for Bias Reduction in Imbalanced Regression*
@@ -103,7 +96,7 @@ When governments reform subsidies, currencies collapse, or climate shocks hit, w
 </li>
 <li>
 *Forecasting the Distributional Impacts of Climate Change and Climate Policy*
-<span class="paper-status">— Working Paper</span>
+<span class="paper-status">— World Bank Technical Note</span>
 </li>
 <li>
 *Who Bears the Cost of Devaluation? Price Dynamics and Welfare Impacts During Bolivia's 2024–2025 Currency Crisis*
@@ -138,6 +131,14 @@ Not all poverty is the same. I distinguish workers structurally trapped in loss-
 
 <ul>
 <li>
+*Structural Poverty in Latin America: Definition, Measurement, and Twenty Years of Change*
+<span class="paper-status">— Working Paper</span>
+</li>
+<li>
+*The Three Faces of Inequality: Systematic, Structural, and Residual Inequality in Latin America, 2000–2022*
+<span class="paper-status">— Target: *Journal of Development Economics*</span>
+</li>
+<li>
 *Trapped by Cash: A Theory of Voluntary Informality Among the Economically Non-Viable*
 <span class="paper-links">
 <a href="https://ssrn.com/abstract=6338941" target="_blank">[SSRN]</a>
@@ -149,14 +150,6 @@ Not all poverty is the same. I distinguish workers structurally trapped in loss-
 <span class="paper-links">
 <a href="https://ssrn.com/abstract=6332698" target="_blank">[SSRN]</a>
 </span>
-<span class="paper-status">— Target: *Journal of Development Economics*</span>
-</li>
-<li>
-*Structural Poverty in Latin America: Definition, Measurement, and Twenty Years of Change*
-<span class="paper-status">— Working Paper</span>
-</li>
-<li>
-*The Three Faces of Inequality: Systematic, Structural, and Residual Inequality in Latin America, 2000–2022*
 <span class="paper-status">— Target: *Journal of Development Economics*</span>
 </li>
 </ul>
@@ -174,11 +167,15 @@ Falling intergenerational coefficients across LAC mask rising positional rigidit
 <ul>
 <li>
 *The Mobility Frontier: Why the Intergenerational Elasticity Is an Insufficient Statistic*
-<span class="paper-status">— Target: *Econometrica*</span>
+<span class="paper-status">— Working Paper</span>
+</li>
+<li>
+*Sticky Ends, Mobile Middle: The Shape of Intergenerational Persistence in Mexico*
+<span class="paper-status">— Target: *Journal of Economic Inequality*</span>
 </li>
 <li>
 *The Schooling Lag: Rank Persistence and the Measurement of Intergenerational Educational Mobility*
-<span class="paper-status">— Target: *Review of Income and Wealth*</span>
+<span class="paper-status">— Submitted, *Review of Income and Wealth*</span>
 </li>
 <li>
 *Mexico's Mobility Mirage: Falling Intergenerational Coefficients, Rising Positional Rigidity*
@@ -189,12 +186,8 @@ Falling intergenerational coefficients across LAC mask rising positional rigidit
 <span class="paper-status">— Working Paper</span>
 </li>
 <li>
-*Sticky Ends, Mobile Middle: The Shape of Intergenerational Persistence in Mexico*
-<span class="paper-status">— Target: *Journal of Economic Inequality*</span>
-</li>
-<li>
 *Network Thickness, Inequality of Opportunity, and the Persistence of Advantage*
-<span class="paper-status">— Target: *Social Choice and Welfare*</span>
+<span class="paper-status">— Submitted, *Social Choice and Welfare*</span>
 </li>
 </ul>
 :::
@@ -211,14 +204,23 @@ Persistent gender inequality operates through preferences and norms, not just en
 <ul>
 <li>
 *Adaptive Preferences, Endogenous Returns, and the Failure of the Second Welfare Theorem*
+<span class="paper-links">
+<a href="https://ssrn.com/abstract=6338941" target="_blank">[SSRN]</a>
+</span>
 <span class="paper-status">— Working Paper</span>
 </li>
 <li>
 *Mainstreaming the Wrong Channel: Gender Policy, Adaptive Preferences, and the Limits of Redistribution*
+<span class="paper-links">
+<a href="https://ssrn.com/abstract=6338941" target="_blank">[SSRN]</a>
+</span>
 <span class="paper-status">— Working Paper</span>
 </li>
 <li>
 *Compounding Penalties: Gender, Ethnicity, and the Structure of Wage Inequality Among Indigenous Women in Latin America*
+<span class="paper-links">
+<a href="https://ssrn.com/abstract=6338941" target="_blank">[SSRN]</a>
+</span>
 <span class="paper-status">— Working Paper</span>
 </li>
 </ul>
