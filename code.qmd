@@ -1,0 +1,79 @@
+---
+title: "Code"
+pagetitle: "Code — Werner L. Hernani-Limarino"
+toc: false
+---
+
+Open-source replication repositories and data tools. All code on [github.com/wernerhl](https://github.com/wernerhl).
+
+::: {.section-rule}
+Research Replication
+:::
+
+::: {.repo-grid}
+
+::: {.repo-card}
+#### [poverty-map-bolivia](https://github.com/wernerhl/poverty-map-bolivia)
+Small area estimation of poverty and nutrition in Bolivia (CPV 2024 + EH 2024). DRF + BYM2 + Optimal Transport pipeline in R.
+[SAE]{.repo-tag} [R]{.repo-tag} [Bolivia]{.repo-tag}
+:::
+
+::: {.repo-card}
+#### [tail-test-replication](https://github.com/wernerhl/tail-test-replication)
+Replication code for *The Tail Test*: factorial simulation on DRF advantage in small area estimation. Mexico 2015 Intercensal Census.
+[SAE]{.repo-tag} [R]{.repo-tag} [Simulation]{.repo-tag}
+:::
+
+::: {.repo-card}
+#### [BOL-NoReturns](https://github.com/wernerhl/BOL-NoReturns)
+Bolivia No Returns paper — distributional incidence of Bolivia's 2024–2025 currency crisis.
+[Incidence]{.repo-tag} [Bolivia]{.repo-tag} [R]{.repo-tag}
+:::
+
+::: {.repo-card}
+#### [iat-pilot](https://github.com/wernerhl/iat-pilot)
+Implicit Association Test pilot on racial bias in Latin America.
+[Gender & Norms]{.repo-tag} [LAC]{.repo-tag}
+:::
+
+:::
+
+::: {.section-rule}
+Data Pipelines
+:::
+
+::: {.repo-grid}
+
+::: {.repo-card}
+#### [BOL\_harmonization](https://github.com/wernerhl/BOL_harmonization)
+Bolivia Household Survey (Encuesta de Hogares) harmonization pipeline, 2011–2024. Standardizes 14 rounds for panel-consistent distributional analysis.
+[Data]{.repo-tag} [Stata]{.repo-tag} [Bolivia]{.repo-tag}
+:::
+
+::: {.repo-card}
+#### [BOL.data](https://github.com/wernerhl/BOL.data)
+Earlier harmonization of Bolivian household surveys. Legacy version.
+[Data]{.repo-tag} [Bolivia]{.repo-tag}
+:::
+
+:::
+
+::: {.section-rule}
+Dashboards and Tools
+:::
+
+::: {.repo-grid}
+
+::: {.repo-card}
+#### [ledgers-bolivia](https://github.com/wernerhl/ledgers-bolivia)
+*Ledgers of the Self-Employed* — live dashboard for informal firm accounting in Bolivia.
+[Dashboard]{.repo-tag} [Informality]{.repo-tag} [Bolivia]{.repo-tag}
+:::
+
+::: {.repo-card}
+#### [bolivia-ews](https://github.com/wernerhl/bolivia-ews)
+Bolivia P2P Early Warning System — real-time distributional monitoring tool.
+[Dashboard]{.repo-tag} [Monitoring]{.repo-tag} [Bolivia]{.repo-tag}
+:::
+
+:::

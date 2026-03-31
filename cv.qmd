@@ -1,0 +1,229 @@
+---
+title: "CV"
+pagetitle: "CV — Werner L. Hernani-Limarino"
+toc: true
+toc-title: "Sections"
+toc-depth: 2
+---
+
+::: {.section-rule}
+Education
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[University of Pennsylvania, Philadelphia, PA]{.cv-title} [June 2005]{.cv-date}
+:::
+::: {.cv-sub}
+Master in Economics
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Universidad Católica Boliviana, La Paz, Bolivia]{.cv-title} [June 1999]{.cv-date}
+:::
+::: {.cv-sub}
+Bachelor in Economics, Summa Cum Laude
+:::
+:::
+
+---
+
+::: {.section-rule}
+Professional Experience
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[IA Analytics]{.cv-title} [January 2025 – Present]{.cv-date}
+:::
+::: {.cv-sub}
+Founding Partner — CDMX, Mexico
+:::
+::: {.cv-desc}
+Independent research practice producing AI-based tools that improve firm and government decision-making. Current research program integrates machine learning methods into poverty measurement, distributional analysis, and social mobility for Latin America and the Caribbean across six themes. Produced 20+ working papers submitted to and under review at leading journals in the first year of operation.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[International Labour Office]{.cv-title} [June 2024 – December 2024]{.cv-date}
+:::
+::: {.cv-sub}
+Senior Economist Consultant — Lima, Peru
+:::
+::: {.cv-desc}
+Evaluated development effectiveness of ILO climate adaptation programs. Developed economic models to analyze distributional consequences of climate adaptation policy. Delivered training programs on distributional impact methods for country teams and national statistical offices.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Equity Policy Lab, The World Bank]{.cv-title} [October 2020 – May 2024]{.cv-date}
+:::
+::: {.cv-sub}
+Senior Economist E.T. Consultant — Washington, DC
+:::
+::: {.cv-desc}
+Developed economic models and tools to forecast distributional consequences of climate loss and damage. Responsible for social protection tools in Mali, Niger, Burkina Faso, Chad, Mauritania, Cameroon, South Africa, Turkey, Uzbekistan, Zimbabwe, and Benin. Built augmented PMT validated across 18+ countries.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Fundación ARU]{.cv-title} [August 2006 – September 2020]{.cv-date}
+:::
+::: {.cv-sub}
+Founding Executive Director (2006–2018); Distinguished Research Fellow (2018–2020) — La Paz, Bolivia
+:::
+::: {.cv-desc}
+Positioned ARU as a Top 3 think tank in Bolivia and Top 50 in the region. Secured $3M+ in core and project funding. Designed and executed 50+ research projects, 20+ data collection projects, 10+ impact evaluations, and 3 behavioral experiments. Independent evaluation estimated 650× ROI through contributions to Bolivian policy change.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Development Research Group, The World Bank]{.cv-title} [March 2002 – August 2003]{.cv-date}
+:::
+::: {.cv-sub}
+Full Time Consultant — Washington, DC (Supervisors: Peter Lanjouw, Quentin Wodon)
+:::
+::: {.cv-desc}
+Technical advisory on small-area estimation of disaggregated poverty maps. Joint production of the first poverty maps for Bolivia and Guatemala.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Research Department, Inter-American Development Bank]{.cv-title} [January 2001 – March 2002]{.cv-date}
+:::
+::: {.cv-sub}
+Research Fellow — Washington, DC (Supervisors: Suzanne Duryea, Carmen Pagés)
+:::
+::: {.cv-desc}
+Developed and maintained a data oracle of 200+ household surveys for LAC countries. Prepared inputs for the IDB's Report on Economic and Social Progress in Latin America.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Institute of Applied Economic Research (IPEA)]{.cv-title} [January 2000 – December 2000]{.cv-date}
+:::
+::: {.cv-sub}
+Research Fellow — Rio de Janeiro, Brazil (Supervisor: Ricardo Paes de Barros)
+:::
+::: {.cv-desc}
+Developed harmonized data bank of 50+ household surveys for Central America. Analyzed structural determinants of poverty and inequality. Studied racial disparities in Brazil's labor and education markets.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Economic and Social Policy Analysis Unit (UDAPE)]{.cv-title} [June 1999 – December 1999]{.cv-date}
+:::
+::: {.cv-sub}
+Junior Economist — La Paz, Bolivia
+:::
+::: {.cv-desc}
+Built microsimulation model to evaluate the impact of financial and commercial liberalization on poverty and inequality in Bolivia.
+:::
+:::
+
+---
+
+::: {.section-rule}
+Academic and Professional Leadership
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[LACEA Network of Inequality and Poverty]{.cv-title} [2018 – Present]{.cv-date}
+:::
+::: {.cv-desc}
+Network Head (2018–2022); Research Co-Director, RIDGE-LACEA (2022–2025). Set the research agenda for the region's principal academic network on poverty and inequality, coordinating competitive calls, training, conferences, and dissemination across Latin America and the Caribbean.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Bolivian Academy of Sciences]{.cv-title} [Since November 2013]{.cv-date}
+:::
+::: {.cv-desc}
+Académico de Número (Full Academician). Lifetime appointment in recognition of contributions to economic science.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Institute for Socio-economic Research, UCB]{.cv-title} [Since August 2018]{.cv-date}
+:::
+::: {.cv-desc}
+Research Fellow, Universidad Católica Boliviana.
+:::
+:::
+
+---
+
+::: {.section-rule}
+Selected Research Grants
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[UNICEF Innovation Fund]{.cv-title} [2025 – 2026]{.cv-date}
+:::
+::: {.cv-desc}
+Competitive seed finance for ML applications to small area estimation of undernutrition and child labor.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[IDB Latin American and Caribbean Research Network]{.cv-title} [2007 – 2019]{.cv-date}
+:::
+::: {.cv-desc}
+Seven competitive grants over twelve years covering social protection, savings, intergenerational mobility, unemployment insurance, education quality, and urban welfare.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[The Think Tank Initiative (IDRC)]{.cv-title} [2010 – 2019]{.cv-date}
+:::
+::: {.cv-desc}
+Core institutional grants, +$3,000,000 CAD. Strengthened capacity of Fundación ARU as an independent policy research institution.
+:::
+:::
+
+::: {.cv-entry}
+::: {.cv-header}
+[Partnership for Economic Policy]{.cv-title} [2014 – 2015]{.cv-date}
+:::
+::: {.cv-desc}
+Two competitive grants for community census data collection and community-based monitoring systems.
+:::
+:::
+
+---
+
+::: {.section-rule}
+Awards
+:::
+
+- Best Bolivian Economist Under 40, Hanns Seidel Foundation (2015)
+- Best Practice Research Award, Partnership for Economic Policy (2014)
+- Dean Fellowship Graduate Scholarship, University of Pennsylvania (2003–2004)
+- Academic Excellence Fellowship, Universidad Católica Boliviana (1998–1999)
+
+---
+
+::: {.section-rule}
+Languages and Software
+:::
+
+**Languages:** Spanish (native), English (proficient), Portuguese (proficient), French (basic)
+
+**Software:** Python, R, Stata, LaTeX, Git/GitHub
+
+**Tools:** GitHub Actions, Jupyter, matplotlib, React

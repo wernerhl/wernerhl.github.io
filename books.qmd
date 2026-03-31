@@ -1,0 +1,45 @@
+---
+title: "Books"
+pagetitle: "Books — Werner L. Hernani-Limarino"
+toc: false
+---
+
+::: {.section-rule}
+Books
+:::
+
+::: {.book-entry}
+::: {.book-title}
+El Paisaje Roto: Movilidad Social en Bolivia
+:::
+::: {.book-meta}
+Plural Editores, 2026
+:::
+:::
+
+::: {.book-entry}
+::: {.book-title}
+Hunger & Fire: How the Foods of the Oppressed Became the Meals of the Powerful
+:::
+::: {.book-meta}
+2025
+:::
+:::
+
+::: {.book-entry}
+::: {.book-title}
+Evaluando las Evaluaciones de Impacto: Assessing the Impact of Social Policies in Bolivia
+:::
+::: {.book-meta}
+Fundación ARU, 2015
+:::
+:::
+
+::: {.book-entry}
+::: {.book-title}
+Los maestros en Bolivia: Impacto, incentivos y desempeño
+:::
+::: {.book-meta}
+With M. Urquiola, W. Jiménez, and M.L. Talavera · Sierpe, 2000
+:::
+:::

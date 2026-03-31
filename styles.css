@@ -1,0 +1,18 @@
+/* Suppress Quarto auto-generated title area */
+#title-block-header { display: none !important; }
+.quarto-title-banner { display: none !important; }
+
+/* Tighten body width on larger screens */
+@media (min-width: 992px) {
+  .page-columns .column-body { max-width: 900px; }
+}
+
+/* Earlier publications list */
+.pub-list { list-style: none; padding-left: 0; }
+.pub-list li {
+  padding: 0.4rem 0 0.4rem 1.1em;
+  border-left: 2px solid #d0d8e4;
+  margin-bottom: 0.5rem;
+  font-size: 0.94rem;
+}
+.pub-list li .pub-source { color: #666; font-size: 0.87rem; }

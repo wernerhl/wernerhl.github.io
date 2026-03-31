@@ -1,0 +1,177 @@
+/*-- scss:defaults --*/
+$primary:   #1c2b4a;
+$link-color: #2a6496;
+$font-family-sans-serif: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+$headings-font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+$headings-font-weight: 700;
+$font-size-base: 1.02rem;
+$body-bg: #fafaf8;
+$body-color: #1a1a1a;
+
+/*-- scss:rules --*/
+
+/* ── Navbar ── */
+.navbar-brand { font-weight: 700; font-size: 1.05rem; letter-spacing: 0.02em; }
+
+/* ── Page header ── */
+.quarto-title { display: none; }
+.quarto-title-meta { display: none; }
+
+/* ── Profile block ── */
+.profile-block {
+  display: flex;
+  gap: 2.2rem;
+  align-items: flex-start;
+  margin-bottom: 2.2rem;
+  padding-bottom: 1.8rem;
+  border-bottom: 1px solid #d8d8d0;
+}
+.profile-block .profile-photo {
+  width: 130px;
+  min-width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #d0d0c8;
+}
+.profile-block .profile-photo-placeholder {
+  width: 130px;
+  min-width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  background: #dde4ed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #6a7fa0;
+  font-size: 2.5rem;
+}
+.profile-block .profile-text h1 {
+  font-size: 1.9rem;
+  margin: 0 0 0.15rem 0;
+  font-weight: 700;
+}
+.profile-block .profile-text .tagline {
+  color: #444;
+  font-size: 1.02rem;
+  margin: 0 0 0.6rem 0;
+}
+.profile-block .profile-text .links a {
+  color: #2a6496;
+  margin-right: 1.1rem;
+  font-size: 0.92rem;
+  text-decoration: none;
+  border-bottom: 1px solid #aac4e0;
+}
+.profile-block .profile-text .links a:hover { border-bottom-color: #2a6496; }
+
+/* ── Section rules ── */
+.section-rule {
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #1c2b4a;
+  border-bottom: 2px solid #1c2b4a;
+  padding-bottom: 3px;
+  margin: 2.2rem 0 0.9rem 0;
+}
+
+/* ── Research theme blocks ── */
+.theme-block {
+  margin-bottom: 2.2rem;
+}
+.theme-block h3 {
+  font-size: 1.02rem;
+  font-weight: 700;
+  color: #1c2b4a;
+  margin-bottom: 0.2rem;
+}
+.theme-block .theme-desc {
+  color: #444;
+  font-size: 0.93rem;
+  margin-bottom: 0.6rem;
+  font-style: italic;
+}
+.theme-block ul {
+  margin: 0;
+  padding-left: 1.3em;
+  list-style: none;
+}
+.theme-block ul li {
+  margin-bottom: 0.45rem;
+  font-size: 0.95rem;
+  line-height: 1.45;
+  position: relative;
+  padding-left: 0.8em;
+}
+.theme-block ul li::before {
+  content: "—";
+  position: absolute;
+  left: -0.5em;
+  color: #9aaabf;
+}
+.theme-block ul li .paper-status {
+  font-size: 0.82rem;
+  color: #888;
+  margin-left: 0.4em;
+}
+.theme-block ul li .paper-links a {
+  font-size: 0.82rem;
+  color: #2a6496;
+  margin-left: 0.4em;
+  text-decoration: none;
+  border-bottom: 1px dotted #aac4e0;
+}
+
+/* ── CV entries ── */
+.cv-entry {
+  margin-bottom: 1.1rem;
+}
+.cv-entry .cv-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.cv-entry .cv-title { font-weight: 700; }
+.cv-entry .cv-date { font-style: italic; color: #555; font-size: 0.9rem; white-space: nowrap; }
+.cv-entry .cv-sub { font-style: italic; color: #333; font-size: 0.94rem; }
+.cv-entry .cv-desc { font-size: 0.93rem; color: #333; margin-top: 0.25rem; }
+
+/* ── Book cards ── */
+.book-entry {
+  margin-bottom: 1.1rem;
+  padding-left: 0.8em;
+  border-left: 3px solid #c8d0dc;
+}
+.book-entry .book-title { font-weight: 700; font-style: italic; }
+.book-entry .book-meta { font-size: 0.9rem; color: #555; }
+
+/* ── Code / repo cards ── */
+.repo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+.repo-card {
+  background: #fff;
+  border: 1px solid #dde2e8;
+  border-radius: 8px;
+  padding: 1rem 1.1rem;
+  transition: box-shadow 0.18s;
+}
+.repo-card:hover { box-shadow: 0 2px 10px rgba(0,0,0,0.10); }
+.repo-card h4 { margin: 0 0 0.3rem 0; font-size: 0.95rem; }
+.repo-card h4 a { color: #1c2b4a; text-decoration: none; }
+.repo-card h4 a:hover { color: #2a6496; }
+.repo-card p { margin: 0; font-size: 0.87rem; color: #555; }
+.repo-card .repo-tag {
+  display: inline-block;
+  background: #eef2f7;
+  color: #2a6496;
+  font-size: 0.75rem;
+  padding: 1px 7px;
+  border-radius: 10px;
+  margin-top: 0.5rem;
+}

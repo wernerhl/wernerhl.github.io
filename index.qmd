@@ -1,0 +1,60 @@
+---
+title: "Home"
+pagetitle: "Werner L. Hernani-Limarino"
+toc: false
+---
+
+::: {.profile-block}
+::: {.profile-photo-placeholder}
+W
+:::
+::: {.profile-text}
+# Werner L. Hernani-Limarino
+
+::: {.tagline}
+Development economist · Poverty measurement · Distributional analysis · Intergenerational mobility
+:::
+
+::: {.links}
+[wernerhl\@gmail.com](mailto:wernerhl@gmail.com)
+[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=444875)
+[GitHub](https://github.com/wernerhl)
+[+1 706 706 5191](tel:+17067065191)
+Mexico City, Mexico
+:::
+:::
+:::
+
+Development economist specializing in poverty measurement, distributional analysis, and intergenerational mobility in Latin America and the Caribbean. Over 20 years of experience producing applied research, building measurement tools, and advising governments and international organizations on poverty targeting, social protection design, and evidence-based policy. Founding partner of IA Analytics; former founding executive director of Fundación ARU (ranked Top 10 independent think tank in LAC). Work experience with the World Bank, IDB, ILO, and IPEA across 20+ countries.
+
+::: {.section-rule}
+Current Research Program
+:::
+
+Six active themes producing working papers and submitted manuscripts:
+
+1. **[Income Measurement and the Invisible Firm](research.qmd#income-measurement)** — correcting self-employment income mis-measurement via ML and structural methods
+2. **[Optimal Poverty Targeting](research.qmd#optimal-targeting)** — augmented ML methods for PMT and poverty maps that work in the distribution tails
+3. **[Distributional Incidence Analysis](research.qmd#distributional-incidence)** — real-time monitoring tools for welfare impacts between survey rounds
+4. **[Structural Poverty and Informality](research.qmd#structural-poverty)** — distinguishing structurally trapped workers from the transitory poor
+5. **[Intergenerational Mobility](research.qmd#mobility)** — Mobility Frontier framework; schooling lag methodology; 18 LAC countries
+6. **[Gender, Adaptive Preferences, and Social Norms](research.qmd#gender)** — endogenous preferences and the limits of redistribution
+
+::: {.section-rule}
+Affiliations
+:::
+
+| | |
+|---|---|
+| **IA Analytics** | Founding Partner, 2025–present |
+| **LACEA Network of Inequality and Poverty** | Network Head 2018–2022; Research Co-Director RIDGE-LACEA 2022–2025 |
+| **Bolivian Academy of Sciences** | Académico de Número (Full Academician), since 2013 |
+| **Universidad Católica Boliviana** | Research Fellow, Institute for Socio-economic Research, since 2018 |
+
+::: {.section-rule}
+Selected Awards
+:::
+
+- Best Bolivian Economist Under 40, Hanns Seidel Foundation (2015)
+- Best Practice Research Award, Partnership for Economic Policy (2014)
+- Dean Fellowship Graduate Scholarship, University of Pennsylvania (2003–2004)

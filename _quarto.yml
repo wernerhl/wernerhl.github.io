@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Werner L. Hernani-Limarino"
+  site-url: https://wernerhl.github.io
+  favicon: images/favicon.svg
+  navbar:
+    background: "#1c2b4a"
+    foreground: "#f0f0f0"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: books.qmd
+        text: Books
+      - href: cv.qmd
+        text: CV
+      - href: code.qmd
+        text: Code
+    right:
+      - icon: github
+        href: https://github.com/wernerhl
+      - text: SSRN
+        href: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=444875
+  page-footer:
+    left: "Werner L. Hernani-Limarino"
+    right: "wernerhl@gmail.com"
+    background: "#1c2b4a"
+  page-navigation: false
+
+format:
+  html:
+    theme: [flatly, custom.scss]
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      sidebar-width: 0px
+      body-width: 900px
+      margin-width: 150px
