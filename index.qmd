@@ -81,7 +81,7 @@ Bolivia's national poverty rate tells you almost nothing about where poor people
 **Potosí, Oruro, and the northern altiplano remain the hardest hit. But the map reveals pockets of extreme deprivation hidden inside otherwise prosperous departments.** Child malnutrition follows a different geography than income poverty — and both differ from what targeting systems currently assume.
 :::
 ::: {.wn-links}
-[Explore the maps →](https://github.com/wernerhl/poverty-map-bolivia){.wn-btn .wn-btn-primary target="_blank"}
+[Explore the maps →](https://wernerhl.github.io/poverty-map-bolivia/){.wn-btn .wn-btn-primary target="_blank"}
 [Working paper →](research.qmd#optimal-targeting){.wn-btn .wn-btn-secondary}
 :::
 :::
