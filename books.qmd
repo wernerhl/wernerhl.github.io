@@ -10,6 +10,9 @@ Books
 
 <!-- ── Mi Otro Género ── -->
 ::: {.book-card}
+::: {.book-cover}
+![](images/covers/mi_otro_genero.jpg)
+:::
 ::: {.book-info}
 ::: {.book-title}
 Mi Otro Género
