@@ -266,6 +266,9 @@ Persistent gender inequality operates through preferences and norms, not just en
 </li>
 <li>
 *Mainstreaming the Wrong Channel: Gender Policy, Adaptive Preferences, and the Limits of Redistribution*
+<span class="paper-links">
+<a href="https://github.com/wernerhl/working-papers/raw/main/mainstreaming_wrong_channel.pdf" target="_blank">[WP]</a>
+</span>
 <span class="paper-status">— Working Paper</span>
 </li>
 <li>
