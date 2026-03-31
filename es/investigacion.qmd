@@ -26,7 +26,6 @@ Los instrumentos de encuesta tradicionales diseñados para trabajadores asalaria
 <li>
 *Ledgers of the Self-Employed: Accounting for the Invisible Firm*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6338941" target="_blank">[SSRN]</a>
 <a href="https://github.com/wernerhl/ledgers-bolivia" target="_blank">[GitHub]</a>
 </span>
 <span class="paper-status">— Documento de trabajo</span>
@@ -41,6 +40,9 @@ Los instrumentos de encuesta tradicionales diseñados para trabajadores asalaria
 </li>
 <li>
 *Recovering Individual Labor Earnings from Household Consumption: A Collective Model Approach with an Application to the Sahel G5*
+<span class="paper-links">
+<a href="https://ssrn.com/abstract=6332779" target="_blank">[SSRN]</a>
+</span>
 <span class="paper-status">— Documento de trabajo</span>
 </li>
 <li>
@@ -69,6 +71,9 @@ Las pruebas de medios de vida sustitutos y los mapas de pobreza fallan donde las
 </li>
 <li>
 *Poverty Mapping in the Tails*
+<span class="paper-links">
+<a href="https://ssrn.com/abstract=6338941" target="_blank">[SSRN]</a>
+</span>
 <span class="paper-status">— Enviado, *Journal of Econometrics*</span>
 </li>
 <li>
@@ -117,6 +122,7 @@ Cuando los gobiernos reforman subsidios, las monedas colapsan o los shocks clim�
 <li>
 *Who Bears the Cost of Devaluation? Price Dynamics and Welfare Impacts During Bolivia's 2024–2025 Currency Crisis*
 <span class="paper-links">
+<a href="https://ssrn.com/abstract=6347479" target="_blank">[SSRN]</a>
 <a href="https://github.com/wernerhl/BOL-NoReturns" target="_blank">[GitHub]</a>
 </span>
 <span class="paper-status">— Objetivo: *Latin American Journal of Development*</span>
@@ -157,17 +163,20 @@ No toda pobreza es igual. Distingo los trabajadores estructuralmente atrapados e
 <li>
 *Trapped by Cash: A Theory of Voluntary Informality Among the Economically Non-Viable*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6338941" target="_blank">[SSRN]</a>
 <a href="https://github.com/wernerhl/working-papers/raw/main/trapped_by_cash.pdf" target="_blank">[WP]</a>
 </span>
 <span class="paper-status">— Documento de trabajo</span>
 </li>
 <li>
 *To Be a Taquero or to Build a Taquería: Occupational Sorting under Risk and Embedded Capital*
-<span class="paper-links">
-<a href="https://ssrn.com/abstract=6332698" target="_blank">[SSRN]</a>
-</span>
 <span class="paper-status">— Objetivo: *Journal of Development Economics*</span>
+</li>
+<li>
+*Narcocorridos as Recruitment Technology: Cultural Prestige Production, Adverse Selection, and Criminal Human Capital in Mexico and Brazil*
+<span class="paper-links">
+<a href="https://ssrn.com/abstract=6419718" target="_blank">[SSRN]</a>
+</span>
+<span class="paper-status">— Documento de trabajo</span>
 </li>
 </ul>
 :::
@@ -209,7 +218,17 @@ La caída de los coeficientes intergeneracionales en ALC oculta una rigidez posi
 </li>
 <li>
 *Mexico's Mobility Mirage: Falling Intergenerational Coefficients, Rising Positional Rigidity*
+<span class="paper-links">
+<a href="https://ssrn.com/abstract=6441578" target="_blank">[SSRN]</a>
+</span>
 <span class="paper-status">— Objetivo: *Journal of Development Economics*</span>
+</li>
+<li>
+*The Road of No Returns: 25 Years of Returns to Education in Bolivia (1999–2024)*
+<span class="paper-links">
+<a href="https://ssrn.com/abstract=6406038" target="_blank">[SSRN]</a>
+</span>
+<span class="paper-status">— Documento de trabajo</span>
 </li>
 <li>
 *Between Communities and Within Them: A Five-Census Decomposition of Intergenerational Persistence in Bolivia, 1976–2024*
@@ -235,21 +254,29 @@ La persistente desigualdad de género opera a través de preferencias y normas, 
 <li>
 *Adaptive Preferences, Endogenous Returns, and the Failure of the Second Welfare Theorem*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6338941" target="_blank">[SSRN]</a>
+<a href="https://ssrn.com/abstract=6325738" target="_blank">[SSRN]</a>
 </span>
 <span class="paper-status">— Documento de trabajo</span>
 </li>
 <li>
 *Mainstreaming the Wrong Channel: Gender Policy, Adaptive Preferences, and the Limits of Redistribution*
-<span class="paper-links">
-<a href="https://ssrn.com/abstract=6338941" target="_blank">[SSRN]</a>
-</span>
 <span class="paper-status">— Documento de trabajo</span>
 </li>
 <li>
 *Compounding Penalties: Gender, Ethnicity, and the Structure of Wage Inequality Among Indigenous Women in Latin America*
+<span class="paper-status">— Documento de trabajo</span>
+</li>
+<li>
+*Adaptive Preferences, Social Filters, and the Political Economy of Gendered Inequality*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6338941" target="_blank">[SSRN]</a>
+<a href="https://ssrn.com/abstract=6325779" target="_blank">[SSRN]</a>
+</span>
+<span class="paper-status">— Documento de trabajo</span>
+</li>
+<li>
+*Where Does the Money Go? Financial Inclusion, Sectoral Savings, and the Gender Misallocation Trap*
+<span class="paper-links">
+<a href="https://ssrn.com/abstract=6353618" target="_blank">[SSRN]</a>
 </span>
 <span class="paper-status">— Documento de trabajo</span>
 </li>
