@@ -219,6 +219,61 @@ Awards
 ---
 
 ::: {.section-rule}
+Earlier Publications (Selected)
+:::
+
+<ul class="pub-list">
+<li>
+*What Separates Bolivians From Each Other? A Survey Experiment on the Effects of Social Identities on Trust and Affection* (with P. Ojeda). *Revista Latinoamericana de Desarrollo Económico* (LAJED), No. 42, 2024.
+<span class="paper-links"><a href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&pid=S2074-47062024000200107" target="_blank">[SciELO]</a></span>
+</li>
+<li>
+*Meta-analysis of ILO interventions in Latin America and the Caribbean on child labor, forced labor and human trafficking.*
+<span class="pub-source">International Labour Organization, 2020.</span>
+</li>
+<li>
+*Efectos intencionados y no intencionados de Transferencias Monetarias no Condicionadas: El Caso de la Renta Dignidad* (with G. Mena). *Revista Latinoamericana de Desarrollo Económico* (LAJED), Special Edition, 2015.
+<span class="paper-links"><a href="https://doi.org/10.35319/lajed.20150375" target="_blank">[DOI]</a></span>
+</li>
+<li>
+*Evaluando el Impacto de Microcréditos en Bolivia: Evidencia del Crédito Productivo Individual — Banco de Desarrollo Productivo* (with P. Villarroel). *Revista Latinoamericana de Desarrollo Económico* (LAJED), Special Edition, 2015.
+<span class="paper-links"><a href="https://doi.org/10.35319/lajed.20150377" target="_blank">[DOI]</a></span>
+</li>
+<li>
+*Intended and Unintended Effects of Non-contributory Pensions: The Case of Bolivia's Renta Dignidad* (with G. Mena).
+<span class="pub-source">IDB Working Paper Series No. IDB-WP-631, 2015.</span>
+<span class="paper-links"><a href="https://github.com/wernerhl/working-papers/raw/main/idb_wp631_renta_dignidad.pdf" target="_blank">[WP]</a></span>
+</li>
+<li>
+*Are Teachers Well Paid in Latin America and the Caribbean?* In *Incentives to Improve Teaching: Lessons from Latin America*, E. Vegas (Ed.).
+<span class="pub-source">World Bank, 2005.</span>
+</li>
+<li>
+*Regional Integration and Wage Inequality* (with S. Duryea and R. Robertson). In *Beyond Borders: 2002 Report on Economic and Social Progress in Latin America*.
+<span class="pub-source">Inter-American Development Bank, 2002.</span>
+</li>
+<li>
+*Bolivia: Efectos de la Liberalización sobre el Crecimiento, Empleo, Distribución del Ingreso y Pobreza* (with R. Pereira and W. Jiménez). In *Liberalización, Desigualdad y Pobreza: América Latina y el Caribe en los 90*.
+<span class="pub-source">UNDP, 2002.</span>
+</li>
+<li>
+*La evolución de la pobreza en Bolivia: un enfoque multidimensional* (with P. Villarroel). *Revista Latinoamericana de Desarrollo Económico* (LAJED), No. 20, 2013, pp. 7–74.
+<span class="paper-links"><a href="https://doi.org/10.35319/lajed.201320101" target="_blank">[DOI]</a> <a href="https://github.com/wernerhl/working-papers/raw/main/aru_wp_pobreza_multidimensional.pdf" target="_blank">[WP]</a></span>
+</li>
+<li>
+*Pobreza monetaria. Crecimiento y redistribución* (with A. Uribe). *Revista Latinoamericana de Desarrollo Económico* (LAJED), No. 20, 2013, pp. 149–230.
+<span class="paper-links"><a href="https://doi.org/10.35319/lajed.201320104" target="_blank">[DOI]</a></span>
+</li>
+<li>
+*Unemployment in Bolivia: Risks and Labor Market Policies* (with E. Yáñez and M.A. Villegas).
+<span class="pub-source">IDB Working Paper Series No. IDB-WP-271.</span>
+<span class="paper-links"><a href="https://github.com/wernerhl/working-papers/raw/main/idb_wp271_unemployment_bolivia.pdf" target="_blank">[WP]</a></span>
+</li>
+</ul>
+
+---
+
+::: {.section-rule}
 Languages and Software
 :::
 
