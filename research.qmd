@@ -75,6 +75,9 @@ Proxy means tests and poverty maps break down where poverty populations concentr
 </li>
 <li>
 *Data Augmentation for Bias Reduction in Imbalanced Regression*
+<span class="paper-links">
+<a href="https://github.com/wernerhl/working-papers/raw/main/data_augmentation.pdf" target="_blank">[WP]</a>
+</span>
 <span class="paper-status">— Working Paper</span>
 </li>
 </ul>
@@ -97,6 +100,14 @@ When governments reform subsidies, currencies collapse, or climate shocks hit, w
 <li>
 *Forecasting the Distributional Impacts of Climate Change and Climate Policy*
 <span class="paper-status">— World Bank Technical Note</span>
+</li>
+<li>
+*P2P Dollars as an Early Warning System: Exchange Market Pressure, Panic Premia, and the Currency Stress Cycle in Bolivia*
+<span class="paper-links">
+<a href="https://github.com/wernerhl/working-papers/raw/main/p2p_ews_bolivia.pdf" target="_blank">[WP]</a>
+<a href="https://wernerhl.github.io/bolivia-ews/" target="_blank">[Dashboard]</a>
+</span>
+<span class="paper-status">— Working Paper WP/2026/01</span>
 </li>
 <li>
 *Who Bears the Cost of Devaluation? Price Dynamics and Welfare Impacts During Bolivia's 2024–2025 Currency Crisis*
@@ -142,6 +153,7 @@ Not all poverty is the same. I distinguish workers structurally trapped in loss-
 *Trapped by Cash: A Theory of Voluntary Informality Among the Economically Non-Viable*
 <span class="paper-links">
 <a href="https://ssrn.com/abstract=6338941" target="_blank">[SSRN]</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/trapped_by_cash.pdf" target="_blank">[WP]</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
@@ -167,6 +179,16 @@ Falling intergenerational coefficients across LAC mask rising positional rigidit
 <ul>
 <li>
 *The Mobility Frontier: Why the Intergenerational Elasticity Is an Insufficient Statistic*
+<span class="paper-links">
+<a href="https://github.com/wernerhl/working-papers/raw/main/mobility_frontier.pdf" target="_blank">[WP]</a>
+</span>
+<span class="paper-status">— Working Paper</span>
+</li>
+<li>
+*Ladders and Gates: Where Opportunity Breaks in Mexico*
+<span class="paper-links">
+<a href="https://github.com/wernerhl/working-papers/raw/main/ladders_and_gates.pdf" target="_blank">[WP]</a>
+</span>
 <span class="paper-status">— Working Paper</span>
 </li>
 <li>
@@ -175,6 +197,9 @@ Falling intergenerational coefficients across LAC mask rising positional rigidit
 </li>
 <li>
 *The Schooling Lag: Rank Persistence and the Measurement of Intergenerational Educational Mobility*
+<span class="paper-links">
+<a href="https://github.com/wernerhl/working-papers/raw/main/schooling_lag.pdf" target="_blank">[WP]</a>
+</span>
 <span class="paper-status">— Submitted, *Review of Income and Wealth*</span>
 </li>
 <li>
@@ -220,6 +245,13 @@ Persistent gender inequality operates through preferences and norms, not just en
 *Compounding Penalties: Gender, Ethnicity, and the Structure of Wage Inequality Among Indigenous Women in Latin America*
 <span class="paper-links">
 <a href="https://ssrn.com/abstract=6338941" target="_blank">[SSRN]</a>
+</span>
+<span class="paper-status">— Working Paper</span>
+</li>
+<li>
+*Skills or Parks? A Nested Test of Dynamic Complementarity versus Preference Formation in Early Childhood*
+<span class="paper-links">
+<a href="https://github.com/wernerhl/working-papers/raw/main/skills_or_parks.pdf" target="_blank">[WP]</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
