@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - googled9da81be1208eed8.html
+    - robots.txt
+    - sitemap.xml
 
 website:
   title: "Werner L. Hernani-Limarino"
