@@ -373,7 +373,7 @@ Persistent gender inequality operates through preferences and norms, not just en
 <span class="pub-source">UNDP, 2002.</span>
 </li>
 
-**Bolivia — Survey Experiment**
+**Bolivia — Survey Experiments**
 
 <li>
 *¿Qué Separa a los Bolivianos? Un Estudio Experimental de los Efectos de las Identidades Sociales en la Confianza y el Afecto.*
@@ -383,6 +383,13 @@ Persistent gender inequality operates through preferences and norms, not just en
 <a href="https://github.com/wernerhl/working-papers/raw/main/que_separa_bolivianos_slides.key" target="_blank">Slides (Keynote)</a>
 </span>
 <span class="pub-source">*Revista Latinoamericana de Desarrollo Económico*, 2024.</span>
+</li>
+<li>
+*Understanding Changes in Social Cohesion in Bolivia* (with M.A. Villegas).
+<span class="paper-links">
+<a href="https://www.aru.org.bo/REPEC/pdf/understanding-changes-in-social-cohesion-bolivia.pdf" target="_blank">PDF</a>
+</span>
+<span class="pub-source">International Conference on Social Cohesion and Development, OECD, 2010.</span>
 </li>
 
 **Impact Evaluation of Bolivian Social Programs** — *Revista Latinoamericana de Desarrollo Económico*, 2015.
