@@ -22,14 +22,14 @@ Traditional survey instruments designed for wage workers produce income figures 
 <li>
 *Ledgers of the Self-Employed: Accounting for the Invisible Firm*
 <span class="paper-links">
-<a href="https://github.com/wernerhl/ledgers-bolivia" target="_blank">[GitHub]</a>
+<a href="https://github.com/wernerhl/ledgers-bolivia" target="_blank">GitHub</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
 <li>
 *The Income You Can't See: Detecting and Correcting Self-Employment Measurement Error with Unsupervised Machine Learning*
 <span class="paper-links">
-<a href="https://github.com/wernerhl/working-papers/raw/main/income_you_cant_see.pdf" target="_blank">[WP]</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/income_you_cant_see.pdf" target="_blank">PDF</a>
 </span>
 <span class="paper-status">— Submitted, *Journal of Development Economics*</span>
 </li>
@@ -40,7 +40,7 @@ Traditional survey instruments designed for wage workers produce income figures 
 <li>
 *Recovering Individual Labor Earnings from Household Consumption: A Collective Model Approach with an Application to the Sahel G5*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6332779" target="_blank">[SSRN]</a>
+<a href="https://ssrn.com/abstract=6332779" target="_blank">SSRN</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
@@ -64,28 +64,28 @@ Proxy means tests and poverty maps break down where poverty populations concentr
 <li>
 *Optimal Poverty Prediction Under Measurement Error: Theory and Evidence from Augmented Machine Learning*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6332698" target="_blank">[SSRN]</a>
+<a href="https://ssrn.com/abstract=6332698" target="_blank">SSRN</a>
 </span>
 <span class="paper-status">— Review & Resubmit, *Journal of Applied Econometrics*</span>
 </li>
 <li>
 *Poverty Mapping in the Tails*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6338941" target="_blank">[SSRN]</a>
+<a href="https://ssrn.com/abstract=6338941" target="_blank">SSRN</a>
 </span>
 <span class="paper-status">— Submitted, *Journal of Econometrics*</span>
 </li>
 <li>
 *The Tail Test: A Factorial Simulation on the Sources of DRF Advantage in Small Area Estimation*
 <span class="paper-links">
-<a href="https://github.com/wernerhl/tail-test-replication" target="_blank">[GitHub]</a>
+<a href="https://github.com/wernerhl/tail-test-replication" target="_blank">GitHub</a>
 </span>
 <span class="paper-status">— Submitted, *Journal of the Royal Statistical Society, Series A*</span>
 </li>
 <li>
 *Data Augmentation for Bias Reduction in Imbalanced Regression*
 <span class="paper-links">
-<a href="https://github.com/wernerhl/working-papers/raw/main/data_augmentation.pdf" target="_blank">[WP]</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/data_augmentation.pdf" target="_blank">PDF</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
@@ -109,24 +109,24 @@ When governments reform subsidies, currencies collapse, or climate shocks hit, w
 <li>
 *Forecasting the Distributional Impacts of Climate Change and Climate Policy*
 <span class="paper-links">
-<a href="https://github.com/wernerhl/working-papers/raw/main/wb_climate_microsimulation.pdf" target="_blank">[WP]</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/wb_climate_microsimulation.pdf" target="_blank">PDF</a>
 </span>
 <span class="paper-status">— World Bank Technical Note</span>
 </li>
 <li>
 *P2P Dollars as an Early Warning System: Exchange Market Pressure, Panic Premia, and the Currency Stress Cycle in Bolivia*
 <span class="paper-links">
-<a href="https://github.com/wernerhl/working-papers/raw/main/p2p_ews_bolivia.pdf" target="_blank">[WP]</a>
-<a href="https://wernerhl.github.io/bolivia-ews/" target="_blank">[Dashboard]</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/p2p_ews_bolivia.pdf" target="_blank">PDF</a>
+<a href="https://wernerhl.github.io/bolivia-ews/" target="_blank">Dashboard</a>
 </span>
 <span class="paper-status">— Working Paper WP/2026/01</span>
 </li>
 <li>
 *Who Bears the Cost of Devaluation? Price Dynamics and Welfare Impacts During Bolivia's 2024–2025 Currency Crisis*
 <span class="paper-links">
-<a href="https://doi.org/10.35319/lajed.202544558" target="_blank">[DOI]</a>
-<a href="https://ssrn.com/abstract=6347479" target="_blank">[SSRN]</a>
-<a href="https://github.com/wernerhl/BOL-NoReturns" target="_blank">[GitHub]</a>
+<a href="https://doi.org/10.35319/lajed.202544558" target="_blank" class="paper-link-published">DOI</a>
+<a href="https://ssrn.com/abstract=6347479" target="_blank">SSRN</a>
+<a href="https://github.com/wernerhl/BOL-NoReturns" target="_blank">GitHub</a>
 </span>
 <span class="paper-status">— Published, *Revista Latinoamericana de Desarrollo Económico*, No. 44, 2025</span>
 </li>
@@ -158,7 +158,7 @@ Not all poverty is the same. I distinguish workers structurally trapped in loss-
 <li>
 *Quantifying Permanent, Structural, and Transitory Income Components with Machine Learning: Re-examining the Inequality Decline in Latin America*
 <span class="paper-links">
-<a href="https://github.com/wernerhl/working-papers/raw/main/structural_income_ml.pdf" target="_blank">[WP]</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/structural_income_ml.pdf" target="_blank">PDF</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
@@ -173,7 +173,7 @@ Not all poverty is the same. I distinguish workers structurally trapped in loss-
 <li>
 *Trapped by Cash: A Theory of Voluntary Informality Among the Economically Non-Viable*
 <span class="paper-links">
-<a href="https://github.com/wernerhl/working-papers/raw/main/trapped_by_cash.pdf" target="_blank">[WP]</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/trapped_by_cash.pdf" target="_blank">PDF</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
@@ -184,7 +184,7 @@ Not all poverty is the same. I distinguish workers structurally trapped in loss-
 <li>
 *Narcocorridos as Recruitment Technology: Cultural Prestige Production, Adverse Selection, and Criminal Human Capital in Mexico and Brazil*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6419718" target="_blank">[SSRN]</a>
+<a href="https://ssrn.com/abstract=6419718" target="_blank">SSRN</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
@@ -204,14 +204,14 @@ Falling intergenerational coefficients across LAC mask rising positional rigidit
 <li>
 *The Mobility Frontier: Why the Intergenerational Elasticity Is an Insufficient Statistic*
 <span class="paper-links">
-<a href="https://github.com/wernerhl/working-papers/raw/main/mobility_frontier.pdf" target="_blank">[WP]</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/mobility_frontier.pdf" target="_blank">PDF</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
 <li>
 *Ladders and Gates: Where Opportunity Breaks in Mexico*
 <span class="paper-links">
-<a href="https://github.com/wernerhl/working-papers/raw/main/ladders_and_gates.pdf" target="_blank">[WP]</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/ladders_and_gates.pdf" target="_blank">PDF</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
@@ -222,21 +222,21 @@ Falling intergenerational coefficients across LAC mask rising positional rigidit
 <li>
 *The Schooling Lag: Rank Persistence and the Measurement of Intergenerational Educational Mobility*
 <span class="paper-links">
-<a href="https://github.com/wernerhl/working-papers/raw/main/schooling_lag.pdf" target="_blank">[WP]</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/schooling_lag.pdf" target="_blank">PDF</a>
 </span>
 <span class="paper-status">— Submitted, *Review of Income and Wealth*</span>
 </li>
 <li>
 *Mexico's Mobility Mirage: Falling Intergenerational Coefficients, Rising Positional Rigidity*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6441578" target="_blank">[SSRN]</a>
+<a href="https://ssrn.com/abstract=6441578" target="_blank">SSRN</a>
 </span>
 <span class="paper-status">— Submitted, *Journal of Development Economics*</span>
 </li>
 <li>
 *The Road of No Returns: 25 Years of Returns to Education in Bolivia (1999–2024)*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6406038" target="_blank">[SSRN]</a>
+<a href="https://ssrn.com/abstract=6406038" target="_blank">SSRN</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
@@ -264,14 +264,14 @@ Persistent gender inequality operates through preferences and norms, not just en
 <li>
 *Adaptive Preferences, Endogenous Returns, and the Failure of the Second Welfare Theorem*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6325738" target="_blank">[SSRN]</a>
+<a href="https://ssrn.com/abstract=6325738" target="_blank">SSRN</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
 <li>
 *Mainstreaming the Wrong Channel: Gender Policy, Adaptive Preferences, and the Limits of Redistribution*
 <span class="paper-links">
-<a href="https://github.com/wernerhl/working-papers/raw/main/mainstreaming_wrong_channel.pdf" target="_blank">[WP]</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/mainstreaming_wrong_channel.pdf" target="_blank">PDF</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
@@ -282,21 +282,21 @@ Persistent gender inequality operates through preferences and norms, not just en
 <li>
 *Adaptive Preferences, Social Filters, and the Political Economy of Gendered Inequality*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6325779" target="_blank">[SSRN]</a>
+<a href="https://ssrn.com/abstract=6325779" target="_blank">SSRN</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
 <li>
 *Where Does the Money Go? Financial Inclusion, Sectoral Savings, and the Gender Misallocation Trap*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6353618" target="_blank">[SSRN]</a>
+<a href="https://ssrn.com/abstract=6353618" target="_blank">SSRN</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
 <li>
 *Skills or Parks? A Nested Test of Dynamic Complementarity versus Preference Formation in Early Childhood*
 <span class="paper-links">
-<a href="https://github.com/wernerhl/working-papers/raw/main/skills_or_parks.pdf" target="_blank">[WP]</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/skills_or_parks.pdf" target="_blank">PDF</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>

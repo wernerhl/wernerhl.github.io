@@ -194,14 +194,37 @@ $body-color: #1a1a1a;
 .theme-block ul li .paper-status {
   font-size: 0.82rem;
   color: #888;
-  margin-left: 0.4em;
+  display: block;
+  margin-top: 0.2em;
+}
+.theme-block ul li .paper-links {
+  display: inline-flex;
+  gap: 0.45rem;
+  flex-wrap: wrap;
+  margin-left: 0.3em;
 }
 .theme-block ul li .paper-links a {
-  font-size: 0.82rem;
+  font-size: 0.78rem;
   color: #2a6496;
-  margin-left: 0.4em;
+  border: 1px solid #b0c8df;
+  border-radius: 4px;
+  padding: 1px 9px;
   text-decoration: none;
-  border-bottom: 1px dotted #aac4e0;
+  transition: background 0.15s;
+  white-space: nowrap;
+}
+.theme-block ul li .paper-links a:hover {
+  background: #eef4fa;
+  text-decoration: none;
+}
+.theme-block ul li .paper-links a.paper-link-published {
+  background: #2a6496;
+  border-color: #2a6496;
+  color: #fff;
+  font-weight: 600;
+}
+.theme-block ul li .paper-links a.paper-link-published:hover {
+  background: #1d4e73;
 }
 
 /* ── CV entries ── */
