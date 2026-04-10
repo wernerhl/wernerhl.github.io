@@ -305,6 +305,111 @@ Persistent gender inequality operates through preferences and norms, not just en
 
 ---
 
+## Bolivia: Applied Research and Live Tools {#bolivia}
+
+::: {.theme-block}
+::: {.theme-desc}
+Bolivia is where I test the methods. Twenty-five years of household survey data (1999–2024), five population censuses (1976–2024), a 339-municipality poverty and nutrition map, a live currency early warning system, a purpose-built financial diary of 500 informal firms, and trust experiments with monetary rewards — all from the same country. This is what deep country engagement looks like.
+:::
+
+**Live dashboards and interactive tools**
+
+<ul>
+<li>
+*Bolivia P2P Dollar — Early Warning System*
+<span class="paper-links">
+<a href="https://wernerhl.github.io/bolivia-ews/" target="_blank">Live Dashboard</a>
+</span>
+<span class="paper-status">Dynamic Factor Model + Kalman filter. Updated daily from Binance P2P order book.</span>
+</li>
+<li>
+*Bolivia Poverty & Nutrition Map 2024 — 339 Municipalities*
+<span class="paper-links">
+<a href="https://wernerhl.github.io/poverty-map-bolivia/" target="_blank">Interactive Map</a>
+</span>
+<span class="paper-status">Census 2024 + DRF + BYM2 + Optimal Transport calibration. Poverty, extreme poverty, stunting, wasting, anemia.</span>
+</li>
+<li>
+*Implicit Association Test — Racial Bias in Latin America*
+<span class="paper-links">
+<a href="https://wernerhl.github.io/iat-pilot/" target="_blank">Take the Test</a>
+</span>
+<span class="paper-status">Measures implicit bias against indigenous names and faces. 7-minute online experiment.</span>
+</li>
+</ul>
+
+**Bolivia-focused papers** (cross-referenced from themes above)
+
+<ul>
+<li>
+*P2P Dollars as an Early Warning System: Exchange Market Pressure, Panic Premia, and the Currency Stress Cycle in Bolivia*
+<span class="paper-links">
+<a href="https://github.com/wernerhl/working-papers/raw/main/p2p_ews_bolivia.pdf" target="_blank">PDF</a>
+<a href="https://wernerhl.github.io/bolivia-ews/" target="_blank">Dashboard</a>
+</span>
+<span class="paper-status">— Working Paper · [Theme 3](#distributional-incidence)</span>
+</li>
+<li>
+*Who Bears the Cost of Devaluation? Price Dynamics and Welfare Impacts During Bolivia's 2024–2025 Currency Crisis*
+<span class="paper-links">
+<a href="https://doi.org/10.35319/lajed.202544558" target="_blank" class="paper-link-published">DOI</a>
+<a href="https://ssrn.com/abstract=6347479" target="_blank">SSRN</a>
+</span>
+<span class="paper-status">— Published, *Revista Latinoamericana de Desarrollo Económico*, 2025 · [Theme 3](#distributional-incidence)</span>
+</li>
+<li>
+*Ledgers of the Self-Employed: Accounting for the Invisible Firm* — 300 firms, 14,902 transactions, double-entry financial diary
+<span class="paper-links">
+<a href="https://github.com/wernerhl/ledgers-bolivia" target="_blank">GitHub</a>
+</span>
+<span class="paper-status">— Working Paper · [Theme 1](#income-measurement)</span>
+</li>
+<li>
+*Trapped by Cash: A Theory of Voluntary Informality Among the Economically Non-Viable* — 500 firms, four-type equilibrium partition
+<span class="paper-links">
+<a href="https://github.com/wernerhl/working-papers/raw/main/trapped_by_cash.pdf" target="_blank">PDF</a>
+</span>
+<span class="paper-status">— Working Paper · [Theme 4](#structural-poverty)</span>
+</li>
+<li>
+*The Road of No Returns: 25 Years of Returns to Education in Bolivia (1999–2024)*
+<span class="paper-links">
+<a href="https://ssrn.com/abstract=6406038" target="_blank">SSRN</a>
+</span>
+<span class="paper-status">— Working Paper · [Theme 5](#mobility)</span>
+</li>
+<li>
+*Between Communities and Within Them: A Five-Census Decomposition of Intergenerational Persistence in Bolivia, 1976–2024*
+<span class="paper-status">— Working Paper · [Theme 5](#mobility)</span>
+</li>
+<li>
+*La evolución de la pobreza en Bolivia: un enfoque multidimensional* (with P. Villarroel).
+<span class="paper-links">
+<a href="https://lajed.ucb.edu.bo/a/article/view/a126" target="_blank" class="paper-link-published">DOI</a>
+</span>
+<span class="paper-status">— *Revista Latinoamericana de Desarrollo Económico*, No. 20, 2013</span>
+</li>
+<li>
+*¿Qué Separa a los Bolivianos? Un Estudio Experimental de los Efectos de las Identidades Sociales en la Confianza y el Afecto*
+<span class="paper-links">
+<a href="https://lajed.ucb.edu.bo/a/article/view/541" target="_blank" class="paper-link-published">DOI</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/que_separa_bolivianos_slides.pptx" target="_blank">Slides</a>
+</span>
+<span class="paper-status">— *Revista Latinoamericana de Desarrollo Económico*, 2024</span>
+</li>
+<li>
+*Understanding Changes in Social Cohesion in Bolivia* (with M.A. Villegas).
+<span class="paper-links">
+<a href="https://www.aru.org.bo/REPEC/pdf/understanding-changes-in-social-cohesion-bolivia.pdf" target="_blank">PDF</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/social_cohesion_bolivia_slides.pptx" target="_blank">Slides</a>
+</span>
+<span class="paper-status">— OECD Conference on Social Cohesion and Development, 2010</span>
+</li>
+</ul>
+:::
+
+---
+
 ## Earlier Publications (Selected)
 
 <ul class="pub-list">
