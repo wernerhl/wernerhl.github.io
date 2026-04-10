@@ -308,28 +308,15 @@ Persistent gender inequality operates through preferences and norms, not just en
 ## Earlier Publications (Selected)
 
 <ul class="pub-list">
-<li>
-*¿Qué Separa a los Bolivianos? Un Estudio Experimental de los Efectos de las Identidades Sociales en la Confianza y el Afecto.*
-<span class="paper-links">
-<a href="https://lajed.ucb.edu.bo/a/article/view/541" target="_blank" class="paper-link-published">DOI</a>
-<a href="https://github.com/wernerhl/working-papers/raw/main/que_separa_bolivianos_slides.pptx" target="_blank">Slides (PPTX)</a>
-<a href="https://github.com/wernerhl/working-papers/raw/main/que_separa_bolivianos_slides.key" target="_blank">Slides (Keynote)</a>
-</span>
-<span class="pub-source">*Revista Latinoamericana de Desarrollo Económico*, 2024.</span>
-</li>
+
+**International Labour Organization**
+
 <li>
 *El trabajo del hogar en el Perú: características, cumplimiento de derechos y reconocimiento social.*
 <span class="paper-links">
 <a href="https://www.ilo.org/es/publications/promoviendo-el-trabajo-decente-para-las-trabajadoras-del-hogar-de-peru" target="_blank">ILO</a>
 </span>
 <span class="pub-source">Organización Internacional del Trabajo, 2025.</span>
-</li>
-<li>
-*Magnitud y Características del Trabajo Infantil en Bolivia: Informe Nacional 2008.*
-<span class="paper-links">
-<a href="https://www.ilo.org/sites/default/files/2025-05/nat_rep_bol.pdf" target="_blank">PDF</a>
-</span>
-<span class="pub-source">Organización Internacional del Trabajo, 2008.</span>
 </li>
 <li>
 *Aprendiendo sobre la transversalización de la perspectiva de género: Avances y matices en los programas de trabajo de la OIT en América Latina y el Caribe, 2010–2021* (with A. Eid Valdiviezo and N. Echenique).
@@ -346,6 +333,16 @@ Persistent gender inequality operates through preferences and norms, not just en
 <span class="pub-source">Organización Internacional del Trabajo, 2020.</span>
 </li>
 <li>
+*Magnitud y Características del Trabajo Infantil en Bolivia: Informe Nacional 2008.*
+<span class="paper-links">
+<a href="https://www.ilo.org/sites/default/files/2025-05/nat_rep_bol.pdf" target="_blank">PDF</a>
+</span>
+<span class="pub-source">Organización Internacional del Trabajo, 2008.</span>
+</li>
+
+**Inter-American Development Bank**
+
+<li>
 *Intended and Unintended Effects of Non-contributory Pensions: The Case of Bolivia's Renta Dignidad* (with G. Mena).
 <span class="paper-links">
 <a href="https://publications.iadb.org/en/intended-and-unintended-effects-unconditional-cash-transfers-case-bolivias-renta-dignidad" target="_blank">IDB</a>
@@ -354,40 +351,15 @@ Persistent gender inequality operates through preferences and norms, not just en
 <span class="pub-source">IDB Working Paper No. IDB-WP-631, 2015. Also in *Revista Latinoamericana de Desarrollo Económico*, 2015.</span>
 </li>
 <li>
-*Temporary Employment Programs, Consumption Smoothing and Employability.*
+*Unemployment in Bolivia: Risks and Labor Market Policies* (with E. Yáñez and M.A. Villegas).
 <span class="paper-links">
-<a href="https://lajed.ucb.edu.bo/a/article/view/e106" target="_blank" class="paper-link-published">DOI</a>
+<a href="https://publications.iadb.org/en/unemployment-bolivia-risks-and-labor-market-policies" target="_blank">IDB</a>
 </span>
-<span class="pub-source">*Revista Latinoamericana de Desarrollo Económico*, February 2015, 7–34.</span>
+<span class="pub-source">IDB Working Paper Series No. IDB-WP-271, 2011.</span>
 </li>
-<li>
-*Job Training and Employability: Evidence from Mi Primer Empleo Digno* (with P. Villarroel).
-<span class="paper-links">
-<a href="https://lajed.ucb.edu.bo/a/article/view/e107" target="_blank" class="paper-link-published">DOI</a>
-</span>
-<span class="pub-source">*Revista Latinoamericana de Desarrollo Económico*, February 2015, 35–76.</span>
-</li>
-<li>
-*Free of Illiteracy? Evaluating the Bolivian Experience with the National Literacy Program Yo Sí Puedo* (with P. Villarroel and C. Valencia).
-<span class="paper-links">
-<a href="https://lajed.ucb.edu.bo/a/article/view/e109" target="_blank" class="paper-link-published">DOI</a>
-</span>
-<span class="pub-source">*Revista Latinoamericana de Desarrollo Económico*, February 2015, 149–232.</span>
-</li>
-<li>
-*Evaluating the Impact of Micro-credit in Bolivia* (with P. Villarroel).
-<span class="paper-links">
-<a href="https://lajed.ucb.edu.bo/a/article/view/e110" target="_blank" class="paper-link-published">DOI</a>
-</span>
-<span class="pub-source">*Revista Latinoamericana de Desarrollo Económico*, February 2015, 233–282.</span>
-</li>
-<li>
-*Assessing the Impact of School Subsidies in Bolivia: A Reduced Form Non-Parametric Approach.*
-<span class="paper-links">
-<a href="https://lajed.ucb.edu.bo/a/article/view/e101" target="_blank" class="paper-link-published">DOI</a>
-</span>
-<span class="pub-source">*Revista Latinoamericana de Desarrollo Económico*, February 2015, 283–296.</span>
-</li>
+
+**World Bank · IDB · UNDP — Book Chapters**
+
 <li>
 *Are Teachers Well Paid in Latin America and the Caribbean?* In *Incentives to Improve Teaching: Lessons from Latin America*, E. Vegas (Ed.).
 <span class="pub-source">World Bank, 2005.</span>
@@ -400,12 +372,71 @@ Persistent gender inequality operates through preferences and norms, not just en
 *Bolivia: Efectos de la Liberalización sobre el Crecimiento, Empleo, Distribución del Ingreso y Pobreza* (with R. Pereira and W. Jiménez). In *Liberalización, Desigualdad y Pobreza: América Latina y el Caribe en los 90*.
 <span class="pub-source">UNDP, 2002.</span>
 </li>
+
+**Bolivia — Survey Experiment**
+
 <li>
-*La evolución de la pobreza en Bolivia: un enfoque multidimensional* (with P. Villarroel).
-<span class="pub-source">*Revista Latinoamericana de Desarrollo Económico*, No. 20, 2013.</span>
+*¿Qué Separa a los Bolivianos? Un Estudio Experimental de los Efectos de las Identidades Sociales en la Confianza y el Afecto.*
+<span class="paper-links">
+<a href="https://lajed.ucb.edu.bo/a/article/view/541" target="_blank" class="paper-link-published">DOI</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/que_separa_bolivianos_slides.pptx" target="_blank">Slides (PPTX)</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/que_separa_bolivianos_slides.key" target="_blank">Slides (Keynote)</a>
+</span>
+<span class="pub-source">*Revista Latinoamericana de Desarrollo Económico*, 2024.</span>
+</li>
+
+**Impact Evaluation of Bolivian Social Programs** — *Revista Latinoamericana de Desarrollo Económico*, 2015.
+
+<li>
+*Intended and Unintended Effects of Unconditional Cash Transfers: The Case of Bolivia's Renta Dignidad* (with G. Mena).
+<span class="paper-links">
+<a href="https://lajed.ucb.edu.bo/a/article/view/e108" target="_blank" class="paper-link-published">DOI</a>
+</span>
+<span class="pub-source">77–148.</span>
 </li>
 <li>
-*Unemployment in Bolivia: Risks and Labor Market Policies* (with E. Yáñez and M.A. Villegas).
-<span class="pub-source">IDB Working Paper Series No. IDB-WP-271.</span>
+*Temporary Employment Programs, Consumption Smoothing and Employability.*
+<span class="paper-links">
+<a href="https://lajed.ucb.edu.bo/a/article/view/e106" target="_blank" class="paper-link-published">DOI</a>
+</span>
+<span class="pub-source">7–34.</span>
+</li>
+<li>
+*Job Training and Employability: Evidence from Mi Primer Empleo Digno* (with P. Villarroel).
+<span class="paper-links">
+<a href="https://lajed.ucb.edu.bo/a/article/view/e107" target="_blank" class="paper-link-published">DOI</a>
+</span>
+<span class="pub-source">35–76.</span>
+</li>
+<li>
+*Free of Illiteracy? Evaluating the Bolivian Experience with the National Literacy Program Yo Sí Puedo* (with P. Villarroel and C. Valencia).
+<span class="paper-links">
+<a href="https://lajed.ucb.edu.bo/a/article/view/e109" target="_blank" class="paper-link-published">DOI</a>
+</span>
+<span class="pub-source">149–232.</span>
+</li>
+<li>
+*Evaluating the Impact of Micro-credit in Bolivia* (with P. Villarroel).
+<span class="paper-links">
+<a href="https://lajed.ucb.edu.bo/a/article/view/e110" target="_blank" class="paper-link-published">DOI</a>
+</span>
+<span class="pub-source">233–282.</span>
+</li>
+<li>
+*Assessing the Impact of School Subsidies in Bolivia: A Reduced Form Non-Parametric Approach.*
+<span class="paper-links">
+<a href="https://lajed.ucb.edu.bo/a/article/view/e101" target="_blank" class="paper-link-published">DOI</a>
+</span>
+<span class="pub-source">283–296.</span>
+</li>
+
+**Poverty and Inequality in Bolivia**
+
+<li>
+*La evolución de la pobreza en Bolivia: un enfoque multidimensional* (with P. Villarroel).
+<span class="paper-links">
+<a href="https://lajed.ucb.edu.bo/a/article/view/a126" target="_blank" class="paper-link-published">DOI</a>
+</span>
+<span class="pub-source">*Revista Latinoamericana de Desarrollo Económico*, No. 20, 2013, 7–74.</span>
 </li>
 </ul>
