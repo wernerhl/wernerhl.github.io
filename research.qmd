@@ -325,11 +325,11 @@ Persistent gender inequality operates through preferences and norms, not just en
 <span class="pub-source">Organización Internacional del Trabajo, 2025.</span>
 </li>
 <li>
-*Bolivia: National Report on the Impact of Climate Change on Employment and Livelihoods.*
+*Magnitud y Características del Trabajo Infantil en Bolivia: Informe Nacional 2008.*
 <span class="paper-links">
 <a href="https://www.ilo.org/sites/default/files/2025-05/nat_rep_bol.pdf" target="_blank">PDF</a>
 </span>
-<span class="pub-source">International Labour Organization, 2025.</span>
+<span class="pub-source">Organización Internacional del Trabajo, 2008.</span>
 </li>
 <li>
 *Aprendiendo sobre la transversalización de la perspectiva de género: Avances y matices en los programas de trabajo de la OIT en América Latina y el Caribe, 2010–2021* (with A. Eid Valdiviezo and N. Echenique).
