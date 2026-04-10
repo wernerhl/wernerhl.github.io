@@ -309,7 +309,7 @@ Persistent gender inequality operates through preferences and norms, not just en
 
 ::: {.theme-block}
 ::: {.theme-desc}
-Bolivia is where I test the methods. Twenty-five years of household survey data (1999–2024), five population censuses (1976–2024), a 339-municipality poverty and nutrition map, a live currency early warning system, a purpose-built financial diary of 500 informal firms, and trust experiments with monetary rewards — all from the same country. This is what deep country engagement looks like.
+Bolivia has the highest informality rate in Latin America, a currency under stress, and some of the deepest ethnic and geographic inequality in the hemisphere. I have worked with its household surveys since 1999, its five population censuses since 1976, and its informal economy through 500 firm-level financial diaries. The tools below — a live currency early warning system, a 339-municipality poverty map, and an implicit bias experiment — are applications of the methods developed in the research program above to the country I know best.
 :::
 
 **Live dashboards and interactive tools**
