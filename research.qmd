@@ -388,6 +388,7 @@ Persistent gender inequality operates through preferences and norms, not just en
 *Understanding Changes in Social Cohesion in Bolivia* (with M.A. Villegas).
 <span class="paper-links">
 <a href="https://www.aru.org.bo/REPEC/pdf/understanding-changes-in-social-cohesion-bolivia.pdf" target="_blank">PDF</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/social_cohesion_bolivia_slides.pptx" target="_blank">Slides</a>
 </span>
 <span class="pub-source">International Conference on Social Cohesion and Development, OECD, 2010.</span>
 </li>
