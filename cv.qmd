@@ -37,7 +37,7 @@ Professional Experience
 
 ::: {.cv-entry}
 ::: {.cv-header}
-[IA Analytics]{.cv-title} [January 2025 – Present]{.cv-date}
+[[IA Analytics](https://aianalytics.tech/)]{.cv-title} [January 2025 – Present]{.cv-date}
 :::
 ::: {.cv-sub}
 Founding Partner — CDMX, Mexico

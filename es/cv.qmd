@@ -41,7 +41,7 @@ Experiencia Profesional
 
 ::: {.cv-entry}
 ::: {.cv-header}
-[IA Analytics]{.cv-title} [Enero 2025 – Presente]{.cv-date}
+[[IA Analytics](https://aianalytics.tech/)]{.cv-title} [Enero 2025 – Presente]{.cv-date}
 :::
 ::: {.cv-sub}
 Socio Fundador — CDMX, México
