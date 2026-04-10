@@ -191,62 +191,67 @@ $body-color: #1a1a1a;
   left: -0.5em;
   color: #9aaabf;
 }
+/* ── Paper link buttons (shared across .theme-block and .pub-list) ── */
 .theme-block ul li .paper-status {
   font-size: 0.82rem;
   color: #888;
   display: block;
   margin-top: 0.2em;
 }
-.theme-block ul li .paper-links {
+.paper-links {
   display: inline-flex;
   gap: 0.45rem;
   flex-wrap: wrap;
   margin-left: 0.3em;
 }
-.theme-block ul li .paper-links a {
+
+/* Default: working papers, PDF, GitHub, IDB, ILO — outlined blue */
+.paper-links a {
   font-size: 0.78rem;
   color: #2a6496;
   border: 1px solid #b0c8df;
   border-radius: 4px;
   padding: 1px 9px;
   text-decoration: none;
-  transition: background 0.15s;
+  transition: background 0.15s, color 0.15s;
   white-space: nowrap;
 }
-.theme-block ul li .paper-links a:hover {
+.paper-links a:hover {
   background: #eef4fa;
   text-decoration: none;
 }
-.theme-block ul li .paper-links a.paper-link-published {
-  background: #2a6496;
-  border-color: #2a6496;
+
+/* Published: DOI — solid blue, white text */
+.paper-links a.link-published {
+  background: #1B3A5C;
+  border-color: #1B3A5C;
   color: #fff;
   font-weight: 600;
 }
-.theme-block ul li .paper-links a.paper-link-published:hover {
-  background: #1d4e73;
+.paper-links a.link-published:hover {
+  background: #14304D;
 }
 
-/* ── Earlier publications links ── */
-.pub-list .paper-links {
-  display: inline-flex;
-  gap: 0.45rem;
-  margin-left: 0.3em;
+/* SSRN: preprints — outlined dark, slightly bolder */
+.paper-links a.link-ssrn {
+  color: #1a1a1a;
+  border-color: #666;
+  font-weight: 600;
 }
-.pub-list .paper-links a {
-  font-size: 0.78rem;
-  color: #2a6496;
-  border: 1px solid #b0c8df;
-  border-radius: 4px;
-  padding: 1px 9px;
-  text-decoration: none;
-  transition: background 0.15s;
-  white-space: nowrap;
+.paper-links a.link-ssrn:hover {
+  background: #f0f0f0;
 }
-.pub-list .paper-links a:hover {
-  background: #eef4fa;
-  text-decoration: none;
+
+/* Slides, Dashboard, Interactive — warm accent outlined */
+.paper-links a.link-action {
+  color: #b45309;
+  border-color: #e0a050;
 }
+.paper-links a.link-action:hover {
+  background: #fef3e2;
+}
+
+/* ── Earlier publications ── */
 .pub-list .pub-source {
   font-size: 0.82rem;
   color: #888;

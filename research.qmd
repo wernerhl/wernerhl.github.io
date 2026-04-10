@@ -40,7 +40,7 @@ Traditional survey instruments designed for wage workers produce income figures 
 <li>
 *Recovering Individual Labor Earnings from Household Consumption: A Collective Model Approach with an Application to the Sahel G5*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6332779" target="_blank">SSRN</a>
+<a href="https://ssrn.com/abstract=6332779" target="_blank" class="link-ssrn">SSRN</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
@@ -64,14 +64,14 @@ Proxy means tests and poverty maps break down where poverty populations concentr
 <li>
 *Optimal Poverty Prediction Under Measurement Error: Theory and Evidence from Augmented Machine Learning*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6332698" target="_blank">SSRN</a>
+<a href="https://ssrn.com/abstract=6332698" target="_blank" class="link-ssrn">SSRN</a>
 </span>
 <span class="paper-status">— Review & Resubmit, *Journal of Applied Econometrics*</span>
 </li>
 <li>
 *Poverty Mapping in the Tails*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6338941" target="_blank">SSRN</a>
+<a href="https://ssrn.com/abstract=6338941" target="_blank" class="link-ssrn">SSRN</a>
 </span>
 <span class="paper-status">— Submitted, *Journal of Econometrics*</span>
 </li>
@@ -117,15 +117,15 @@ When governments reform subsidies, currencies collapse, or climate shocks hit, w
 *P2P Dollars as an Early Warning System: Exchange Market Pressure, Panic Premia, and the Currency Stress Cycle in Bolivia*
 <span class="paper-links">
 <a href="https://github.com/wernerhl/working-papers/raw/main/p2p_ews_bolivia.pdf" target="_blank">PDF</a>
-<a href="https://wernerhl.github.io/bolivia-ews/" target="_blank">Dashboard</a>
+<a href="https://wernerhl.github.io/bolivia-ews/" target="_blank" class="link-action">Dashboard</a>
 </span>
 <span class="paper-status">— Working Paper WP/2026/01</span>
 </li>
 <li>
 *Who Bears the Cost of Devaluation? Price Dynamics and Welfare Impacts During Bolivia's 2024–2025 Currency Crisis*
 <span class="paper-links">
-<a href="https://doi.org/10.35319/lajed.202544558" target="_blank" class="paper-link-published">DOI</a>
-<a href="https://ssrn.com/abstract=6347479" target="_blank">SSRN</a>
+<a href="https://doi.org/10.35319/lajed.202544558" target="_blank" class="link-published">DOI</a>
+<a href="https://ssrn.com/abstract=6347479" target="_blank" class="link-ssrn">SSRN</a>
 <a href="https://github.com/wernerhl/BOL-NoReturns" target="_blank">GitHub</a>
 </span>
 <span class="paper-status">— Published, *Revista Latinoamericana de Desarrollo Económico*, No. 44, 2025</span>
@@ -184,7 +184,7 @@ Not all poverty is the same. I distinguish workers structurally trapped in loss-
 <li>
 *Narcocorridos as Recruitment Technology: Cultural Prestige Production, Adverse Selection, and Criminal Human Capital in Mexico and Brazil*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6419718" target="_blank">SSRN</a>
+<a href="https://ssrn.com/abstract=6419718" target="_blank" class="link-ssrn">SSRN</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
@@ -229,14 +229,14 @@ Falling intergenerational coefficients across LAC mask rising positional rigidit
 <li>
 *Mexico's Mobility Mirage: Falling Intergenerational Coefficients, Rising Positional Rigidity*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6441578" target="_blank">SSRN</a>
+<a href="https://ssrn.com/abstract=6441578" target="_blank" class="link-ssrn">SSRN</a>
 </span>
 <span class="paper-status">— Submitted, *Journal of Development Economics*</span>
 </li>
 <li>
 *The Road of No Returns: 25 Years of Returns to Education in Bolivia (1999–2024)*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6406038" target="_blank">SSRN</a>
+<a href="https://ssrn.com/abstract=6406038" target="_blank" class="link-ssrn">SSRN</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
@@ -264,7 +264,7 @@ Persistent gender inequality operates through preferences and norms, not just en
 <li>
 *Adaptive Preferences, Endogenous Returns, and the Failure of the Second Welfare Theorem*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6325738" target="_blank">SSRN</a>
+<a href="https://ssrn.com/abstract=6325738" target="_blank" class="link-ssrn">SSRN</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
@@ -282,14 +282,14 @@ Persistent gender inequality operates through preferences and norms, not just en
 <li>
 *Adaptive Preferences, Social Filters, and the Political Economy of Gendered Inequality*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6325779" target="_blank">SSRN</a>
+<a href="https://ssrn.com/abstract=6325779" target="_blank" class="link-ssrn">SSRN</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
 <li>
 *Where Does the Money Go? Financial Inclusion, Sectoral Savings, and the Gender Misallocation Trap*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6353618" target="_blank">SSRN</a>
+<a href="https://ssrn.com/abstract=6353618" target="_blank" class="link-ssrn">SSRN</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
@@ -318,21 +318,21 @@ Bolivia has the highest informality rate in Latin America, a currency under stre
 <li>
 *Bolivia P2P Dollar — Early Warning System*
 <span class="paper-links">
-<a href="https://wernerhl.github.io/bolivia-ews/" target="_blank">Live Dashboard</a>
+<a href="https://wernerhl.github.io/bolivia-ews/" target="_blank" class="link-action">Live Dashboard</a>
 </span>
 <span class="paper-status">Dynamic Factor Model + Kalman filter. Updated daily from Binance P2P order book.</span>
 </li>
 <li>
 *Bolivia Poverty & Nutrition Map 2024 — 339 Municipalities*
 <span class="paper-links">
-<a href="https://wernerhl.github.io/poverty-map-bolivia/" target="_blank">Interactive Map</a>
+<a href="https://wernerhl.github.io/poverty-map-bolivia/" target="_blank" class="link-action">Interactive Map</a>
 </span>
 <span class="paper-status">Census 2024 + DRF + BYM2 + Optimal Transport calibration. Poverty, extreme poverty, stunting, wasting, anemia.</span>
 </li>
 <li>
 *Implicit Association Test — Racial Bias in Latin America*
 <span class="paper-links">
-<a href="https://wernerhl.github.io/iat-pilot/" target="_blank">Take the Test</a>
+<a href="https://wernerhl.github.io/iat-pilot/" target="_blank" class="link-action">Take the Test</a>
 </span>
 <span class="paper-status">Measures implicit bias against indigenous names and faces. 7-minute online experiment.</span>
 </li>
@@ -345,15 +345,15 @@ Bolivia has the highest informality rate in Latin America, a currency under stre
 *P2P Dollars as an Early Warning System: Exchange Market Pressure, Panic Premia, and the Currency Stress Cycle in Bolivia*
 <span class="paper-links">
 <a href="https://github.com/wernerhl/working-papers/raw/main/p2p_ews_bolivia.pdf" target="_blank">PDF</a>
-<a href="https://wernerhl.github.io/bolivia-ews/" target="_blank">Dashboard</a>
+<a href="https://wernerhl.github.io/bolivia-ews/" target="_blank" class="link-action">Dashboard</a>
 </span>
 <span class="paper-status">— Working Paper · [Theme 3](#distributional-incidence)</span>
 </li>
 <li>
 *Who Bears the Cost of Devaluation? Price Dynamics and Welfare Impacts During Bolivia's 2024–2025 Currency Crisis*
 <span class="paper-links">
-<a href="https://doi.org/10.35319/lajed.202544558" target="_blank" class="paper-link-published">DOI</a>
-<a href="https://ssrn.com/abstract=6347479" target="_blank">SSRN</a>
+<a href="https://doi.org/10.35319/lajed.202544558" target="_blank" class="link-published">DOI</a>
+<a href="https://ssrn.com/abstract=6347479" target="_blank" class="link-ssrn">SSRN</a>
 </span>
 <span class="paper-status">— Published, *Revista Latinoamericana de Desarrollo Económico*, 2025 · [Theme 3](#distributional-incidence)</span>
 </li>
@@ -374,7 +374,7 @@ Bolivia has the highest informality rate in Latin America, a currency under stre
 <li>
 *The Road of No Returns: 25 Years of Returns to Education in Bolivia (1999–2024)*
 <span class="paper-links">
-<a href="https://ssrn.com/abstract=6406038" target="_blank">SSRN</a>
+<a href="https://ssrn.com/abstract=6406038" target="_blank" class="link-ssrn">SSRN</a>
 </span>
 <span class="paper-status">— Working Paper · [Theme 5](#mobility)</span>
 </li>
@@ -385,15 +385,15 @@ Bolivia has the highest informality rate in Latin America, a currency under stre
 <li>
 *La evolución de la pobreza en Bolivia: un enfoque multidimensional* (with P. Villarroel).
 <span class="paper-links">
-<a href="https://lajed.ucb.edu.bo/a/article/view/a126" target="_blank" class="paper-link-published">DOI</a>
+<a href="https://lajed.ucb.edu.bo/a/article/view/a126" target="_blank" class="link-published">DOI</a>
 </span>
 <span class="paper-status">— *Revista Latinoamericana de Desarrollo Económico*, No. 20, 2013</span>
 </li>
 <li>
 *¿Qué Separa a los Bolivianos? Un Estudio Experimental de los Efectos de las Identidades Sociales en la Confianza y el Afecto*
 <span class="paper-links">
-<a href="https://lajed.ucb.edu.bo/a/article/view/541" target="_blank" class="paper-link-published">DOI</a>
-<a href="https://github.com/wernerhl/working-papers/raw/main/que_separa_bolivianos_slides.pptx" target="_blank">Slides</a>
+<a href="https://lajed.ucb.edu.bo/a/article/view/541" target="_blank" class="link-published">DOI</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/que_separa_bolivianos_slides.pptx" target="_blank" class="link-action">Slides</a>
 </span>
 <span class="paper-status">— *Revista Latinoamericana de Desarrollo Económico*, 2024</span>
 </li>
@@ -401,7 +401,7 @@ Bolivia has the highest informality rate in Latin America, a currency under stre
 *Understanding Changes in Social Cohesion in Bolivia* (with M.A. Villegas).
 <span class="paper-links">
 <a href="https://www.aru.org.bo/REPEC/pdf/understanding-changes-in-social-cohesion-bolivia.pdf" target="_blank">PDF</a>
-<a href="https://github.com/wernerhl/working-papers/raw/main/social_cohesion_bolivia_slides.pptx" target="_blank">Slides</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/social_cohesion_bolivia_slides.pptx" target="_blank" class="link-action">Slides</a>
 </span>
 <span class="paper-status">— OECD Conference on Social Cohesion and Development, 2010</span>
 </li>
@@ -451,7 +451,7 @@ Bolivia has the highest informality rate in Latin America, a currency under stre
 *Intended and Unintended Effects of Non-contributory Pensions: The Case of Bolivia's Renta Dignidad* (with G. Mena).
 <span class="paper-links">
 <a href="https://publications.iadb.org/en/intended-and-unintended-effects-unconditional-cash-transfers-case-bolivias-renta-dignidad" target="_blank">IDB</a>
-<a href="https://lajed.ucb.edu.bo/a/article/view/e108" target="_blank" class="paper-link-published">DOI</a>
+<a href="https://lajed.ucb.edu.bo/a/article/view/e108" target="_blank" class="link-published">DOI</a>
 </span>
 <span class="pub-source">IDB Working Paper No. IDB-WP-631, 2015. Also in *Revista Latinoamericana de Desarrollo Económico*, 2015.</span>
 </li>
@@ -483,9 +483,9 @@ Bolivia has the highest informality rate in Latin America, a currency under stre
 <li>
 *¿Qué Separa a los Bolivianos? Un Estudio Experimental de los Efectos de las Identidades Sociales en la Confianza y el Afecto.*
 <span class="paper-links">
-<a href="https://lajed.ucb.edu.bo/a/article/view/541" target="_blank" class="paper-link-published">DOI</a>
-<a href="https://github.com/wernerhl/working-papers/raw/main/que_separa_bolivianos_slides.pptx" target="_blank">Slides (PPTX)</a>
-<a href="https://github.com/wernerhl/working-papers/raw/main/que_separa_bolivianos_slides.key" target="_blank">Slides (Keynote)</a>
+<a href="https://lajed.ucb.edu.bo/a/article/view/541" target="_blank" class="link-published">DOI</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/que_separa_bolivianos_slides.pptx" target="_blank" class="link-action">Slides (PPTX)</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/que_separa_bolivianos_slides.key" target="_blank" class="link-action">Slides (Keynote)</a>
 </span>
 <span class="pub-source">*Revista Latinoamericana de Desarrollo Económico*, 2024.</span>
 </li>
@@ -493,7 +493,7 @@ Bolivia has the highest informality rate in Latin America, a currency under stre
 *Understanding Changes in Social Cohesion in Bolivia* (with M.A. Villegas).
 <span class="paper-links">
 <a href="https://www.aru.org.bo/REPEC/pdf/understanding-changes-in-social-cohesion-bolivia.pdf" target="_blank">PDF</a>
-<a href="https://github.com/wernerhl/working-papers/raw/main/social_cohesion_bolivia_slides.pptx" target="_blank">Slides</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/social_cohesion_bolivia_slides.pptx" target="_blank" class="link-action">Slides</a>
 </span>
 <span class="pub-source">International Conference on Social Cohesion and Development, OECD, 2010.</span>
 </li>
@@ -503,42 +503,42 @@ Bolivia has the highest informality rate in Latin America, a currency under stre
 <li>
 *Intended and Unintended Effects of Unconditional Cash Transfers: The Case of Bolivia's Renta Dignidad* (with G. Mena).
 <span class="paper-links">
-<a href="https://lajed.ucb.edu.bo/a/article/view/e108" target="_blank" class="paper-link-published">DOI</a>
+<a href="https://lajed.ucb.edu.bo/a/article/view/e108" target="_blank" class="link-published">DOI</a>
 </span>
 <span class="pub-source">77–148.</span>
 </li>
 <li>
 *Temporary Employment Programs, Consumption Smoothing and Employability.*
 <span class="paper-links">
-<a href="https://lajed.ucb.edu.bo/a/article/view/e106" target="_blank" class="paper-link-published">DOI</a>
+<a href="https://lajed.ucb.edu.bo/a/article/view/e106" target="_blank" class="link-published">DOI</a>
 </span>
 <span class="pub-source">7–34.</span>
 </li>
 <li>
 *Job Training and Employability: Evidence from Mi Primer Empleo Digno* (with P. Villarroel).
 <span class="paper-links">
-<a href="https://lajed.ucb.edu.bo/a/article/view/e107" target="_blank" class="paper-link-published">DOI</a>
+<a href="https://lajed.ucb.edu.bo/a/article/view/e107" target="_blank" class="link-published">DOI</a>
 </span>
 <span class="pub-source">35–76.</span>
 </li>
 <li>
 *Free of Illiteracy? Evaluating the Bolivian Experience with the National Literacy Program Yo Sí Puedo* (with P. Villarroel and C. Valencia).
 <span class="paper-links">
-<a href="https://lajed.ucb.edu.bo/a/article/view/e109" target="_blank" class="paper-link-published">DOI</a>
+<a href="https://lajed.ucb.edu.bo/a/article/view/e109" target="_blank" class="link-published">DOI</a>
 </span>
 <span class="pub-source">149–232.</span>
 </li>
 <li>
 *Evaluating the Impact of Micro-credit in Bolivia* (with P. Villarroel).
 <span class="paper-links">
-<a href="https://lajed.ucb.edu.bo/a/article/view/e110" target="_blank" class="paper-link-published">DOI</a>
+<a href="https://lajed.ucb.edu.bo/a/article/view/e110" target="_blank" class="link-published">DOI</a>
 </span>
 <span class="pub-source">233–282.</span>
 </li>
 <li>
 *Assessing the Impact of School Subsidies in Bolivia: A Reduced Form Non-Parametric Approach.*
 <span class="paper-links">
-<a href="https://lajed.ucb.edu.bo/a/article/view/e101" target="_blank" class="paper-link-published">DOI</a>
+<a href="https://lajed.ucb.edu.bo/a/article/view/e101" target="_blank" class="link-published">DOI</a>
 </span>
 <span class="pub-source">283–296.</span>
 </li>
@@ -548,7 +548,7 @@ Bolivia has the highest informality rate in Latin America, a currency under stre
 <li>
 *La evolución de la pobreza en Bolivia: un enfoque multidimensional* (with P. Villarroel).
 <span class="paper-links">
-<a href="https://lajed.ucb.edu.bo/a/article/view/a126" target="_blank" class="paper-link-published">DOI</a>
+<a href="https://lajed.ucb.edu.bo/a/article/view/a126" target="_blank" class="link-published">DOI</a>
 </span>
 <span class="pub-source">*Revista Latinoamericana de Desarrollo Económico*, No. 20, 2013, 7–74.</span>
 </li>
