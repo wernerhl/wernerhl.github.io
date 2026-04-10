@@ -227,6 +227,33 @@ $body-color: #1a1a1a;
   background: #1d4e73;
 }
 
+/* ── Earlier publications links ── */
+.pub-list .paper-links {
+  display: inline-flex;
+  gap: 0.45rem;
+  margin-left: 0.3em;
+}
+.pub-list .paper-links a {
+  font-size: 0.78rem;
+  color: #2a6496;
+  border: 1px solid #b0c8df;
+  border-radius: 4px;
+  padding: 1px 9px;
+  text-decoration: none;
+  transition: background 0.15s;
+  white-space: nowrap;
+}
+.pub-list .paper-links a:hover {
+  background: #eef4fa;
+  text-decoration: none;
+}
+.pub-list .pub-source {
+  font-size: 0.82rem;
+  color: #888;
+  display: block;
+  margin-top: 0.15em;
+}
+
 /* ── CV entries ── */
 .cv-entry {
   margin-bottom: 1.1rem;

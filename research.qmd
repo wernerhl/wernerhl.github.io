@@ -309,7 +309,31 @@ Persistent gender inequality operates through preferences and norms, not just en
 
 <ul class="pub-list">
 <li>
+*El trabajo del hogar en el Perú: características, cumplimiento de derechos y reconocimiento social.*
+<span class="paper-links">
+<a href="https://www.ilo.org/es/publications/promoviendo-el-trabajo-decente-para-las-trabajadoras-del-hogar-de-peru" target="_blank">ILO</a>
+</span>
+<span class="pub-source">Organización Internacional del Trabajo, 2025.</span>
+</li>
+<li>
+*Bolivia: National Report on the Impact of Climate Change on Employment and Livelihoods.*
+<span class="paper-links">
+<a href="https://www.ilo.org/sites/default/files/2025-05/nat_rep_bol.pdf" target="_blank">PDF</a>
+</span>
+<span class="pub-source">International Labour Organization, 2025.</span>
+</li>
+<li>
+*Aprendiendo sobre la transversalización de la perspectiva de género: Avances y matices en los programas de trabajo de la OIT en América Latina y el Caribe, 2010–2021* (with A. Eid Valdiviezo and N. Echenique).
+<span class="paper-links">
+<a href="https://www.ilo.org/es/publications/aprendiendo-sobre-la-transversalizacion-de-la-perspectiva-de-genero-avances" target="_blank">ILO</a>
+</span>
+<span class="pub-source">Organización Internacional del Trabajo, 2022.</span>
+</li>
+<li>
 *Meta-analysis of ILO interventions in Latin America and the Caribbean on child labor, forced labor and human trafficking.*
+<span class="paper-links">
+<a href="https://www.ilo.org/es/publications/meta-analisis-de-las-intervenciones-de-la-oit-en-america-latina-y-el-caribe" target="_blank">ILO</a>
+</span>
 <span class="pub-source">Organización Internacional del Trabajo, 2020.</span>
 </li>
 <li>
