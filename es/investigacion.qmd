@@ -1,6 +1,7 @@
 ---
 title: "Investigación"
 pagetitle: "Investigación — Werner L. Hernani-Limarino"
+description: "Programa de investigación: medición de ingresos, focalización de pobreza con aprendizaje automático, análisis de incidencia distributiva, pobreza estructural e informalidad en Bolivia, movilidad intergeneracional, desigualdad y protección social en América Latina."
 toc: true
 toc-title: "Temas"
 toc-depth: 2

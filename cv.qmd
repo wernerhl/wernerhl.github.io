@@ -1,6 +1,7 @@
 ---
 title: "CV"
 pagetitle: "CV — Werner L. Hernani-Limarino"
+description: "Curriculum vitae: development economist with experience at the World Bank, IDB, ILO, and IPEA. Poverty measurement, machine learning, social protection, inequality, Bolivia, Latin America."
 toc: true
 toc-title: "Sections"
 toc-depth: 2

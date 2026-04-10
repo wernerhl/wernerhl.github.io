@@ -1,6 +1,7 @@
 ---
 title: "Inicio"
 pagetitle: "Werner L. Hernani-Limarino"
+description: "Werner Hernani-Limarino — Economista del desarrollo. Medición de pobreza, aprendizaje automático para protección social, desigualdad, movilidad intergeneracional e informalidad en Bolivia y América Latina."
 toc: false
 lang: es
 ---

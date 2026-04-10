@@ -1,6 +1,7 @@
 ---
 title: "Books"
 pagetitle: "Books — Werner L. Hernani-Limarino"
+description: "Books on social mobility in Bolivia, gender inequality, structural economics, food history, and impact evaluation of social protection policies in Latin America."
 toc: false
 ---
 

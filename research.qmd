@@ -1,6 +1,7 @@
 ---
 title: "Research"
 pagetitle: "Research — Werner L. Hernani-Limarino"
+description: "Research program on poverty measurement, machine learning for poverty targeting and small area estimation, distributional incidence analysis, structural poverty and informality in Bolivia, intergenerational mobility, inequality, social protection, and gender norms in Latin America and the Caribbean."
 toc: true
 toc-title: "Themes"
 toc-depth: 2

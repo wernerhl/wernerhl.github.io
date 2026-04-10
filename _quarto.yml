@@ -44,6 +44,7 @@ format:
     toc: false
     smooth-scroll: true
     link-external-newwindow: true
+    include-in-header: structured-data.html
     grid:
       sidebar-width: 0px
       body-width: 900px

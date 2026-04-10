@@ -1,6 +1,7 @@
 ---
 title: "Code"
 pagetitle: "Code — Werner L. Hernani-Limarino"
+description: "Open-source replication repositories, live dashboards, and machine learning tools for poverty mapping, small area estimation, distributional monitoring, and social protection targeting in Bolivia and Latin America."
 toc: false
 ---
 

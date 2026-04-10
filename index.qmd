@@ -1,6 +1,7 @@
 ---
 title: "Home"
 pagetitle: "Werner L. Hernani-Limarino"
+description: "Werner Hernani-Limarino — Development economist specializing in poverty measurement, machine learning for social protection, inequality, intergenerational mobility, and informality in Bolivia and Latin America. Tools for poverty mapping, proxy means tests, and distributional analysis."
 toc: false
 ---
 
