@@ -338,7 +338,46 @@ Persistent gender inequality operates through preferences and norms, not just en
 </li>
 <li>
 *Intended and Unintended Effects of Non-contributory Pensions: The Case of Bolivia's Renta Dignidad* (with G. Mena).
-<span class="pub-source">IDB Working Paper Series No. IDB-WP-631, 2015.</span>
+<span class="paper-links">
+<a href="https://publications.iadb.org/en/intended-and-unintended-effects-unconditional-cash-transfers-case-bolivias-renta-dignidad" target="_blank">IDB</a>
+<a href="https://lajed.ucb.edu.bo/a/article/view/e108" target="_blank" class="paper-link-published">DOI</a>
+</span>
+<span class="pub-source">IDB Working Paper No. IDB-WP-631, 2015. Also in *Revista Latinoamericana de Desarrollo Económico*, 2015.</span>
+</li>
+<li>
+*Temporary Employment Programs, Consumption Smoothing and Employability.*
+<span class="paper-links">
+<a href="https://lajed.ucb.edu.bo/a/article/view/e106" target="_blank" class="paper-link-published">DOI</a>
+</span>
+<span class="pub-source">*Revista Latinoamericana de Desarrollo Económico*, February 2015, 7–34.</span>
+</li>
+<li>
+*Job Training and Employability: Evidence from Mi Primer Empleo Digno* (with P. Villarroel).
+<span class="paper-links">
+<a href="https://lajed.ucb.edu.bo/a/article/view/e107" target="_blank" class="paper-link-published">DOI</a>
+</span>
+<span class="pub-source">*Revista Latinoamericana de Desarrollo Económico*, February 2015, 35–76.</span>
+</li>
+<li>
+*Free of Illiteracy? Evaluating the Bolivian Experience with the National Literacy Program Yo Sí Puedo* (with P. Villarroel and C. Valencia).
+<span class="paper-links">
+<a href="https://lajed.ucb.edu.bo/a/article/view/e109" target="_blank" class="paper-link-published">DOI</a>
+</span>
+<span class="pub-source">*Revista Latinoamericana de Desarrollo Económico*, February 2015, 149–232.</span>
+</li>
+<li>
+*Evaluating the Impact of Micro-credit in Bolivia* (with P. Villarroel).
+<span class="paper-links">
+<a href="https://lajed.ucb.edu.bo/a/article/view/e110" target="_blank" class="paper-link-published">DOI</a>
+</span>
+<span class="pub-source">*Revista Latinoamericana de Desarrollo Económico*, February 2015, 233–282.</span>
+</li>
+<li>
+*Assessing the Impact of School Subsidies in Bolivia: A Reduced Form Non-Parametric Approach.*
+<span class="paper-links">
+<a href="https://lajed.ucb.edu.bo/a/article/view/e101" target="_blank" class="paper-link-published">DOI</a>
+</span>
+<span class="pub-source">*Revista Latinoamericana de Desarrollo Económico*, February 2015, 283–296.</span>
 </li>
 <li>
 *Are Teachers Well Paid in Latin America and the Caribbean?* In *Incentives to Improve Teaching: Lessons from Latin America*, E. Vegas (Ed.).
