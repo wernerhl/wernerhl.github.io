@@ -309,6 +309,15 @@ Persistent gender inequality operates through preferences and norms, not just en
 
 <ul class="pub-list">
 <li>
+*¿Qué Separa a los Bolivianos? Un Estudio Experimental de los Efectos de las Identidades Sociales en la Confianza y el Afecto.*
+<span class="paper-links">
+<a href="https://lajed.ucb.edu.bo/a/article/view/541" target="_blank" class="paper-link-published">DOI</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/que_separa_bolivianos_slides.pptx" target="_blank">Slides (PPTX)</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/que_separa_bolivianos_slides.key" target="_blank">Slides (Keynote)</a>
+</span>
+<span class="pub-source">*Revista Latinoamericana de Desarrollo Económico*, 2024.</span>
+</li>
+<li>
 *El trabajo del hogar en el Perú: características, cumplimiento de derechos y reconocimiento social.*
 <span class="paper-links">
 <a href="https://www.ilo.org/es/publications/promoviendo-el-trabajo-decente-para-las-trabajadoras-del-hogar-de-peru" target="_blank">ILO</a>
