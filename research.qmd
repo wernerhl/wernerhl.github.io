@@ -438,6 +438,27 @@ Bolivia has the highest informality rate in Latin America, a currency under stre
 </span>
 <span class="paper-status">— OECD Conference on Social Cohesion and Development, 2010</span>
 </li>
+<li>
+*Unravelling Declining Income Inequality in Bolivia: Do Government Transfers Matter?* (with A. Eid).
+<span class="paper-links">
+<a href="https://www.researchgate.net/publication/330357996_Unravelling_Declining_Income_Inequality_in_Bolivia_Do_Government_Transfers_Matter" target="_blank">ResearchGate</a>
+</span>
+<span class="paper-status">— Fundación ARU Working Paper, 2014</span>
+</li>
+<li>
+*Trends in Income and Consumption Inequality in Bolivia: A Fairy Tale of Growing Dwarfs and Shrinking Giants* (with A. Eid and R. Aguirre).
+<span class="paper-links">
+<a href="https://www.aru.org.bo/REPEC/pdf/trends_in_income_and_consumption_inequality_in_Bolivia-2013.pdf" target="_blank">PDF</a>
+</span>
+<span class="paper-status">— Fundación ARU Working Paper, 2013</span>
+</li>
+<li>
+*Entrepreneurship and Economic Mobility: A Case Study of Bolivia* (with P. Villarroel and A. Eid).
+<span class="paper-links">
+<a href="https://www.aru.org.bo/wp-content/uploads/2022/07/Entrepreneurship_and_Economic_Mobility-web.pdf" target="_blank">PDF</a>
+</span>
+<span class="paper-status">— IDB Research Network, 2011</span>
+</li>
 </ul>
 :::
 
