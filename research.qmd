@@ -31,6 +31,15 @@ Traditional survey instruments designed for wage workers produce income figures 
 <span class="paper-status">— Working Paper</span>
 </li>
 <li>
+*Cash, Profit, and Selection: Decomposing Self-Employment Income Error*
+<span class="paper-links">
+<a href="https://wernerhl.github.io/ledgers-bolivia/docs/cash_profit_selection.pdf" target="_blank">Paper</a> ·
+<a href="https://wernerhl.github.io/ledgers-bolivia/docs/cash_profit_selection_slides.pdf" target="_blank">Slides</a> ·
+<a href="https://github.com/wernerhl/ledgers-bolivia" target="_blank">GitHub</a>
+</span>
+<span class="paper-status">— Working Paper</span>
+</li>
+<li>
 *The Income You Can't See: Detecting and Correcting Self-Employment Measurement Error with Unsupervised Machine Learning*
 <span class="paper-links">
 <a href="https://github.com/wernerhl/working-papers/raw/main/income_you_cant_see.pdf" target="_blank">PDF</a>
