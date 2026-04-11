@@ -193,21 +193,6 @@ Not all poverty is the same. I distinguish workers structurally trapped in loss-
 <span class="paper-status">— Working Paper</span>
 </li>
 <li>
-*Ledgers of the Self-Employed: Accounting for the Invisible Firm*
-<span class="paper-links">
-<a href="https://wernerhl.github.io/ledgers-bolivia/docs/ledgers_v2.pdf" target="_blank">Paper</a> ·
-<a href="https://wernerhl.github.io/ledgers-bolivia" target="_blank">Dashboard</a>
-</span>
-<span class="paper-status">— Working Paper</span>
-</li>
-<li>
-*Cash, Profit, and Selection: A Machine Learning Framework for Measuring Income in the Informal Sector*
-<span class="paper-links">
-<a href="https://github.com/wernerhl/working-papers/raw/main/cash_profit_selection.pdf" target="_blank">Paper</a>
-</span>
-<span class="paper-status">— Working Paper</span>
-</li>
-<li>
 *To Be a Taquero or to Build a Taquería: Occupational Sorting under Risk and Embedded Capital*
 <span class="paper-status">— Submitted, *Journal of Development Economics*</span>
 </li>
