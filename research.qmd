@@ -22,6 +22,10 @@ Traditional survey instruments designed for wage workers produce income figures 
 <li>
 *Ledgers of the Self-Employed: Accounting for the Invisible Firm*
 <span class="paper-links">
+<a href="https://wernerhl.github.io/ledgers-bolivia/docs/ledgers_v2.pdf" target="_blank">Paper EN</a> ·
+<a href="https://wernerhl.github.io/ledgers-bolivia/docs/ledgers_v2_es.pdf" target="_blank">Paper ES</a> ·
+<a href="https://wernerhl.github.io/ledgers-bolivia/docs/presentation_en.pdf" target="_blank">Slides EN</a> ·
+<a href="https://wernerhl.github.io/ledgers-bolivia/docs/presentation_es.pdf" target="_blank">Slides ES</a> ·
 <a href="https://github.com/wernerhl/ledgers-bolivia" target="_blank">GitHub</a>
 </span>
 <span class="paper-status">— Working Paper</span>
@@ -358,8 +362,12 @@ Bolivia has the highest informality rate in Latin America, a currency under stre
 <span class="paper-status">— Published, *Revista Latinoamericana de Desarrollo Económico*, 2025 · [Theme 3](#distributional-incidence)</span>
 </li>
 <li>
-*Ledgers of the Self-Employed: Accounting for the Invisible Firm* — 300 firms, 14,902 transactions, double-entry financial diary
+*Ledgers of the Self-Employed: Accounting for the Invisible Firm* — 500 firms, 25,338 transactions, double-entry financial diary
 <span class="paper-links">
+<a href="https://wernerhl.github.io/ledgers-bolivia/docs/ledgers_v2.pdf" target="_blank">Paper EN</a> ·
+<a href="https://wernerhl.github.io/ledgers-bolivia/docs/ledgers_v2_es.pdf" target="_blank">Paper ES</a> ·
+<a href="https://wernerhl.github.io/ledgers-bolivia/docs/presentation_en.pdf" target="_blank">Slides EN</a> ·
+<a href="https://wernerhl.github.io/ledgers-bolivia/docs/presentation_es.pdf" target="_blank">Slides ES</a> ·
 <a href="https://github.com/wernerhl/ledgers-bolivia" target="_blank">GitHub</a>
 </span>
 <span class="paper-status">— Working Paper · [Theme 1](#income-measurement)</span>
