@@ -177,7 +177,9 @@ Not all poverty is the same. I distinguish workers structurally trapped in loss-
 <li>
 *Trapped by Cash: A Theory of Voluntary Informality Among the Economically Non-Viable*
 <span class="paper-links">
-<a href="https://github.com/wernerhl/working-papers/raw/main/trapped_by_cash.pdf" target="_blank">PDF</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/trapped_by_cash.pdf" target="_blank">Paper</a> ·
+<a href="https://github.com/wernerhl/working-papers/raw/main/trapped_by_cash_slides.pdf" target="_blank">Slides</a> ·
+<a href="https://github.com/wernerhl/ledgers-bolivia" target="_blank">GitHub</a>
 </span>
 <span class="paper-status">— Working Paper</span>
 </li>
@@ -375,7 +377,8 @@ Bolivia has the highest informality rate in Latin America, a currency under stre
 <li>
 *Trapped by Cash: A Theory of Voluntary Informality Among the Economically Non-Viable* — 500 firms, four-type equilibrium partition
 <span class="paper-links">
-<a href="https://github.com/wernerhl/working-papers/raw/main/trapped_by_cash.pdf" target="_blank">PDF</a>
+<a href="https://github.com/wernerhl/working-papers/raw/main/trapped_by_cash.pdf" target="_blank">Paper</a> ·
+<a href="https://github.com/wernerhl/working-papers/raw/main/trapped_by_cash_slides.pdf" target="_blank">Slides</a>
 </span>
 <span class="paper-status">— Working Paper · [Theme 4](#structural-poverty)</span>
 </li>
