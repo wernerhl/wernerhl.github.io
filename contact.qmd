@@ -1,12 +1,12 @@
 ---
 title: ""
-pagetitle: "Book a Meeting — Werner L. Hernani-Limarino"
+pagetitle: "Contact — Werner L. Hernani-Limarino"
 description: "Schedule a meeting with Werner Hernani-Limarino for consulting, research collaboration, or policy conversation."
 toc: false
 ---
 
 ::: {.section-rule}
-Book a Meeting
+Contact
 :::
 
 ::: {.booking-intro}

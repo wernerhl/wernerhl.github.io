@@ -24,8 +24,8 @@ website:
         text: CV
       - href: code.qmd
         text: Code
-      - href: book.qmd
-        text: Book
+      - href: contact.qmd
+        text: Contact
     right:
       - icon: github
         href: https://github.com/wernerhl
