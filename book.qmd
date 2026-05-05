@@ -1,0 +1,241 @@
+---
+title: ""
+page-layout: full
+toc: false
+css: []
+---
+
+```{=html}
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;0,800;1,400&display=swap');
+
+  /* kill quarto chrome on this page */
+  #quarto-content { padding: 0 !important; }
+  .page-layout-full .content { max-width: 100% !important; padding: 0 !important; }
+  #quarto-margin-sidebar, #TOC { display: none !important; }
+
+  .booking-page {
+    --bk-fg: #0a0a0a;
+    --bk-bg: #f4f1eb;
+    --bk-accent: #c23a22;
+    --bk-muted: #8a8578;
+    --bk-rule: #0a0a0a;
+    --bk-embed-bg: #ffffff;
+    font-family: 'Palatino Linotype', 'EB Garamond', 'Palatino', serif;
+    background: var(--bk-bg);
+    color: var(--bk-fg);
+    min-height: 100vh;
+  }
+
+  .bk-header {
+    padding: 6rem 2rem 3rem;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .bk-overline {
+    font-size: 0.7rem;
+    letter-spacing: 0.35em;
+    text-transform: uppercase;
+    color: var(--bk-muted);
+    margin-bottom: 1.5rem;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 500;
+  }
+
+  .bk-title {
+    font-family: 'EB Garamond', 'Palatino Linotype', 'Palatino', serif;
+    font-size: clamp(3rem, 7vw, 5.5rem);
+    font-weight: 800;
+    line-height: 0.95;
+    margin: 0 0 1.5rem 0;
+    letter-spacing: -0.03em;
+    color: var(--bk-fg);
+  }
+
+  .bk-title .accent {
+    color: var(--bk-accent);
+  }
+
+  .bk-rule {
+    width: 100%;
+    height: 3px;
+    background: var(--bk-fg);
+    border: none;
+    margin: 0 0 2rem 0;
+  }
+
+  .bk-description {
+    font-size: 1.15rem;
+    line-height: 1.7;
+    color: var(--bk-fg);
+    max-width: 600px;
+    margin-bottom: 1rem;
+  }
+
+  .bk-description a {
+    color: var(--bk-accent);
+    text-decoration: none;
+    border-bottom: 1px solid var(--bk-accent);
+  }
+
+  .bk-meta {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--bk-muted);
+    margin-top: 2rem;
+    display: flex;
+    gap: 2.5rem;
+    flex-wrap: wrap;
+  }
+
+  .bk-meta span::before {
+    content: '■ ';
+    color: var(--bk-accent);
+    font-size: 0.6rem;
+    vertical-align: middle;
+  }
+
+  /* embed container */
+  .bk-embed-wrap {
+    max-width: 1100px;
+    margin: 2rem auto 0;
+    padding: 0 2rem 4rem;
+  }
+
+  .bk-embed-frame {
+    background: var(--bk-embed-bg);
+    border: 2px solid var(--bk-fg);
+    padding: 1.5rem;
+    min-height: 500px;
+    position: relative;
+  }
+
+  .bk-embed-frame::before {
+    content: '';
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    right: -6px;
+    bottom: -6px;
+    border: 1px solid var(--bk-muted);
+    z-index: -1;
+    pointer-events: none;
+  }
+
+  #cal-embed {
+    min-height: 480px;
+    width: 100%;
+  }
+
+  /* footer */
+  .bk-footer {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 2rem 4rem;
+    border-top: 1px solid var(--bk-muted);
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 0.7rem;
+    color: var(--bk-muted);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  .bk-footer a {
+    color: var(--bk-muted);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.2s;
+  }
+
+  .bk-footer a:hover {
+    border-bottom-color: var(--bk-accent);
+  }
+
+  /* responsive */
+  @media (max-width: 600px) {
+    .bk-header { padding: 3rem 1.25rem 2rem; }
+    .bk-embed-wrap { padding: 0 1.25rem 3rem; }
+    .bk-embed-frame { padding: 0.75rem; }
+    .bk-embed-frame::before { display: none; }
+    .bk-meta { flex-direction: column; gap: 0.75rem; }
+  }
+</style>
+
+<div class="booking-page">
+  <div class="bk-header">
+    <div class="bk-overline">Werner Hernani-Limarino</div>
+    <h1 class="bk-title">Book <span class="accent">a slot.</span></h1>
+    <hr class="bk-rule">
+    <p class="bk-description">
+      Consulting, research collaboration, or a conversation about Bolivia.
+      Pick a time that works — the calendar reads my availability live.
+    </p>
+    <div class="bk-meta">
+      <span>30 min default</span>
+      <span>Video or in-person CDMX</span>
+      <span>UTC−6 / America/Mexico_City</span>
+    </div>
+  </div>
+
+  <div class="bk-embed-wrap">
+    <div class="bk-embed-frame">
+      <div id="cal-embed"></div>
+    </div>
+  </div>
+
+  <div class="bk-footer">
+    <span>Powered by <a href="https://cal.com" target="_blank">Cal.com</a> — open source scheduling</span>
+    <span><a href="mailto:wernerhl@gmail.com">wernerhl@gmail.com</a></span>
+  </div>
+</div>
+
+<!-- Cal.com embed loader -->
+<script type="text/javascript">
+(function (C, A, L) {
+  let p = function (a, ar) { a.q.push(ar); };
+  let d = C.document;
+  C.Cal = C.Cal || function () {
+    let cal = C.Cal; let ar = arguments;
+    if (!cal.loaded) {
+      cal.ns = {}; cal.q = cal.q || [];
+      d.head.appendChild(d.createElement("script")).src = A;
+      cal.loaded = true;
+    }
+    if (ar[0] === L) {
+      const api = function () { p(api, arguments); };
+      const namespace = ar[1];
+      api.q = api.q || [];
+      typeof namespace === "string"
+        ? (cal.ns[namespace] = api) && p(api, ar)
+        : p(cal, ar);
+      return;
+    }
+    p(cal, ar);
+  };
+})(window, "https://app.cal.com/embed/embed.js", "init");
+
+Cal("init", { origin: "https://app.cal.com" });
+
+Cal("inline", {
+  elementOrSelector: "#cal-embed",
+  calLink: "wernerhl",
+  layout: "month_view",
+  config: {
+    theme: "light"
+  }
+});
+
+Cal("ui", {
+  styles: { branding: { brandColor: "#c23a22" } },
+  hideEventTypeDetails: false,
+  layout: "month_view"
+});
+</script>
+```

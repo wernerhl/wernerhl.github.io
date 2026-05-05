@@ -16,3 +16,11 @@
   font-size: 0.94rem;
 }
 .pub-list li .pub-source { color: #666; font-size: 0.87rem; }
+
+/* Visitor counter in footer */
+.visitor-counter {
+  font-size: 0.82rem;
+  color: rgba(240, 240, 240, 0.6);
+  letter-spacing: 0.03em;
+}
+.nav-footer-center { display: flex; justify-content: center; align-items: center; }

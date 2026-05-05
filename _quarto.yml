@@ -24,6 +24,8 @@ website:
         text: CV
       - href: code.qmd
         text: Code
+      - href: book.qmd
+        text: Book
     right:
       - icon: github
         href: https://github.com/wernerhl
@@ -33,6 +35,7 @@ website:
         href: es/index.qmd
   page-footer:
     left: "Werner L. Hernani-Limarino"
+    center: " "
     right: "wernerhl@gmail.com"
     background: "#1c2b4a"
   page-navigation: false
@@ -45,6 +48,7 @@ format:
     smooth-scroll: true
     link-external-newwindow: true
     include-in-header: structured-data.html
+    include-after-body: counter.html
     grid:
       sidebar-width: 0px
       body-width: 900px
