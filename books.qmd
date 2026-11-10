@@ -125,6 +125,7 @@ Organized in seven parts, the book covers the matrix reformulation of standard m
 :::
 ::: {.book-links}
 [Download draft](files/structural_economics.pdf){.book-link}
+[Solutions manual](files/structural_economics_solutions_manual.pdf){.book-link}
 :::
 :::
 :::

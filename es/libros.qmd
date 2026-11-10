@@ -129,6 +129,7 @@ Organizado en siete partes, el libro cubre la reformulación matricial de la mic
 :::
 ::: {.book-links}
 [Descargar borrador](../files/structural_economics.pdf){.book-link}
+[Manual de soluciones (en inglés)](../files/structural_economics_solutions_manual.pdf){.book-link}
 :::
 :::
 :::
