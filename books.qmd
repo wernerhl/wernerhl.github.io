@@ -19,22 +19,20 @@ Books
 Mi Otro Género
 :::
 ::: {.book-subtitle}
-Un ejercicio contrafactual sobre la vida que el género te negó
+Hermanas, hermanos y la formación e imposición de las normas que los separan
 :::
 ::: {.book-meta}
-With Alejandra Villegas Gutierrez · Primera edición · 2026
+With Alejandra Villegas Gutierrez · Desigualdad en Bolivia, vol. 1 · Primera edición · 2026
 :::
 ::: {.book-summary}
-Carla and Carlos were born on the same day, to the same parents, in the same neighborhood of La Paz. Thirty-two years later, Carlos is a civil engineer with a stable salary; Carla dropped out of university when she got pregnant and now works part-time selling clothes by catalog. What part of that divergence is due to the chromosome?
+In Bolivia, young sisters now study more than their brothers, yet within families where both still live they are employed less often. In the 2024 census the gap is 9.6 percentage points, down from 38 in 1976 and 9.4 in 2001, after which it barely fell while women's schooling, mothers' employment and legal equality kept advancing.
 
-*Mi Otro Género* asks that question with economic rigor and answers it with three layers of evidence: population-level estimates from Bolivian national surveys, within-pair comparisons of opposite-sex fraternal twins, and structured interviews with those same twins. Each layer answers a different question — *how much*, *how much of it is gender*, and *how*. Bolivia is the laboratory: a country where legislative gender parity coexists with some of the most persistent gender norms in Latin America, where a woman can hold a seat in parliament and still be unable to decide whether to use contraception.
-
-The book measures the cost of gender assignment in both directions — what women lose *and* what men forgo — treating both as rational agents navigating a system of constraints they did not choose.
+*Mi otro género* asks why. It separates two reasons: formation, what a daughter learns to want and expect, and imposition, what other people or rules decide for her. It tests each by comparing sisters and brothers raised in the same household in the censuses of Bolivia, Peru and Mexico. The evidence places part of the remaining gap in how time and care are assigned inside the home, which no reform of the period reached and which Bolivian statistics do not yet measure in hours. The book is written in Spanish.
 :::
 ::: {.book-links}
+[Book page](mi-otro-genero.qmd){.book-link .book-link-buy}
 [Download book](files/mi_otro_genero.pdf){.book-link}
-[Slides (EN)](files/mi_otro_genero_slides_EN.pdf){.book-link}
-[Slides (ES)](files/mi_otro_genero_slides_ES.pdf){.book-link}
+[Read a sample](files/mi_otro_genero_muestra.pdf){.book-link}
 :::
 :::
 :::
