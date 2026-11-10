@@ -1,13 +1,43 @@
 ---
 title: "Books"
 pagetitle: "Books — Werner L. Hernani-Limarino"
-description: "Books on social mobility in Bolivia, gender inequality, structural economics, food history, and impact evaluation of social protection policies in Latin America."
+description: "Books on the distribution of Bolivia's 2025 crisis and adjustment, social mobility in Bolivia, gender inequality, structural economics, food history, and impact evaluation of social protection policies in Latin America."
 toc: false
 ---
 
 ::: {.section-rule}
 Books
 :::
+
+<!-- ── La distribución de la crisis ── -->
+::: {.book-card}
+::: {.book-cover}
+![](images/covers/la_distribucion_de_la_crisis.jpg)
+:::
+::: {.book-info}
+::: {.book-title}
+La distribución de la crisis
+:::
+::: {.book-subtitle}
+Ganadores y perdedores del ajuste en Bolivia
+:::
+::: {.book-meta}
+Draft for comments · 2026
+:::
+::: {.book-summary}
+In 2025 moderate poverty in Bolivia rose from 38.1% to 44.7% of the population, which added 808,000 poor people in one year, an increase 3.5 times larger than during the pandemic. *La distribución de la crisis* measures how the costs of the 2025 crisis and of the adjustment that followed were shared among Bolivian households: who lost, who gained, how long the losses last, and which policies can reduce them within the fiscal path agreed with the IMF.
+
+The book measures the pandemic, the dollar shortage, the December 2025 fuel decree, the exchange-rate float and the 2026 recession in one unit, the loss of each household's real income relative to a normal period. Slightly more than half of the 2025 rise in poverty came from food prices rising faster than the consumer price index, and about a third from the fall in real labor earnings. The new poor lived mostly in cities, in lower-middle-income households close to the poverty line. These households received fewer of the rents created by official prices than better-off households and, relative to their losses, less compensation than the poorest. They received less and paid more.
+
+The book projects moderate poverty of 46.3% in 2026 and sets out scenarios for 2027 and 2028 that depend on the IMF program. It compares the 2026 transfers with a regular transfer that fills the income gap of the poorest households, and it shows that cutting social benefits raises poverty more per point of GDP saved than any other fiscal instrument. The book is written in Spanish.
+:::
+::: {.book-links}
+[Download book (Spanish)](files/la_distribucion_de_la_crisis.pdf){.book-link}
+:::
+:::
+:::
+
+---
 
 <!-- ── Mi Otro Género ── -->
 ::: {.book-card}

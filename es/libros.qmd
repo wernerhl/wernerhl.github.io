@@ -13,6 +13,36 @@ lang: es
 Libros
 :::
 
+<!-- ── La distribución de la crisis ── -->
+::: {.book-card}
+::: {.book-cover}
+![](../images/covers/la_distribucion_de_la_crisis.jpg)
+:::
+::: {.book-info}
+::: {.book-title}
+La distribución de la crisis
+:::
+::: {.book-subtitle}
+Ganadores y perdedores del ajuste en Bolivia
+:::
+::: {.book-meta}
+Borrador para comentarios · 2026
+:::
+::: {.book-summary}
+En 2025 la pobreza moderada en Bolivia subió de 38,1% a 44,7% de la población, lo que sumó 808 mil personas pobres en un año, un aumento 3,5 veces mayor que el de la pandemia. *La distribución de la crisis* mide cómo se repartieron entre los hogares bolivianos los costos de la crisis de 2025 y del ajuste posterior: quiénes perdieron, quiénes ganaron, cuánto duran las pérdidas y qué instrumentos de política pueden reducirlas dentro de la trayectoria fiscal acordada con el FMI.
+
+El libro mide la pandemia, la escasez de dólares, el decreto de combustibles de diciembre de 2025, la flotación cambiaria y la recesión de 2026 con una sola unidad, la pérdida de ingreso real de cada hogar frente a un periodo normal. Algo más de la mitad del aumento de la pobreza de 2025 se debe a que los alimentos se encarecieron más que el índice de precios al consumidor, y alrededor de un tercio a la caída del ingreso laboral real. Los nuevos pobres vivían sobre todo en las ciudades, en hogares de ingreso medio bajo cercanos a la línea de pobreza. Esos hogares recibieron menos rentas de los precios oficiales que los estratos altos y, en relación con su pérdida, menos compensación que los más pobres. Son quienes recibieron menos y pagaron más.
+
+El libro proyecta una pobreza moderada de 46,3% en 2026 y plantea escenarios para 2027 y 2028 condicionados al programa con el FMI. Compara las transferencias de 2026 con una transferencia regular que llene la brecha de ingreso de los hogares más pobres, y muestra que recortar las prestaciones sociales es el instrumento fiscal que más aumenta la pobreza por cada punto del PIB ahorrado.
+:::
+::: {.book-links}
+[Descargar libro](../files/la_distribucion_de_la_crisis.pdf){.book-link}
+:::
+:::
+:::
+
+---
+
 <!-- ── Mi Otro Género ── -->
 ::: {.book-card}
 ::: {.book-cover}
