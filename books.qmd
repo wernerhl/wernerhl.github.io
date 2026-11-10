@@ -30,9 +30,9 @@ In Bolivia, young sisters now study more than their brothers, yet within familie
 *Mi otro género* asks why. It separates two reasons: formation, what a daughter learns to want and expect, and imposition, what other people or rules decide for her. It tests each by comparing sisters and brothers raised in the same household in the censuses of Bolivia, Peru and Mexico. The evidence places part of the remaining gap in how time and care are assigned inside the home, which no reform of the period reached and which Bolivian statistics do not yet measure in hours. The book is written in Spanish.
 :::
 ::: {.book-links}
-[Book page](mi-otro-genero.qmd){.book-link .book-link-buy}
-[Download book](files/mi_otro_genero.pdf){.book-link}
-[Read a sample](files/mi_otro_genero_muestra.pdf){.book-link}
+[Book page](mi-otro-genero/en/){.book-link .book-link-buy}
+[Download book (Spanish)](mi-otro-genero/mi-otro-genero.pdf){.book-link}
+[Read a sample (Spanish)](mi-otro-genero/mi-otro-genero-muestra.pdf){.book-link}
 :::
 :::
 :::
@@ -62,7 +62,7 @@ The book introduces the *mobility landscape* as its central metaphor and analyti
 The final section asks an uncomfortable question: who benefits from immobility? Using evidence from Bolivia's 1990s natural experiment, the book identifies the actors, the four mechanisms through which advantage is reproduced, and what a targeted connectivity policy — built on the LADDER/GATE classification of municipalities — would cost and deliver.
 :::
 ::: {.book-links}
-[Download book](files/el_paisaje_roto.pdf){.book-link}
+[Download book (Spanish)](files/el_paisaje_roto.pdf){.book-link}
 [Slides (EN)](files/slides_between_within_EN.pdf){.book-link}
 [Slides (ES)](files/slides_entre_dentro_ES.pdf){.book-link}
 :::

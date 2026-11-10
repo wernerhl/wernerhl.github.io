@@ -5,6 +5,9 @@ project:
     - googled9da81be1208eed8.html
     - robots.txt
     - sitemap.xml
+    - mi-otro-genero.html
+    - es/mi-otro-genero.html
+    - mi-otro-genero/**
 
 website:
   title: "Werner L. Hernani-Limarino"

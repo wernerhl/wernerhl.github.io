@@ -34,9 +34,9 @@ En Bolivia, las hermanas jóvenes llegaron a estudiar más que sus hermanos, per
 *Mi otro género* pregunta por qué. Distingue dos razones: la formación, lo que una hija aprende a querer y a esperar, y la imposición, lo que otras personas o ciertas reglas deciden por ella. Pone a prueba cada una al comparar a hermanas y hermanos criados en el mismo hogar en los censos de Bolivia, Perú y México. La evidencia ubica una parte de la diferencia que queda en la asignación del tiempo y del cuidado dentro del hogar, un ámbito que ninguna reforma del periodo alcanzó y que las estadísticas bolivianas todavía no miden en horas.
 :::
 ::: {.book-links}
-[Página del libro](mi-otro-genero.qmd){.book-link .book-link-buy}
-[Descargar libro](../files/mi_otro_genero.pdf){.book-link}
-[Leer una muestra](../files/mi_otro_genero_muestra.pdf){.book-link}
+[Página del libro](../mi-otro-genero/){.book-link .book-link-buy}
+[Descargar libro](../mi-otro-genero/mi-otro-genero.pdf){.book-link}
+[Leer una muestra](../mi-otro-genero/mi-otro-genero-muestra.pdf){.book-link}
 :::
 :::
 :::
