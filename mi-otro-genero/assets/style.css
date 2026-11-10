@@ -48,6 +48,8 @@ a:focus-visible, summary:focus-visible { outline: 3px solid var(--amber); outlin
   padding: 0 24px;
 }
 
+main { padding-bottom: 4.5rem; }
+
 .hero {
   background: linear-gradient(180deg, var(--navy-deep) 0%, var(--navy) 100%);
   color: #fff;
@@ -152,7 +154,7 @@ a:focus-visible, summary:focus-visible { outline: 3px solid var(--amber); outlin
   margin: 0;
   padding: 0;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
 }
 .figures li { padding: 30px 28px 30px 0; }
 .figures li + li { padding-left: 28px; border-left: 1px solid var(--line); }
@@ -304,23 +306,10 @@ details.bib pre {
 .people p { margin-bottom: 0.7rem; }
 .links { font-family: var(--sans); font-size: 0.9rem; }
 
-footer {
-  margin-top: 4rem;
-  background: var(--navy-deep);
-  color: rgba(255, 255, 255, 0.8);
-  font-family: var(--sans);
-  font-size: 0.88rem;
-  padding: 1.8rem 0;
-}
-footer .wrap { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.6rem 2rem; }
-footer a { color: #fff; }
 
 @media (max-width: 900px) {
   .hero-grid { grid-template-columns: 220px 1fr; gap: 36px; padding: 40px 0 48px; }
   .hero h1 { font-size: 2.7rem; }
-  .figures ul { grid-template-columns: 1fr 1fr; }
-  .figures li:nth-child(3) { padding-left: 0; border-left: 0; }
-  .figures li:nth-child(n+3) { border-top: 1px solid var(--line); }
 }
 
 @media (max-width: 680px) {
@@ -332,14 +321,14 @@ footer a { color: #fff; }
   .subtitle { font-size: 1.2rem; }
   .topbar nav a:not(.lang) { display: none; }
   .two, .parts, .people { grid-template-columns: 1fr; }
+  .figures ul { grid-template-columns: 1fr; }
   .figures .n { font-size: 1.9rem; }
-  .figures li { padding-right: 14px; }
-  .figures li + li { padding-left: 16px; }
-  .figures li:nth-child(3) { padding-left: 0; }
+  .figures li, .figures li + li { padding: 20px 0; border-left: 0; }
+  .figures li + li { border-top: 1px solid var(--line); }
 }
 
 @media print {
-  .topbar, .buttons, footer { display: none; }
+  .topbar, .buttons { display: none; }
   .hero { background: none; color: #000; }
   .hero * { color: #000 !important; }
 }
