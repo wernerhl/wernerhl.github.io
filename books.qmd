@@ -93,6 +93,8 @@ The book also examines the legacy of the hacienda, mestizaje, the differences be
 :::
 ::: {.book-links}
 [Download book (Spanish)](files/medio_siglo_movilidad_social_bolivia.pdf){.book-link}
+[Slides (EN)](files/medio_siglo_slides_EN.pdf){.book-link}
+[Slides (ES)](files/medio_siglo_slides_ES.pdf){.book-link}
 :::
 :::
 :::

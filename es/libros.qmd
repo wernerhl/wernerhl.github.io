@@ -97,6 +97,8 @@ El libro examina además el legado de la hacienda, el mestizaje, las diferencias
 :::
 ::: {.book-links}
 [Descargar libro](../files/medio_siglo_movilidad_social_bolivia.pdf){.book-link}
+[Presentación (ES)](../files/medio_siglo_slides_ES.pdf){.book-link}
+[Presentación (EN)](../files/medio_siglo_slides_EN.pdf){.book-link}
 :::
 :::
 :::
