@@ -73,32 +73,30 @@ En Bolivia, las hermanas jóvenes llegaron a estudiar más que sus hermanos, per
 
 ---
 
-<!-- ── El Paisaje Roto ── -->
+<!-- ── Medio siglo de movilidad social en Bolivia ── -->
 ::: {.book-card}
 ::: {.book-cover}
-![](../images/covers/el_paisaje_roto.jpg)
+![](../images/covers/medio_siglo_movilidad.jpg)
 :::
 ::: {.book-info}
 ::: {.book-title}
-El Paisaje Roto
+Medio siglo de movilidad social en Bolivia
 :::
 ::: {.book-subtitle}
-Movilidad social en Bolivia
+Cinco censos, 1976–2024
 :::
 ::: {.book-meta}
-2026
+Desigualdad en Bolivia · Primera edición · 2026
 :::
 ::: {.book-summary}
-Bolivia pasó medio siglo construyendo escuelas, extendiendo caminos y aprobando reformas. Y sin embargo, dónde naces sigue determinando en gran medida dónde terminas. *El Paisaje Roto* pregunta por qué, y mapea la respuesta a través de los 339 municipios, cinco rondas censales (1976–2024) y cuatro dimensiones de estratificación: geografía, etnicidad, género y migración.
+Entre 1976 y 2024 Bolivia pasó de ser un país en el que la mitad de los adultos nunca había asistido a la escuela a uno en el que casi todos los niños asisten a ella, y en el que siete u ocho de cada diez jóvenes estudian más que sus padres. *Medio siglo de movilidad social en Bolivia* pregunta si esos avances cambiaron el orden en que se ubican las familias, es decir, si el lugar que una persona ocupa entre sus contemporáneos depende hoy menos que antes del lugar que ocupaban sus padres. Con los cinco censos de población del período, las Encuestas de Hogares, las encuestas de opinión regionales y los registros públicos de ministros, legisladores y planillas, el libro mide la herencia comparando a cada persona con su propia generación, lo que permite separar la expansión de la escuela de la reducción de la herencia.
 
-El libro introduce el *paisaje de movilidad* como su metáfora central y herramienta analítica: un terreno de pendientes y portones. Las pendientes miden cuán empinado es el ascenso de una generación a la siguiente; los portones miden cuán firmemente está sellada la cima. Bolivia tiene dos trampas distintas — una trampa de pobreza que mantiene estancado al fondo, y una trampa de privilegio que mantiene cerrada la cúspide — y operan a través de mecanismos diferentes y requieren políticas distintas.
+La respuesta tiene dos partes. En la escolaridad, la herencia se redujo en dos quintas partes, sobre todo por la convergencia entre el campo y la ciudad. Fuera de la escuela, en cambio, la ventaja de los hijos de padres con más escolaridad para concluir la universidad, ejercer las profesiones de mayor prestigio y llegar a una ocupación profesional con los mismos estudios es hoy mayor que hace cincuenta años, y el acceso al empleo público favorece a los hijos de quienes ya trabajan en él bajo gobiernos de distinto signo.
 
-La sección final plantea una pregunta incómoda: ¿quién se beneficia de la inmovilidad? Usando evidencia del experimento natural boliviano de los años 90, el libro identifica los actores, los cuatro mecanismos a través de los cuales se reproduce la ventaja, y lo que costaría y produciría una política de conectividad focalizada — construida sobre la clasificación ESCALERA/PORTÓN de los municipios.
+El libro examina además el legado de la hacienda, el mestizaje, las diferencias entre hijas e hijos, la migración y la educación inicial, y propone políticas para abrir la parte alta de la distribución y elevar su base, financiadas con impuestos a las herencias y a las grandes fortunas.
 :::
 ::: {.book-links}
-[Descargar libro](../files/el_paisaje_roto.pdf){.book-link}
-[Presentación (EN)](../files/slides_between_within_EN.pdf){.book-link}
-[Presentación (ES)](../files/slides_entre_dentro_ES.pdf){.book-link}
+[Descargar libro](../files/medio_siglo_movilidad_social_bolivia.pdf){.book-link}
 :::
 :::
 :::

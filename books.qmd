@@ -69,32 +69,30 @@ In Bolivia, young sisters now study more than their brothers, yet within familie
 
 ---
 
-<!-- ── El Paisaje Roto ── -->
+<!-- ── Medio siglo de movilidad social en Bolivia ── -->
 ::: {.book-card}
 ::: {.book-cover}
-![](images/covers/el_paisaje_roto.jpg)
+![](images/covers/medio_siglo_movilidad.jpg)
 :::
 ::: {.book-info}
 ::: {.book-title}
-El Paisaje Roto
+Medio siglo de movilidad social en Bolivia
 :::
 ::: {.book-subtitle}
-Movilidad social en Bolivia
+Cinco censos, 1976–2024
 :::
 ::: {.book-meta}
-2026
+Desigualdad en Bolivia · Primera edición · 2026
 :::
 ::: {.book-summary}
-Bolivia spent half a century building schools, extending roads, and passing reforms. And yet, where you are born still largely determines where you end up. *El Paisaje Roto* asks why — and maps the answer across all 339 municipalities, five census rounds (1976–2024), and four dimensions of stratification: geography, ethnicity, gender, and migration.
+Between 1976 and 2024 Bolivia went from a country where half of the adults had never attended school to one where almost every child goes to school, and seven or eight of every ten young people study more than their parents. *Medio siglo de movilidad social en Bolivia* asks whether these gains changed the order in which families stand, that is, whether a person's place among their contemporaries depends less than before on the place their parents held. With the five population censuses of the period, the household surveys, regional opinion surveys and the public records of ministers, legislators and state payrolls, the book measures inheritance by comparing each person with their own generation, which separates the expansion of schooling from the decline of inheritance.
 
-The book introduces the *mobility landscape* as its central metaphor and analytical tool: a terrain of slopes (*pendientes*) and gates (*portones*). Slopes measure how steep the climb from one generation to the next is; gates measure how firmly the top is sealed. Bolivia has two distinct traps — a poverty trap that keeps the bottom stuck, and a privilege trap that keeps the top closed — and they operate through different mechanisms and require different policies.
+The answer has two parts. In schooling, inheritance fell by two fifths, mostly because rural and urban areas converged. Outside school, the advantage of the children of more-schooled parents in completing university, entering the most prestigious professions and reaching a professional occupation with the same schooling is larger today than fifty years ago, and access to public employment favors the children of those who already work in it under governments of every political orientation.
 
-The final section asks an uncomfortable question: who benefits from immobility? Using evidence from Bolivia's 1990s natural experiment, the book identifies the actors, the four mechanisms through which advantage is reproduced, and what a targeted connectivity policy — built on the LADDER/GATE classification of municipalities — would cost and deliver.
+The book also examines the legacy of the hacienda, mestizaje, the differences between daughters and sons, migration and early childhood education, and proposes policies to open the top of the distribution and raise its floor, financed with taxes on inheritances and large fortunes. The book is written in Spanish.
 :::
 ::: {.book-links}
-[Download book (Spanish)](files/el_paisaje_roto.pdf){.book-link}
-[Slides (EN)](files/slides_between_within_EN.pdf){.book-link}
-[Slides (ES)](files/slides_entre_dentro_ES.pdf){.book-link}
+[Download book (Spanish)](files/medio_siglo_movilidad_social_bolivia.pdf){.book-link}
 :::
 :::
 :::
