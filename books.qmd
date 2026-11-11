@@ -33,6 +33,8 @@ The book projects moderate poverty of 46.3% in 2026 and sets out scenarios for 2
 :::
 ::: {.book-links}
 [Download book (Spanish)](files/la_distribucion_de_la_crisis.pdf){.book-link}
+[Slides (EN)](files/la_distribucion_de_la_crisis_slides_EN.pdf){.book-link}
+[Slides (ES)](files/la_distribucion_de_la_crisis_slides_ES.pdf){.book-link}
 :::
 :::
 :::
